@@ -68,9 +68,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Arcelopera"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-research"
-      url: "https://www.researchgate.net/profile/Carlos_Arce_Lopera"
    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: mailto:caarce@icesi.edu.co
@@ -83,9 +80,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/arcelopera"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Carlos_Arce_Lopera"
+
 
 defaults:
   # _posts
