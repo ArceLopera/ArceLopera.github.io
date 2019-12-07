@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Carlos Arce-Lopera"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "unnamed.jpg"
   bio    : "Associate Professor at Universidad Icesi"
   links:
     - label: "Website"
