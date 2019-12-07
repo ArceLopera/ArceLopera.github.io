@@ -62,18 +62,18 @@ author:
   avatar : "unnamed.jpg"
   bio    : "Associate Professor at Universidad Icesi"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ArceLopera"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Arcelopera"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-research"
+      url: "https://www.researchgate.net/profile/Carlos_Arce_Lopera"
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: mailto:caarce@icesi.edu.co
 
 footer:
   links:
