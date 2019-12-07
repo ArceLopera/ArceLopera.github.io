@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carlos Arce-Lopera"
+  name   : "Carlos Arce Lopera"
   avatar : "assets/images/unnamed.jpg"
   bio    : "Associate Professor at Universidad Icesi"
   links:
