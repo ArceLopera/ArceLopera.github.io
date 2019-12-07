@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Carlos Arce-Lopera"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Associate Professor at Universidad Icesi"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
