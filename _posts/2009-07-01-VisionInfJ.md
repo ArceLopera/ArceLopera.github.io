@@ -1,0 +1,13 @@
+---
+title: "Luminance Distribution Effects on the Perceived Freshness of Strawberries"
+date: 2009-07-01T12:34:30-04:00
+categories:
+  - Sensory Perception
+tags:
+  - Vegetable Freshness Perception
+  - Food Perception
+  - Conference
+---
+
+
+Arce-Lopera, C. A., Masuda, T., Wada, Y., Kimura, A., Dan, I., Okajima, K. (2009). Luminance Distribution Effects on the Perceived Freshness of Strawberries (pp. 34-37). Conference on Fundamental Research on Visual Information.
