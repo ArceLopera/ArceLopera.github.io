@@ -1,9 +1,11 @@
 main:
   - title: "By Year"
     url: /posts/
-  - title: "By Type"
+  - title: "Applications"
     url: /categories/
   - title: "Projects"
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "CV"
+     url: /cv/

@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /cv/
+title: "CV"
 ---
 <div style="text-align: justify"> 
 I am an Associate professor in the Faculty of Engineering at the Universidad Icesi. 
