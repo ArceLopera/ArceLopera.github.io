@@ -1,5 +1,5 @@
 main:
-  - title: "By Year"
+  - title: "Publications"
     url: /posts/
   - title: "Applications"
     url: /categories/
@@ -7,3 +7,5 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Collections"
+    url: /collection-archive/
