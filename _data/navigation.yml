@@ -1,11 +1,13 @@
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
-  - title: "Publications"
+  - title: "CV"
+    url: /cv/
+  - title: "RESEARCH"
     url: /posts/
-  - title: "Applications"
+  - title: "TEACHING"
     url: /categories/
-  - title: "Projects"
+  - title: "RESOURCES"
     url: /tags/
-  - title: "Collections"
+  - title: "PROJECTS"
     url: /collection-archive/
