@@ -2,9 +2,8 @@
 title: "Luminance distribution modifies the perceived freshness of strawberries"
 date: 2012-05-21T12:34:30-04:00
 categories:
-  - Article
-tags:
   - Sensory Perception
+tags:
   - Food Perception
 ---
 

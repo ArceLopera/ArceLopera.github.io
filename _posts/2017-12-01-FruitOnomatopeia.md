@@ -2,9 +2,8 @@
 title: "The French, German, and Spanish sound of eating fresh fruits and vegetables"
 date: 2017-12-01T12:34:30-04:00
 categories:
-  - Article
-tags:
   - Sensory Perception
+tags:
   - Food Perception
 ---
 

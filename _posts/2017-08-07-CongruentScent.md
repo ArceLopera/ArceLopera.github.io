@@ -2,9 +2,8 @@
 title: "Subject or object: a product’s scent congruent perspectives"
 date: 2017-08-07T12:34:30-04:00
 categories:
-  - Article
-tags:
   - Sensory Perception
+tags:
   - Food Perception
 ---
 

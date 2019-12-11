@@ -2,9 +2,8 @@
 title: "Image statistics on the age perception of human skin"
 date: 2013-02-01T12:34:30-04:00
 categories:
-  - Article
-tags:
   - Sensory Perception
+tags:
   - Skin Perception
 ---
 
