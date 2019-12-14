@@ -6,7 +6,7 @@ main:
   - title: "RESEARCH"
     url: /posts/
   - title: "TEACHING"
-    url: /categories/
+    url: /teaching/
   - title: "RESOURCES"
     url: /tags/
   - title: "PROJECTS"

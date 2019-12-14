@@ -1,6 +1,6 @@
 ---
-permalink: /cv/
-title: "CV"
+permalink: /teaching/
+title: "Teaching"
 ---
 ### Executive Summary
 <div style="text-align: justify"> 
