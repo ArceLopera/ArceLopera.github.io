@@ -10,8 +10,8 @@ title: "Teaching"
 
 **Undergraduate Course**
 
-- [09734 - Digital Communications]()                        (2019-02 to Present)
-- [09741 - Intelligent Environments]()                      (2014-01 to Present)
+- [09734 - Digital Communications](../DigiCom/)                        (2019-02 to Present)
+- [09741 - Intelligent Environments](../IntEnv/)                      (2014-01 to Present)
 
 ## Past Teaching
 - 09753 - Computational Photography                     (2015-02 to 2019-01)
