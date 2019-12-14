@@ -2,9 +2,11 @@
 title: "Image information influencing the online purchase intention of vegetables products"
 date: 2014-03-31T12:34:30-04:00
 categories:
-  - Sensory Perception
+  - System Development
 tags:
   - Food Perception
+  - Online E-commerce
+  - Retail
 ---
 
 
