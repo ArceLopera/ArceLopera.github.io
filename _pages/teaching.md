@@ -2,19 +2,17 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-### Executive Summary
-<div style="text-align: justify"> 
-Carlos Arce Lopera is a tenured Associate professor in the Faculty of Engineering at 
-<a href="https://www.icesi.edu.co/">Universidad Icesi</a>. 
-He leads the Perception-based Engineering Research Laboratory (PBE Research Lab) of the i2T Research group at Universidad Icesi. The PBE Research Lab consolidates findings from basic human sensory 
-perception into system and product design. His interdisciplinary research team regularly comprises a mix of 
-undergraduates and graduate students, and he supervises students from the Telecommunication Engineering, 
-the Software System Engineering and the Interactive Media Design program.
-</div>
+### Current Teaching
+####Graduate Course
+- 30089 - Research Methods                              (2014-01 to Present)
+####Undergraduate Course
 
-### Research Overview
-<div style="text-align: justify"> 
-The Perception-based Research Laboratory use engineering measuring and modelling techniques to predict high-order cognitive processes. 
-This research line includes developments in cognitive science, sensory perception, experimental psychology, 
-machine learning, artificial sensing, product design and consumer behaviour. 
-</div>
+- 09734 - Digital Communications                        (2019-02 to Present)
+- 09741 - Intelligent Environments                      (2014-01 to Present)
+
+### Past Teaching
+- 09753 - Computational Photography                     (2015-02 to 2019-01)
+- 09686 - Foundation on Programming for Designers 	    (2014-02)
+- 09651 - Designing with Algorithms and Lab			    (2013-02)
+- 09703 - Algorithms and programming I 	                (2013-01)
+
