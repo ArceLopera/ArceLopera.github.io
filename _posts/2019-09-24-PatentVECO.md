@@ -1,5 +1,5 @@
 ---
-title: "Technology-enhanced Training System for Reducing Separation Anxiety in Dogs"
+title: "System and Method for Automatically Counting of Mosquitoes"
 date: 2019-09-24T12:34:30-05:00
 
 categories:
