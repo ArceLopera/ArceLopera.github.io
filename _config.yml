@@ -33,6 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 teaser: /assets/images/Dog1.jpg
 include:
   - _pages
+  - _portfolio
 
 collections:
   portfolio:
@@ -88,7 +89,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: false
       comments: true
@@ -101,10 +102,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
@@ -117,5 +117,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collection_archive:
+    type: liquid
+    path: /portfolio/
 
 theme: jekyll-theme-minimal
