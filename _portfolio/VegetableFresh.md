@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Biodiversity Monitoring"
+excerpt: "Development of technological tools to enable biodiversity monitoring"
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
