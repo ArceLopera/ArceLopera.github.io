@@ -2,8 +2,8 @@
 title: "Biodiversity Monitoring"
 excerpt: "Development of technological tools to enable biodiversity monitoring"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/ColombiaPaisaje.jpg
+  teaser: /assets/images/bird1.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
