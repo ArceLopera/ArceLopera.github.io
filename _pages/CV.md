@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Research"
 ---
 ### Executive Summary
 <div style="text-align: justify"> 
