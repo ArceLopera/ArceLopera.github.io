@@ -2,11 +2,11 @@
 title: "Novel Interfaces"
 excerpt: "Development of Novel Interfaces"
 header:
-  image: /assets/images/novelHCI.jpg
-  teaser: /assets/images/dedo.jpg
+  image: /assets/images/retail.jpg
+  teaser: /assets/images/retail.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/dedo.jpg
+    image: /assets/images/retail.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
