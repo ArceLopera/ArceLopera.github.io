@@ -2,11 +2,11 @@
 title: "Education and Technology"
 excerpt: "Development of technological tools to enable smart educational environments"
 header:
-  image: /assets/images/ColombiaPaisaje.jpg
+  image: /assets/images/EduTech.jpg
   teaser: /assets/images/EduTech.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/bird1.jpg
+    image: /assets/images/EduTech.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
