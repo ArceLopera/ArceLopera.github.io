@@ -3,10 +3,10 @@ title: "Technology in Retail"
 excerpt: "Development of technological tools for usage in Retail"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
-  teaser: /assets/images/bird1.jpg
+  teaser: /assets/images/retail.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/bird1.jpg
+    image: /assets/images/retail.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
