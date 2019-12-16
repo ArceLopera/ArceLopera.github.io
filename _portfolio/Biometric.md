@@ -11,24 +11,16 @@ sidebar:
     text: "Development of Biometric Sensor and Feedback Systems"
   - title: "Applications"
     text: "Dog Anxiety Training System, In-Car Stress Detector"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
+Traffic accidents are the second cause of violent death in Colombia. 
+One of the most prominent factors affecting driver behavior is stress. 
+This project aims to develop a biometric interface using sensors built on open source hardware. 
+The interface will be able to collect and analyze the data from the driver, 
+and recognize the driver’s emotional state. Identifying different emotional states 
+will allow real-time feedback to the driver, so he can take corrective actions on time, 
+and avoid behaviors leading to a driving accident.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+
 
