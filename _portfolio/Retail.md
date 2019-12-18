@@ -5,12 +5,12 @@ header:
   image: /assets/images/ColombiaPaisaje.jpg
   teaser: /assets/images/retail.jpg
 sidebar:
-  - title: "Role"
+  - title: "Objective"
     image: /assets/images/retail.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "To design retail experiences that enhance brand recall and brand recognition using ambient technologies."
+  - title: "Activities"
+    text: "Retail Gamification, Smart Shelves and Multimodal Retail Experiences"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,12 +23,14 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Customer brand recognition is a critical factor in the retail environment. 
+Moreover, the use of technology in the retail context may create the opportunity 
+to build new shopping experiences to add value to the customer and enhance their engagement, 
+brand recall, and brand perception. Indeed, retail technology has been focusing on enhancing 
+the customer experience by reducing tasks and enabling marketers to bring more product information 
+in a less invasive and more entertaining manner to the costumer. The right usage of technology in 
+retail environments combine Omni-channel interactions and careful selection of the stimuli to enable 
+successful design of shopping experiences. Therefore, particular attention to the design of new technology 
+interactions must be performed as to avoid customer rejection. Here, we tested ambient technologies and 
+mobile applications and engaging interactions that enable customers to increase their brand recognition and recall.
 
