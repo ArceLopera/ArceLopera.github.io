@@ -7,7 +7,14 @@ tags:
   - Skin Perception
 ---
 
+Recent research on the age‐dependent changes of facial skin has analyzed their correlation with changes in image and colorimetric properties using mainly first‐ and second‐order statistics. The aim of this study is to reveal the importance of third‐order statistics and relate those image properties to skin age perception.
 
+Photographs of the faces of 118 Japanese women ranging in age from 13 to 80 years were taken in a controlled environment. Subsequently, 10 Japanese subjects rated the age perception of skin patches from the cheek area of the original facial images.
+
+
+The age estimation of the skin patches was highly correlated with its chronological age proving that our skin patches contain enough information for age estimation. Also, the perceived age was significantly high correlated to color and lightness statistical values. Specifically, age perception was significantly high correlated with third‐order statistics of all channels in CIELAB1976.
+
+Our results reveal the importance of higher order statistics for the development of nonintrusive skin quality assessments of the skin.
 
 Check out the [Original Article][URL] 
 
