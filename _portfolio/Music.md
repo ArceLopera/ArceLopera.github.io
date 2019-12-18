@@ -1,16 +1,16 @@
 ---
 title: "Music Perception"
-excerpt: "Development of Novel Interfaces"
+excerpt: "Usage of machine learning to classify songs"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
   teaser: /assets/images/salsa.png
 sidebar:
-  - title: "Role"
+  - title: "Objective"
     image: /assets/images/salsa.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "To model music using machine learning techniques"
+  - title: "Applications"
+    text: "Modelling, Generation and Classification"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,12 +23,5 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Music perception is 
 

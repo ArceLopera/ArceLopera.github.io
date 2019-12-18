@@ -5,30 +5,24 @@ header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/novelHCI.jpg
 sidebar:
-  - title: "Role"
+  - title: "Objective"
     image: /assets/images/dedo.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: "To design human-interfaces for computers"
+  - title: "Applications"
+    text: "Wearable, Elastic, Tactile and Gesture-based Interfaces"
+
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
+Novel Interfaces use real environments in which computation is seamlessly used to 
+enhance ordinary activity. These intelligent environments need for the development
+of interfaces that are both embedded and multimodal allowing people to interact 
+with them in natural ways. This project aims for the design of new systems that 
+react to natural interaction with humans. Mainly, these systems employ innovative
+usage of sensing technology. Then, the signals are analyzed using pattern recognition 
+algorithms to classify agent behaviors. Finally, the system reacts accordingly giving
+a multimodal feedback that may initiate conversational interaction with the agent.
+The scope of this project is broad but do not include biometric feedback systems. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+
 
