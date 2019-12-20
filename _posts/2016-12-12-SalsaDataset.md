@@ -1,6 +1,8 @@
 ---
 title: "Salsa Dataset: First Salsa Music Knowledge Base"
 date: 2016-12-12T12:34:30-04:00
+header:
+   teaser: /assets/images/salsa.png
 categories:
   - Sensory Perception
 tags:
@@ -33,6 +35,9 @@ achieve this, we developed a software that extracts
 the pertinent acoustic information from songs
 belonging to users and then it includes them into the
 knowledge base.
+
+Sarria, G., Mora, M., Arce-Lopera, C. A. (2016). 
+Salsa Dataset: First Salsa Music Knowledge Base. Ricercare(5), 63-72
 
 Check out the [Original Article][URL] 
 

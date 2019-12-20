@@ -1,7 +1,8 @@
 ---
 title: "System and Method for Automatically Counting of Mosquitoes"
 date: 2019-09-24T12:34:30-05:00
-
+header:
+   teaser: /assets/images/mosquito.png
 categories:
   - System Development
 tags:
