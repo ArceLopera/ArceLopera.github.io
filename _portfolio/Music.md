@@ -23,5 +23,10 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Music perception is 
+Music affects human behavior and induce different emotions on them. However, it remains unclear 
+which variables of music design have greater impact on task performance and decision making. 
+This research project aims to analyze different music 
+design features and their respective induced emotional states and task performance on consumers. 
+The results will reveal if there are significant features in music design that modify decision 
+making depending on consumer profiles. 
 

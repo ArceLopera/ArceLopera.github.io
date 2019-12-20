@@ -1,9 +1,9 @@
 ---
 title: "Winners of the 2019 Humboldt Connection Prize"
-date: 2019-09-24T12:34:30-05:00
+date: 2019-10-26T12:34:30-05:00
 
 categories:
-  - System Development
+  - Award
 tags:
   - Novel Interfaces
   - Biodiversity Monitoring
