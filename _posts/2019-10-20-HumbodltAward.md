@@ -1,7 +1,8 @@
 ---
 title: "Winners of the 2019 Humboldt Connection Prize"
 date: 2019-10-26T12:34:30-05:00
-
+header:
+   teaser: /assets/images/bird1.jpg
 categories:
   - Award
 tags:
