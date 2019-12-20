@@ -5,7 +5,7 @@ categories:
   - Sensory Perception
 tags:
   - Music Perception
-  - Chapter
+
 ---
 The authors describe the importance of music design for background instrumental music and the effect
 on task performance. Three instrumental music conditions that differ in tempo, articulation, mode, and

@@ -1,34 +1,29 @@
 ---
 title: "Food Quality Perception"
-excerpt: "Development of Novel Interfaces"
+excerpt: "Basic Sensory Science for Food Perception"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
   teaser: /assets/images/Veggie.jpg
 sidebar:
-  - title: "Role"
+  - title: "Objective"
     image: /assets/images/Veggie.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "To model food perception"
+  - title: "Applications"
+    text: "Food Freshness and Quality Perception, Packaging and Product Classification"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/cabbage0h.jpg
+    image_path: assets/images/cabbage0h.jpg
+    alt: "Freshness"
+  - url: /assets/images/cabbage0h.jpg
+    image_path: assets/images/cabbage0h.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/cabbage0h.jpg
+    image_path: assets/images/cabbage0h.jpg
     alt: "placeholder image 3"
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
+Modelling the sensory influence on food perception is crucial for understanding human eating behavior.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Cabbage Degradation Process." %}
 

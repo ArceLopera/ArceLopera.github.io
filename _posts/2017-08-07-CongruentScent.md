@@ -4,7 +4,7 @@ date: 2017-08-07T12:34:30-04:00
 categories:
   - Sensory Perception
 tags:
-  - Food Perception
+  - Smell Perception
 ---
 The purpose of this paper is evaluate to what extent consumers can recognise a scent within a context that is congruent either with the product or with the user, respectively, objects’ quality or subjects’ involvement.
 

@@ -4,7 +4,8 @@ date: 2013-02-01T12:34:30-04:00
 categories:
   - Sensory Perception
 tags:
-  - Skin Perception
+  - Skin Age Perception
+
 ---
 
 Recent research on the age‐dependent changes of facial skin has analyzed their correlation with changes in image and colorimetric properties using mainly first‐ and second‐order statistics. The aim of this study is to reveal the importance of third‐order statistics and relate those image properties to skin age perception.

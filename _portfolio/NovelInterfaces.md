@@ -3,12 +3,12 @@ title: "Novel Interfaces"
 excerpt: "Development of Novel Interfaces"
 header:
   image: /assets/images/novelHCI.jpg
-  teaser: /assets/images/novelHCI.jpg
+  teaser: /assets/images/Dog1.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/dedo.jpg
+    image: /assets/images/Dog1.jpg
     image_alt: "logo"
-    text: "To design human-interfaces for computers"
+    text: "To design novel interfaces"
   - title: "Applications"
     text: "Wearable, Elastic, Tactile and Gesture-based Interfaces"
 
@@ -22,7 +22,7 @@ react to natural interaction with humans. Mainly, these systems employ innovativ
 usage of sensing technology. Then, the signals are analyzed using pattern recognition 
 algorithms to classify agent behaviors. Finally, the system reacts accordingly giving
 a multimodal feedback that may initiate conversational interaction with the agent.
-The scope of this project is broad but do not include biometric feedback systems. 
+ 
 
 
 

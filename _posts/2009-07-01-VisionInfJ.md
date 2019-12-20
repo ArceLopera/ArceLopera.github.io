@@ -6,7 +6,7 @@ categories:
 tags:
   - Vegetable Freshness Perception
   - Food Perception
-  - Conference
+
 ---
 
 
