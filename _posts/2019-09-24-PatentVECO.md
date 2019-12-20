@@ -8,7 +8,6 @@ tags:
   - Novel Interfaces
   - Patent
 ---
-**System and Method for Automatically Counting of Mosquitoes**
 
 Mosquitoes Counting System, Patent NC2017/0012483
 
