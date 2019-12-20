@@ -1,7 +1,8 @@
 ---
 title: "Winner of the 2011 YNU Travel Award for International Exchange Promotion"
 date: 2011-08-20T12:34:30-05:00
-
+header:
+   teaser: /assets/images/award.png
 categories:
   - Award
 tags:
