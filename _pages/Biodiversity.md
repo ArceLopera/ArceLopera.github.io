@@ -1,4 +1,5 @@
 ---
+permalink: /biodiversity/
 title: "Biodiversity Monitoring"
 excerpt: "Development of technological tools to enable biodiversity monitoring"
 header:

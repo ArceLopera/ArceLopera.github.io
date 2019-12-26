@@ -12,9 +12,11 @@ sidebar:
   - title: "Research Budget"
     text: "Awarded $96.473 USD"
 gallery:
-  - url: /assets/images/bird1.jpg
+  - url: /biodiversity/
+    image_path: /assets/images/bird1.jpg
     alt: "Acoustic Biodiversity Monitoring"
   - url: /assets/images/mosquito.png
+    image_path: /assets/images/mosquito.png
     alt: "Mosquito Counting"
 ---
 
@@ -24,5 +26,5 @@ conditions of humidity and temperature.
 This research project seeks to build technological systems capable of answering to the specific requirements
 of monitoring processes. 
 
-{% include gallery %}
+{% include gallery caption= "Current Projects" %}
 
