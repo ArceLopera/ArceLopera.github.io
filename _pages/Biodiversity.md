@@ -3,14 +3,15 @@ title: "Biodiversity Monitoring"
 excerpt: "Development of technological tools to enable biodiversity monitoring"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
-  teaser: /assets/images/bird1.jpg
+  teaser: /assets/images/Bird1.jpg
 sidebar:
-  - title: "Date"
-    image: /assets/images/bird1.jpg
+  - title: "Objective"
+    image: /assets/images/Bird1.jpg
     image_alt: "logo"
-    text: "2018-2020"
-  - title: "Interfaculty Research"
-    text: "Awarded $70.500 USD"
+    text: "Development of Biodiversity Monitoring Systems"
+  - title: "Keywords"
+    text: "Acoustic monitoring, Biodiversity, Microphone Array"
+
 ---
 
 Monitoring biodiversity in tropical environments is a challenging task, 
@@ -22,5 +23,6 @@ such as Colombia.
 This research project seeks to build a monitoring tool capable of resisting tropical extreme conditions. 
 The main idea is to develop an array of microphones to differentiate the species by triangulation of the sound 
 sources present in the monitoring area.
+
 
 
