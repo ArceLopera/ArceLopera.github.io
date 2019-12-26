@@ -2,7 +2,7 @@
 title: "Skin Quality Perception"
 excerpt: "E-Health Applications of Image Processing"
 header:
-  image: /assets/images/ColombiaPaisaje.jpg
+  image: /assets/images/cosmetics.bmp
   teaser: /assets/images/skin.jpg
 sidebar:
   - title: "Objective"
