@@ -1,5 +1,5 @@
 ---
-title: "Music Perception"
+title: "Music Perception and Classification"
 excerpt: "Usage of machine learning to classify songs"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
