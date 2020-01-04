@@ -6,7 +6,7 @@ header:
 categories:
   - Sensory Perception
 tags:
-  - Skin Age Perception
+  - Skin Quality Perception
 
 ---
 

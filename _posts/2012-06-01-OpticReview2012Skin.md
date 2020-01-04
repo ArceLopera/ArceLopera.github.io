@@ -6,7 +6,7 @@ header:
 categories:
   - Sensory Perception
 tags:
-  - Skin Age Perception
+  - Skin Quality Perception
 ---
 
 Age perception is a better biomarker of skin aging than chronological age. However, 
