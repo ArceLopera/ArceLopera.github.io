@@ -18,6 +18,9 @@ gallery:
   - url: /assets/images/mosquito.png
     image_path: /assets/images/mosquito.png
     alt: "Mosquito Counting"
+  - url: /assets/images/retail.jpg
+      image_path: /assets/images/retail.jpg
+      alt: "Technology in Retail"
 ---
 
 Monitoring processes require specialized systems adapted to the specific environment where the technology has to be deployed into. 
