@@ -11,16 +11,7 @@ sidebar:
     text: "To design experiences that enhance user engagement using ambient technologies."
   - title: "Activities"
     text: "Touristic accessibility enhancement, Retail gamification, Smart shelves and Multimodal retail experiences, Monitoring Sensor development"
-gallery:
-  - url: /MonitoringSensor/
-    image_path: /assets/images/bird1.jpg
-    alt: "Monitoring Systems"
-  - url: /assets/images/mosquito.png
-    image_path: /assets/images/mosquito.png
-    alt: "Mosquito Counting"
-  - url: /assets/images/retail.jpg
-      image_path: /assets/images/retail.jpg
-      alt: "Technology in Retail"
+
 ---
 
 Intelligent Environments use real environments in which computation is seamlessly used to enhance ordinary activity. 
@@ -29,7 +20,7 @@ to interact with them in natural ways. This project aims for the design of new s
 Mainly, these systems employ innovative usage of sensing technology. Then, the signals are analyzed using pattern recognition algorithms to classify agent behaviors. 
 Finally, the system reacts accordingly giving a multimodal feedback that may initiate conversational interaction with the agent.
 
-{% include gallery caption= " " %}
+
 
 ### Publications
 1.	Arce-Lopera, C. A., Jiménez, J., Montoya, C., Giraldo, J. (2019). Universal Design for Enhancing Accessibility of the Visually Impaired in Touristic Environments. (pp 514-521) Washington - USA. AHFE 2019. Advances in Intelligent Systems and Computing Volume 955.
