@@ -37,5 +37,5 @@ making depending on listener profiles.
 3.  Sarria, G.M., Diaz-Cely, J., Arce-Lopera, C. A. (2019) Analyzing and Extending the Salsa Dataset. Bucaramanga –Colombia. 2019 Symposium on Signal Processing, Images and Artificial Vision (STSIVA).
 4.  Rodriguez, B. M., Arce-Lopera, C. A., Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance (pp. 334-338). Lisboa: Iadis.
 5.  Arévalo, C., Sarria, G., Mora, M., Arce-Lopera, C. A.  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song. Miami: IEEE ISM. ieeexplore.ieee.org/document/7442337/
-6.  21.	Arce-Lopera, C. A., Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer, International Symposium on Computer Music Multidisciplinary Research (pp. 817-824).
+6.  Arce-Lopera, C. A., Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer, International Symposium on Computer Music Multidisciplinary Research (pp. 817-824).
 {: .notice--success}
