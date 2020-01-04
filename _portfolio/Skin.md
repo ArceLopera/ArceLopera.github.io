@@ -30,11 +30,12 @@ at the development of image processing techniques that allow to model skin quali
 using common optical measuring systems.
 
 ### Publications
-1.	Arce-Lopera, C. A., Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin. Skin Research and Technology, 19(1), 273-278.
-2.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Okajima, K. (2012). Effects of Diffuse and Specular Reflections on the Perceived Age of Facial Skin. Optical Review, 19(3), 167-173.
-3.  Arce-Lopera, C. A., Okajima, K., Igarashi, T., Nakao, K. (2012). Luminance Distribution Effects on the Visual Quality of Human Skin. Edinburgh: Lulu press
-4.  Arce-Lopera, C. A., Okajima, K., Igarashi, T. (2011). Effects of Luminance Distribution on Visual Quality of Human Skin (1st ed., vol. 23, pp. 74). VISION The Journal of the Vision Society of Japan.
-5.  Arce-Lopera, C. A., Okajima, K., Igarashi, T., Nakao, K. (2010). Luminance Statistics Effects on Skin Age Perception (187th ed.). International Federation of Societies of Cosmetic Chemists (IFSCC).
-6.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception. IEICE Technical Report IP 2009-71 (83rd ed., vol. 109, pp. 117-120). Sapporo - Hokkaido: The Institute of Electronics, Information and Communication Engineers.
+1.	Arce-Lopera, C. A., Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin (10th ed., vol. 14, pp. 461). Journal of Vision. www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95
+2.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin. Skin Research and Technology, 19(1), 273-278.
+3.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Okajima, K. (2012). Effects of Diffuse and Specular Reflections on the Perceived Age of Facial Skin. Optical Review, 19(3), 167-173.
+4.  Arce-Lopera, C. A., Okajima, K., Igarashi, T., Nakao, K. (2012). Luminance Distribution Effects on the Visual Quality of Human Skin. Edinburgh: Lulu press
+5.  Arce-Lopera, C. A., Okajima, K., Igarashi, T. (2011). Effects of Luminance Distribution on Visual Quality of Human Skin (1st ed., vol. 23, pp. 74). VISION The Journal of the Vision Society of Japan.
+6.  Arce-Lopera, C. A., Okajima, K., Igarashi, T., Nakao, K. (2010). Luminance Statistics Effects on Skin Age Perception (187th ed.). International Federation of Societies of Cosmetic Chemists (IFSCC).
+7.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception. IEICE Technical Report IP 2009-71 (83rd ed., vol. 109, pp. 117-120). Sapporo - Hokkaido: The Institute of Electronics, Information and Communication Engineers.
 {: .notice--success}
 
