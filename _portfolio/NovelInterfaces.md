@@ -25,4 +25,5 @@ with users by biometrical and behavioral pattern recognition using signal proces
 4.  Arce-Lopera, C. A., Gomez, A. (2018). User engagement through multimodal feedback and involvement in game design with a wearable interface (vol. 795, pp. 410-415). Advances in Intelligent Systems and Computing / Springer.
 5.  Arce-Lopera, C. A., Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance (vol. 588, pp. 250-257). Advances in Intelligent Systems and Computing / Springer
 6.  Manzano, A. M., Salamanca García, J. M., Arce-Lopera, C. A. (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems. Chicago: IEEE VIS.    
+7.  Arce-Lopera, C. A., Kobayashi, Y., Kan, A., Komori, O., Okajima, K., Fukuda, R., Wada, Y. (2010). Tactile Sense Presentation System for the Physically-disabled based on Image Information (pp. 31-34). Medical Information Processing System MIPS2009.
 {: .notice--success}

@@ -2,7 +2,6 @@
 title: "Music Perception and Classification"
 excerpt: "Usage of machine learning to classify songs"
 header:
-  image: /assets/images/ColombiaPaisaje.jpg
   teaser: /assets/images/salsa.png
 sidebar:
   - title: "Objective"
