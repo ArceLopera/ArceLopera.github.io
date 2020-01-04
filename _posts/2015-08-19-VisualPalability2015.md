@@ -7,6 +7,7 @@ categories:
   - Sensory Perception
 tags:
   - Food Perception
+  - Lighting Perception
 ---
 
 This study aims to reveal visual factors which determine the visual palatability of food dishes. 
