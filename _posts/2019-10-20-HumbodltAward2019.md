@@ -6,8 +6,8 @@ header:
 categories:
   - Award
 tags:
-  - Novel Interfaces
-  - Biodiversity Monitoring
+  - Intelligent Environments
+  - Monitoring 
 ---
 
 Two research projects won the 2019 Humboldt Connection Prize awarded by the Goethe Institut. Both projects are 
