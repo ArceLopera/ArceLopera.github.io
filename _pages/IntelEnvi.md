@@ -1,4 +1,5 @@
 ---
+permalink: /environ/
 title: "Intelligent Environments"
 excerpt: "Development of human-interfaces for computers"
 header:
