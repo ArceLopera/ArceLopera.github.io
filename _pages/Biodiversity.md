@@ -4,10 +4,10 @@ title: "Biodiversity Monitoring"
 excerpt: "Development of technological tools to enable biodiversity monitoring"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
-  teaser: /assets/images/Bird1.jpg
+  teaser: /assets/images/bird1.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/Bird1.jpg
+    image: /assets/images/bird1.jpg
     image_alt: "logo"
     text: "Development of Biodiversity Monitoring Systems"
   - title: "Keywords"
