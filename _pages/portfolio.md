@@ -1,5 +1,5 @@
 ---
-title: R&D Projects
+title: R&D Areas
 layout: collection
 permalink: /portfolio/
 collection: portfolio

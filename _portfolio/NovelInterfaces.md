@@ -18,7 +18,7 @@ This research area aims at the design and development of novel interfaces such a
 gesture-based, mobile, biometric and/or seamless interfaces between human and computers.
 While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction 
 with users by biometrical and/or behavioral pattern recognition using signal processing and analysis. 
-This research theme includes both hardware and software development. The applications include:
+This research area includes both hardware and software development. The applications include:
 1. Systems for [Biodiversity Monitoring](/biodiversity/)
 2. [Intelligent Environments](/environ/)
 3. Biometric User Behavior Monitoring 

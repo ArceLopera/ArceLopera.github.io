@@ -1,9 +1,7 @@
 main:
   - title: "ABOUT"
     url: /about/
-  - title: "RESEARCH"
-    url: /cv/
-  - title: "PROJECTS"
+  - title: "R&D"
     url: /portfolio/
   - title: "NEWS"
     url: /posts/
