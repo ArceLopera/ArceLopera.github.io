@@ -23,9 +23,13 @@ gallery:
       alt: "Technology in Retail"
 ---
 
-Monitoring processes require specialized systems adapted to the specific environment where the technology has to be deployed into. 
-For example, in tropical environments biodiversity monitoring tools are not well adapted to extreme conditions of humidity and temperature.  
-This research project seeks to build technological systems capable of answering to the specific requirements of monitoring processes.
+Monitoring processes require specialized systems adapted to the specific environment 
+where the technology has to be deployed into. 
+This research project seeks to build technological systems capable of answering to 
+the specific requirements of monitoring processes.
+Applications of the developments include:
+1. Systems for Biodiversity Monitoring(/biodiversity/)
+2. Systems for Consumer Behavior Monitoring ()
+3. Technology for retail()  
 
-{% include gallery caption= "Current Projects" %}
 

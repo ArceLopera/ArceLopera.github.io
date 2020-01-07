@@ -8,9 +8,9 @@ sidebar:
   - title: "Objective"
     image: /assets/images/Dog1.jpg
     image_alt: "logo"
-    text: "To design novel interfaces"
+    text: "To design and develop novel interfaces"
   - title: "Applications"
-    text: "Biometric Feedback Systems"
+    text: "Biometric Feedback Systems, Monitoring Sensor Development"
 
 ---
 
