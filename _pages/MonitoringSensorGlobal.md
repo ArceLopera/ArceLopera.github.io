@@ -1,4 +1,5 @@
 ---
+permalink: /monitoring/
 title: "Monitoring Sensor Development"
 excerpt: "Development of technological tools to enable monitoring processes"
 header:

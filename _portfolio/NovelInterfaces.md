@@ -16,7 +16,11 @@ sidebar:
 
 This research project aims at the design and development of novel interfaces such as wearable, elastic, tactile and gesture-based interfaces. 
 While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction 
-with users by biometrical and behavioral pattern recognition using signal processing and analysis. 
+with users by biometrical and/or behavioral pattern recognition using signal processing and analysis. 
+This research theme includes both hardware and software development. 
+The main applications have been to develop [monitoring processes][URL] 
+                                                                                                                                                  
+[URL]:/monitoring/ 
 
 ### Publications
 1.	Arce-Lopera, C. A., Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs. Orlando - USA. HCII 2019. CCIS 1034, pp 434-439.
