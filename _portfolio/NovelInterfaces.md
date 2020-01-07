@@ -14,14 +14,17 @@ sidebar:
 
 ---
 
-This research project aims at the design and development of novel interfaces such as wearable, elastic, tactile and gesture-based interfaces. 
+This research project aims at the design and development of novel interfaces such as wearable, elastic, tactile and 
+gesture-based interfaces. 
 While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction 
 with users by biometrical and/or behavioral pattern recognition using signal processing and analysis. 
-This research theme includes both hardware and software development. 
-The main applications have been to develop [monitoring processes][URL] 
-                                                                                                                                                  
-[URL]:/monitoring/ 
+This research theme includes both hardware and software development. The applications of the developments include:
+1. Systems for [Biodiversity Monitoring](/biodiversity/)
+2. Biometric User Behavior Monitoring 
+3. Technology In Retail
+4. Wearable and Gaming Interface Technology  
 
+                                                                                                                                                  
 ### Publications
 1.	Arce-Lopera, C. A., Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs. Orlando - USA. HCII 2019. CCIS 1034, pp 434-439.
 2.  Madrid, J.M., Lasso, F., Arce-Lopera, C. A. (2018). Biometric interface for driver’s stress detection and awareness. (pp 132 -136) Toronto-Canada. Adjunct Proceedings of the 10th International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications
