@@ -28,7 +28,7 @@ Understanding the human behavior when food quality is perceived can reveal the m
 that closely relate sensory processing to perceptual experience. Indeed, food quality perception 
 is cross-modal and reflect complex associations among sensory modalities learned through experience. 
 
-The purpose of the project is to model the effects of specific characteristics of visual information on the 
+The purpose of the project is to model the effects of specific characteristics of sensory information on the 
 perception of food quality. Research methodology will consist on employing carefully designed sensory stimuli 
 and perform psychophysical experimentation to test the human ability to decide about the quality of food. 
 The project will focus on visual information, such as luminance and color distribution, visual patterns, shape, 
