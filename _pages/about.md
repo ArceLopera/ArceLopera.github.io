@@ -34,6 +34,7 @@ of three main research fields:
    <li>machine learning </li>
    <li>human perception</li>
  </ul>
+ 
 His interdisciplinary research team regularly comprises a mix of 
 undergraduates and graduate students, and he supervises students from the Telecommunication Engineering, 
 the Software System Engineering and the Interactive Media Design program.
