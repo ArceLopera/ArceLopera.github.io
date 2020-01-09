@@ -26,7 +26,6 @@ The Sensory Perception Engineering Laboratory use engineering measuring and mode
 high-order cognitive processes. 
 This research line includes developments in cognitive science, sensory perception, experimental psychology, 
 machine learning, artificial sensing, product design and consumer behaviour. 
-</div>
 
 Current research explores the design, implementation and evaluation of novel systems in the intersection 
 of three main research fields: 
