@@ -18,7 +18,9 @@ Tenured Associate professor in the Faculty of Engineering at
 Leader of the Sensory Perception Engineering Laboratory (SPE Lab) part of the i2T Research group at Universidad Icesi. 
 The SPE Lab consolidates findings from basic human sensory perception into system and product design. 
 
+
 ### Research Overview
+
 <div style="text-align: justify"> 
 The Sensory Perception Engineering Laboratory use engineering measuring and modelling techniques to predict 
 high-order cognitive processes. 
