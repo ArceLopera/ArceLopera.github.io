@@ -11,7 +11,7 @@ title: "Teaching"
 **Undergraduate Course**
 
 - [09734 - Digital Communications](../DigiCom/)                        (2019-02 to Present)
-- [09741 - Operating Systems](../course_OS/)                              (2020-02 to Present)
+- [09627 - Operating Systems](../course_OS/)                              (2020-02 to Present)
 
 ## Past Teaching
 - [09741 - Intelligent Environments](../IntEnv/)        (2014-01 to 2019-02)
