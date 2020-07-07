@@ -11,7 +11,7 @@ sidebar:
     text: "To model food perception"
   - title: "Applications"
     text: "Food Freshness and Quality Perception, Packaging and Product Classification"
-gallery1:
+gallery:
   - url: /assets/images/cabbage0h.jpg
     image_path: assets/images/cabbage0h.jpg
     alt: "Freshness at 0 h"
@@ -21,10 +21,7 @@ gallery1:
   - url: /assets/images/cabbage8h.bmp
     image_path: assets/images/cabbage8h.bmp
     alt: "Freshness at 8h"
-gallery2:
-  - url: /assets/images/coke.png
-    image_path: assets/images/coke.png
-    alt: "Silhouette"
+
 ---
 
 Food has some of the most common textures that we perceive on a daily basis. 
@@ -45,7 +42,7 @@ mechanisms such as pattern and material recognition.
 
 ## Vegetable Freshness Perception
 
-{% include gallery1 caption="Cabbage Degradation Process." %}
+{% include gallery caption="Cabbage Degradation Process." %}
 ### Publications
 1.	Arce-Lopera, C. A., Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables. Data in Brief. https://doi.org/10.1016/j.dib.2019.105079
 2.	Arboleda, A. M., Arce-Lopera, C. A. (2017). The French, German, and Spanish sound of eating fresh fruits and vegetables. Food Research International, 102, 171-175. www.sciencedirect.com/science/article/pii/S0963996917306129?via%3Dihub
@@ -60,7 +57,7 @@ mechanisms such as pattern and material recognition.
 
 ## Bottle Package Perception
 
-{% include gallery2 caption="Bottle Silhouettes." %}
+
 ### Publications
 
  1.	Arboleda, A. M., Arce-Lopera, C. A. (2020). The perceived sweetness and price of bottled drinks’ silhouettes. Food Quality and Preference, 82(June). 10.1016/j.foodqual.2019.103867
