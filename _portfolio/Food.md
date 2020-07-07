@@ -21,7 +21,7 @@ gallery1:
   - url: /assets/images/cabbage8h.bmp
     image_path: assets/images/cabbage8h.bmp
     alt: "Freshness at 8h"
-gallery1:
+gallery2:
   - url: /assets/images/coke.png
     image_path: assets/images/coke.png
     alt: "Freshness at 0 h"
