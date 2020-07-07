@@ -58,8 +58,8 @@ mechanisms such as pattern and material recognition.
 
 ### Publications
 
- 1.	Arboleda, A. M., Arce-Lopera, C. A. (2019). The perceived sweetness and price of bottled drinks’ silhouettes. Food Quality and Preference. In press
- 2.	Arboleda, A. M., Arce-Lopera, C. A. (2019). Code and Data on the categorization of soft-drink bottles using image silhouettes. Data in Brief. 22, 590-594. doi.org/10.1016/j.dib.2018.12.068
+ 1.	Arboleda, A. M., Arce-Lopera, C. A. (2020). The perceived sweetness and price of bottled drinks’ silhouettes. Food Quality and Preference, 82(June). 10.1016/j.foodqual.2019.103867
+ 2.	Arboleda, A. M., Arce-Lopera, C. A. (2019). Code and Data on the categorization of soft-drink bottles using image silhouettes. Data in Brief. 22, 590-594. 10.1016/j.dib.2018.12.068
  3.	Arboleda, A. M., Arce-Lopera, C. A. (2015). Quantitative Analysis of Product Categorization in Soft Drinks Using Bottle Silhouettes. Food Quality and Preference, 45(October), 1-10. 10.1016/j.foodqual.2015.04.006
 {: .notice--info}
 
