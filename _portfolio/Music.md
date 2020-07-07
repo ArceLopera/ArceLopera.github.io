@@ -1,6 +1,6 @@
 ---
 title: "Music Perception and Classification"
-excerpt: "Usage of machine learning to classify songs"
+excerpt: "Machine learning and Signal Processing 4 Music Creation and Understanding"
 header:
   teaser: /assets/images/salsa.png
 sidebar:
@@ -24,10 +24,9 @@ gallery:
 
 Music affects human behavior and induce different emotions on them. However, it remains unclear 
 which variables of music design have greater impact on task performance and decision making. 
-This research project aims to analyze different music 
-design features and their respective induced emotional states and task performance on consumers. 
-The results will reveal if there are significant features in music design that modify decision 
-making depending on listener profiles. 
+This research project aims to analyze different music design features and their respective induced 
+emotional states and task performance on consumers. The results will reveal if there are significant 
+features in music design that modify decision making depending on listener profiles. 
 
 
 ### Publications
