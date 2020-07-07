@@ -1,5 +1,6 @@
 ---
-title: "Biometric Feedback Systems"
+permalink: /biometric/
+title: "Biometric Systems"
 excerpt: "Development of technological tools using biometric feedback"
 header:
   image: /assets/images/ColombiaPaisaje.jpg

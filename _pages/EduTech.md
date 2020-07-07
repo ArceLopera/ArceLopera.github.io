@@ -1,4 +1,5 @@
 ---
+permalink: /eduTech/
 title: "Education and Technology"
 excerpt: "Development of technological tools to enable smart educational environments"
 header:

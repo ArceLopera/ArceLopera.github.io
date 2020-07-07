@@ -19,11 +19,12 @@ gesture-based, mobile, biometric and/or seamless interfaces between human and co
 While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction 
 with users by biometrical and/or behavioral pattern recognition using signal processing and analysis. 
 This research area includes both hardware and software development. The applications include:
-1. Systems for [Biodiversity Monitoring](/biodiversity/)
+1. [Biodiversity Monitoring](/biodiversity/)
 2. [Intelligent Environments](/environ/)
-3. Biometric User Behavior Monitoring 
+3. [Biometric Monitoring](/biometric/) 
 4. Technology In Retail
-5. Wearable and Gaming Interface Technology  
+5. Wearable and Gaming Interface Technology
+6. [Education and Technology](/eduTech/)  
 
                                                                                                                                                   
 ### Publications
