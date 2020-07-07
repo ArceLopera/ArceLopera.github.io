@@ -10,16 +10,7 @@ sidebar:
     text: "To model music using machine learning techniques"
   - title: "Applications"
     text: "Modelling, Generation and Classification"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+
 ---
 
 Music affects human behavior and induce different emotions on them. However, it remains unclear 
@@ -27,6 +18,11 @@ which variables of music design have greater impact on task performance and deci
 This research project aims to analyze different music design features and their respective induced 
 emotional states and task performance on consumers. The results will reveal if there are significant 
 features in music design that modify decision making depending on listener profiles. 
+Moreover, one of the most well-known Latin musical genres is Salsa. However, most of the research on the Salsa musical 
+genre is based on ethnomusicology, which has revealed Salsa’s complex and diverse social and cultural aspects.
+Unfortunately, Salsa musical genre has not been included in computational musical research in spite its popularity.
+This project aim at the development of music data to enable computational research on intangible cultural heritage 
+and to contribute to the legitimation of local music as a valuable part of the identity of a region.
 
 
 ### Publications
