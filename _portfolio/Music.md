@@ -1,6 +1,6 @@
 ---
-title: "Music Perception and Classification"
-excerpt: "Machine learning and Signal Processing 4 Music Creation and Understanding"
+title: "Music Perception"
+excerpt: "Machine learning and Signal Processing for Music Creation and Understanding"
 header:
   teaser: /assets/images/salsa.png
 sidebar:
