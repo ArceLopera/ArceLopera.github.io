@@ -24,7 +24,7 @@ gallery1:
 gallery2:
   - url: /assets/images/coke.png
     image_path: assets/images/coke.png
-    alt: "Freshness at 0 h"
+    alt: "Silhouette"
 ---
 
 Food has some of the most common textures that we perceive on a daily basis. 
@@ -59,6 +59,7 @@ mechanisms such as pattern and material recognition.
 
 
 ## Bottle Package Perception
+
 {% include gallery2 caption="Bottle Silhouettes." %}
 ### Publications
 
