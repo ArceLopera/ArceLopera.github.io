@@ -11,7 +11,7 @@ sidebar:
     text: "To model food perception"
   - title: "Applications"
     text: "Food Freshness and Quality Perception, Packaging and Product Classification"
-gallery:
+gallery1:
   - url: /assets/images/cabbage0h.jpg
     image_path: assets/images/cabbage0h.jpg
     alt: "Freshness at 0 h"
@@ -41,7 +41,7 @@ mechanisms such as pattern and material recognition.
 
 ## Vegetable Freshness Perception
 
-{% include gallery caption="Cabbage Degradation Process." %}
+{% include gallery1 caption="Cabbage Degradation Process." %}
 ### Publications
 1.	Arce-Lopera, C. A., Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables. Data in Brief. https://doi.org/10.1016/j.dib.2019.105079
 2.	Arboleda, A. M., Arce-Lopera, C. A. (2017). The French, German, and Spanish sound of eating fresh fruits and vegetables. Food Research International, 102, 171-175. www.sciencedirect.com/science/article/pii/S0963996917306129?via%3Dihub
