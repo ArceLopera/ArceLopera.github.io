@@ -1,6 +1,6 @@
 ---
 title: "Food Quality Perception"
-excerpt: "Basic Sensory Science for Food Perception"
+excerpt: "Sensory Science for Food Perception"
 header:
   image: /assets/images/keto.jpg
   teaser: /assets/images/Veggie.jpg
@@ -43,7 +43,7 @@ mechanisms such as pattern and material recognition.
 
 {% include gallery caption="Cabbage Degradation Process." %}
 ### Publications
-1.	Arce-Lopera, C. A., Okajima, K., Wada, Y. (2019). XYZ color data on the visual degradation of vegetables. Data in Brief. In press
+1.	[Arce-Lopera, C. A., Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables. Data in Brief.][URL] [URL]: https://doi.org/10.1016/j.dib.2019.105079
 4.	Arboleda, A. M., Arce-Lopera, C. A. (2017). The French, German, and Spanish sound of eating fresh fruits and vegetables. Food Research International, 102, 171-175. www.sciencedirect.com/science/article/pii/S0963996917306129?via%3Dihub
 8.	Okuda, S., Okajima, K., Arce-Lopera, C. A. (2015). Visual Palatability of Food Dishes in Color Appearance, Glossiness and Convexo-concave Perception Depending on Light Source. Journal of Light & Visual Environment, 39, 1-7. https://www.jstage.jst.go.jp/article/jlve/39/0/39_IEIJ150000561/_article
 9.	Arce-Lopera, C. A., Masuda, T., Kimura, A., Wada, Y., Okajima, K. (2015). Model of Vegetable Freshness Perception using Luminance Cues. Food Quality and Preference, 40 - Part B, 279-286. www.sciencedirect.com/science/article/pii/S0950329314001293
