@@ -21,7 +21,7 @@ with users by biometrical and/or behavioral pattern recognition using signal pro
 This research area includes both hardware and software development. The applications include:
 1. [Biodiversity Monitoring](/biodiversity/)
 2. [Intelligent Environments (Retail, Tourism, Smart Cities)](/environ/)
-3. [Wearable and Biometric Interfaces (Entertainment and Driving)](/biometric/) 
+3. [Wearable and Biometric Interfaces](/biometric/) 
 4. [Education and Technology](/eduTech/)  
 
                                                                                                                                                   
