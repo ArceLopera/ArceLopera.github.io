@@ -21,6 +21,10 @@ gallery1:
   - url: /assets/images/cabbage8h.bmp
     image_path: assets/images/cabbage8h.bmp
     alt: "Freshness at 8h"
+gallery1:
+  - url: /assets/images/coke.png
+    image_path: assets/images/coke.png
+    alt: "Freshness at 0 h"
 ---
 
 Food has some of the most common textures that we perceive on a daily basis. 
@@ -55,7 +59,7 @@ mechanisms such as pattern and material recognition.
 
 
 ## Bottle Package Perception
-
+{% include gallery2 caption="Bottle Silhouettes." %}
 ### Publications
 
  1.	Arboleda, A. M., Arce-Lopera, C. A. (2020). The perceived sweetness and price of bottled drinks’ silhouettes. Food Quality and Preference, 82(June). 10.1016/j.foodqual.2019.103867
