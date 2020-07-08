@@ -3,11 +3,11 @@ permalink: /biometric/
 title: "Wearable and Biometric Interfaces"
 excerpt: "Development of technological tools using biometric feedback"
 header:
-  image: /assets/images/ColombiaPaisaje.jpg
+  image: /assets/images/novelHCI.jpg
   teaser: /assets/images/Dog1.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/Dog1.jpg
+    image: /assets/images/dedo.jpg
     image_alt: "logo"
     text: "Development of Biometric Sensor and Feedback Systems"
   - title: "Applications"
