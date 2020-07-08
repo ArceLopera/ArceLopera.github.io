@@ -24,6 +24,9 @@ This research area includes both hardware and software development. The applicat
 3. [Wearable and Biometric Interfaces](/biometric/) 
 4. [Education and Technology](/eduTech/)  
 
+### Patent
+1.	Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02
+{: .notice--info}
                                                                                                                                                   
 ### Publications
 1.	Arce-Lopera, C. A., Cardona, J. J., García, F. (2020). Acoustic Monitoring System for Teacher and Student Engagement Evaluation. Valencia – Spain. CISTI 2020.
