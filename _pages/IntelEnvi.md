@@ -20,9 +20,7 @@ These intelligent environments need for the development of interfaces that are b
 to interact with them in natural ways. This project aims for the design of new systems that react to natural interaction with humans. 
 Mainly, these systems employ innovative usage of sensing technology. Then, the signals are analyzed using pattern recognition algorithms to classify agent behaviors. 
 Finally, the system reacts accordingly giving a multimodal feedback that may initiate conversational interaction with the agent.
-Retail
-Tourism
-Smart cities
+Possible applications are diverse in many industries such as for innovative retail experiences, accessible tourism, and monitoring systems for Smart cities.
 
 
 ### Publications
