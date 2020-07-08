@@ -15,7 +15,10 @@ sidebar:
 
 ---
 
-Smart educational environments are mediated with technology.
+Smart educational environments are mediated with innovative technology, such as XR experiences that seek
+to enable students to immerse themselves into educational tasks with high engagement. This project aims at
+the design and development of educational experiences using novel interfaces 
+to measure and enhance attention, memory and/or engagement.  
  
 ### Publications
 1.	Arce-Lopera, C. A., Cardona, J. J., García, F. (2020). Acoustic Monitoring System for Teacher and Student Engagement Evaluation. Valencia – Spain. CISTI 2020.
