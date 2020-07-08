@@ -1,7 +1,7 @@
 ---
 permalink: /biometric/
 title: "Wearable and Biometric Interfaces"
-excerpt: "Development of technological tools using biometric feedback"
+excerpt: "Development of technological tools using biometric sensing and feedback"
 header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/Dog1.jpg
@@ -15,13 +15,11 @@ sidebar:
 
 ---
 
-Traffic accidents are the second cause of violent death in Colombia. 
-One of the most prominent factors affecting driver behavior is stress. 
-This project aims to develop a biometric interface using sensors built on open source hardware. 
-The interface will be able to collect and analyze the data from the driver, 
-and recognize the driver’s emotional state. Identifying different emotional states 
+This project aims to develop wearable and biometric interfaces using sensors and actuators built on open source hardware. 
+The interfaces will be able to collect and analyze data from the user interaction, 
+and recognize user behavior, cognitive load or mental state. Identifying different user states 
 will allow real-time feedback to the driver, so he can take corrective actions on time, 
-and avoid behaviors leading to a driving accident.
+and avoid behaviors leading to dangerous situations, such as driving accidents.
 
 
 ### Publications
