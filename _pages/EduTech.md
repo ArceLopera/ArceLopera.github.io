@@ -6,30 +6,22 @@ header:
   image: /assets/images/EduTech.jpg
   teaser: /assets/images/EduTech.jpg
 sidebar:
-  - title: "Role"
+  - title: "Objective"
     image: /assets/images/EduTech.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: "To design technology for education"
+  - title: "Applications"
+    text: "Attention, memory, engagement"
+
 ---
 
-Acoustic monitoring is an excellent technique used to
-estimate biodiversity in areas with low visibility and high biodiversity,
-such as the tropical forests. However, conventional audio recorders and
-their components are expensive and not resistant for extreme
-environments, such as the high humidity encountered in tropical
- environments.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Smart educational environments are mediated with technology.
+ 
+### Publications
+1.	Arce-Lopera, C. A., Cardona, J. J., García, F. (2020). Acoustic Monitoring System for Teacher and Student Engagement Evaluation. Valencia – Spain. CISTI 2020.
+2.	Arce-Lopera, C. A., Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers. San Diego – USA. AHFE 2020.
+3.	Arce-Lopera, C. A., Gomez, A., Montoya, C. (2019). User Engagement for Collaborative Learning on a Mobile and Desktop Augmented Reality Application. Cali - Colombia. Edutainment 2019.
+4.	Arce-Lopera, C. A., Ortiz, S., Restrepo, S., Moreno, V., Martinez, N. (2019). Audio-tactile priming to guide information recall in edutainment. Cali - Colombia. Edutainment 2019.
+5.	Arce-Lopera, C. A., Perea, A. (2019). Logic Evaluation through Game-based Assessment. (pp 243-250) Washington - USA. AHFE 2019. Advances in Intelligent Systems and Computing Volume 973.
+{: .notice--success}
 
