@@ -3,7 +3,7 @@ permalink: /biometric/
 title: "Wearable and Biometric Interfaces"
 excerpt: "Development of technological tools using biometric sensing and feedback"
 header:
-  image: /assets/images/novelHCI.jpg
+  image: /assets/images/Dog1.jpg
   teaser: /assets/images/Dog1.jpg
 sidebar:
   - title: "Objective"
