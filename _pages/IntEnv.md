@@ -17,10 +17,9 @@ Rather than making computer-interfaces for people, the idea is to build people-i
 [2](https://hcis-journal.springeropen.com/articles/10.1186/2192-1962-3-12)
 
 ## Example Projects
-Projects have been focusing on three main themes:
-Home automation
+Projects have been focusing on three main themes, Home automation, Wearables and Ubiquitous Games
 ![image info](/assets/images/Domotica1.jpg)
-Wearables
+
 ![image info](/assets/images/Wearables.jpg)
-Ubiquitous Games
+
 ![image info](/assets/images/UbiGames.jpg)
