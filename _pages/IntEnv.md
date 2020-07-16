@@ -18,8 +18,4 @@ Rather than making computer-interfaces for people, the idea is to build people-i
 
 ## Example Projects
 Projects have been focusing on three main themes, Home automation, Wearables and Ubiquitous Games
-![image info](/assets/images/Domotica1.jpg)
-
-![image info](/assets/images/Wearables.jpg)
-
-![image info](/assets/images/UbiGames.jpg)
+![image info](/assets/images/intEnvProj.jpg)
