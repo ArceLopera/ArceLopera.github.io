@@ -15,3 +15,12 @@ IE are both embedded and multimodal allowing people to interact with them in nat
 Rather than making computer-interfaces for people, the idea is to build people-interfaces for computers.
 [1](https://www.aaai.org/Papers/AAAI/1998/AAAI98-077.pdf)
 [2](https://hcis-journal.springeropen.com/articles/10.1186/2192-1962-3-12)
+
+## Example Projects
+Projects have been focusing on three main themes:
+Home automation
+![image info](/assets/images/Domotica1.jpg)
+Wearables
+![image info](/assets/images/Wearables.jpg)
+Ubiquitous Games
+![image info](/assets/images/UbiGames.jpg)
