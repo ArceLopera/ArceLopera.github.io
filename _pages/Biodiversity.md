@@ -16,7 +16,7 @@ sidebar:
 ---
 
 Monitoring bioacoustics in tropical environments is a challenging task, 
-especially in a long-term frame. Typically,these tools are not well adapted to extreme 
+especially in a long-term frame. Typically, these tools are not well adapted to extreme 
 conditions of humidity and temperature. 
 Moreover, they are not designed for the particular conditions of diversity present in megadiverse countries 
 such as Colombia. This research project seeks to build acoustic monitoring tools for tropical requirements and conditions. 
