@@ -26,10 +26,11 @@ and to contribute to the legitimation of local music as a valuable part of the i
 
 
 ### Publications
-1.	Sarria, G., Mora, M., Arce-Lopera, C. A. (2016). Salsa Dataset: First Salsa Music Knowledge Base. Ricercare(5), 63-72.  publicaciones.eafit.edu.co/index.php/ricercare/article/view/4372
+1.	Arce-Lopera, C. A., Sarria, G., Mora, M. (2020). Understanding Salsa: How Computing Is Defining Latin Music. Communications of the ACM(63)No. 11, 59-60, 10.1145/3416967.  https://cacm.acm.org/magazines/2020/11/248203-understanding-salsa/fulltext
 2.  Rodriguez, B. M., Arce-Lopera, C. A., Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task. DOI: 10.4018/978-1-5225-9069-9.ch015
 3.  Sarria, G.M., Diaz-Cely, J., Arce-Lopera, C. A. (2019) Analyzing and Extending the Salsa Dataset. Bucaramanga –Colombia. 2019 Symposium on Signal Processing, Images and Artificial Vision (STSIVA).
 4.  Rodriguez, B. M., Arce-Lopera, C. A., Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance (pp. 334-338). Lisboa: Iadis.
-5.  Arévalo, C., Sarria, G., Mora, M., Arce-Lopera, C. A.  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song. Miami: IEEE ISM. ieeexplore.ieee.org/document/7442337/
-6.  Arce-Lopera, C. A., Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer, International Symposium on Computer Music Multidisciplinary Research (pp. 817-824).
+5.	Sarria, G., Mora, M., Arce-Lopera, C. A. (2016). Salsa Dataset: First Salsa Music Knowledge Base. Ricercare(5), 63-72.  publicaciones.eafit.edu.co/index.php/ricercare/article/view/4372
+6.  Arévalo, C., Sarria, G., Mora, M., Arce-Lopera, C. A.  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song. Miami: IEEE ISM. ieeexplore.ieee.org/document/7442337/
+7.  Arce-Lopera, C. A., Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer, International Symposium on Computer Music Multidisciplinary Research (pp. 817-824).
 {: .notice--success}
