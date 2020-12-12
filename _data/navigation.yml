@@ -5,9 +5,9 @@ main:
     url: /services/
   - title: "RESEARCH"
     url: /portfolio/
-  - title: "NEWS"
-    url: /posts/
   - title: "TEACHING"
     url: /teaching/
   - title: "RESOURCES"
     url: /resources/
+  - title: "NEWS"
+    url: /posts/
