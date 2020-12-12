@@ -35,9 +35,13 @@ iconTeach: /assets/images/graduation-hat.png
 include:
   - _pages
   - _portfolio
+  - _services
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  services:
     output: true
     permalink: /:collection/:path/
 # Exclude from processing.
@@ -106,6 +110,15 @@ defaults:
   # _portfolio
   - scope:
       path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      related: true
+  # _services
+  - scope:
+      path: "_services"
       type: portfolio
     values:
       layout: single
