@@ -1,6 +1,6 @@
 ---
-title: "Food Quality Perception"
-excerpt: "Sensory Science for Food Perception"
+title: "Consulting"
+excerpt: "Development of new products"
 header:
   image: /assets/images/keto.jpg
   teaser: /assets/images/Veggie.jpg
