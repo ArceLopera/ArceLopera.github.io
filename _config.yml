@@ -134,6 +134,6 @@ tag_archive:
   path: /tags/
 collection_archive:
     type: liquid
-    path: /portfolio/
+    path: /services/
 
 theme: jekyll-theme-minimal
