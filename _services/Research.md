@@ -1,6 +1,6 @@
 ---
-title: "Skin Quality Perception"
-excerpt: "E-Health Applications of Image Processing"
+title: "Research"
+excerpt: "Research on Demand"
 header:
   image: /assets/images/cosmetics.bmp
   teaser: /assets/images/skin.jpg

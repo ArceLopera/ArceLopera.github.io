@@ -1,5 +1,5 @@
 ---
-title: "Novel Interfaces"
+title: "Products"
 excerpt: "Development of Novel Interfaces"
 header:
   image: /assets/images/novelHCI.jpg

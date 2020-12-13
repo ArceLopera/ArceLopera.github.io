@@ -1,6 +1,6 @@
 ---
-title: "Music Perception"
-excerpt: "Machine learning and Signal Processing for Music Creation and Understanding"
+title: "Training"
+excerpt: "Development of Team skills"
 header:
   teaser: /assets/images/salsa.png
 sidebar:
