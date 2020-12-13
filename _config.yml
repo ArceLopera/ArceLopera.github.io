@@ -36,12 +36,16 @@ include:
   - _pages
   - _portfolio
   - _services
+  - _products
 
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
   services:
+    output: true
+    permalink: /:collection/:path/
+  products:
     output: true
     permalink: /:collection/:path/
 # Exclude from processing.
