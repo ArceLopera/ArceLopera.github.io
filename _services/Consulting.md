@@ -2,15 +2,15 @@
 title: "Consulting"
 excerpt: "Development of new products"
 header:
-  image: /assets/images/keto.jpg
-  teaser: /assets/images/Veggie.jpg
+  image: /assets/images/novelHCI.jpg
+  teaser: /assets/images/consul.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/Veggie.jpg
+    image: /assets/images/consul.jpg
     image_alt: "logo"
-    text: "To model food perception"
-  - title: "Applications"
-    text: "Food Freshness and Quality Perception, Packaging and Product Classification"
+    text: "Advisory services to help clients define project and business strategies"
+  - title: "Industries"
+    text: "Food, retail, pharmaceutical, surveillance and security"
 
 
 ---
