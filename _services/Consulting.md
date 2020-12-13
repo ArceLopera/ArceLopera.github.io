@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-excerpt: "Development of new products"
+excerpt: "Advisory service for business strategies"
 header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/consul.jpg

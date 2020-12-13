@@ -1,6 +1,6 @@
 ---
 title: "Research"
-excerpt: "Research on Demand"
+excerpt: "User Experience Research on Demand"
 header:
   image: /assets/images/cosmetics.bmp
   teaser: /assets/images/skin.jpg

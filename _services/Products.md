@@ -1,6 +1,6 @@
 ---
 title: "Products"
-excerpt: "Development of Novel Interfaces"
+excerpt: "Development of New products"
 header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/Dog1.jpg
