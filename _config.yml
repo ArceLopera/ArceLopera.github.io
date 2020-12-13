@@ -119,7 +119,7 @@ defaults:
   # _services
   - scope:
       path: "_services"
-      type: portfolio
+      type: services
     values:
       layout: single
       author_profile: true
@@ -133,7 +133,7 @@ tag_archive:
   type: liquid
   path: /tags/
 collection_archive:
-    type: liquid
-    path: /portfolio/
+  type: liquid
+  path: /portfolio/
 
 theme: jekyll-theme-minimal
