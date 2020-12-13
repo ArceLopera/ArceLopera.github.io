@@ -1,6 +1,8 @@
 main:
   - title: "ABOUT"
     url: /about/
+  - title: "PRODUCTS"
+    url: /products/
   - title: "SERVICES"
     url: /services/
   - title: "RESEARCH"
