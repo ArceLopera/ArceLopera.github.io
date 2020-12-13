@@ -1,12 +1,12 @@
 ---
 title: "Training"
-excerpt: "Development of tailored courses for specific clients"
+excerpt: "Tailored courses for specific clients"
 header:
-image: /assets/images/novelHCI.jpg
-teaser: /assets/images/salsa.png
+image: /assets/images/training.jpg
+teaser: /assets/images/traini3.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/salsa.png
+    image: /assets/images/traini3.jpg
     image_alt: "logo"
     text: "Intensive courses for small groups"
   - title: "Applications"
