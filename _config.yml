@@ -129,8 +129,9 @@ defaults:
       author_profile: true
       share: true
       related: true
+
   # _products
-   - scope:
+  - scope:
       path: "_products"
       type: products
     values:
