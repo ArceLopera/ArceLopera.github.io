@@ -1,16 +1,16 @@
 ---
-title: "Training"
-excerpt: "Tailored courses for specific clients"
+title: "Mosquito Counter"
+excerpt: "Automatic counting of mosquitoes in plastic containers"
 header:
   image: /assets/images/training.jpg
-  teaser: /assets/images/traini3.jpg
+  teaser: /assets/images/mosquito.png
 sidebar:
   - title: "Objective"
-    image: /assets/images/traini3.jpg
+    image: /assets/images/mosquito.png
     image_alt: "logo"
-    text: "Intensive courses for small groups"
+    text: "Reduce time and effort when counting mosquitoes"
   - title: "Applications"
-    text: "Modelling, Generation and Classification"
+    text: "Research institutes"
 
 ---
 
