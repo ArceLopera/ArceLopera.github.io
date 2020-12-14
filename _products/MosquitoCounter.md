@@ -2,7 +2,7 @@
 title: "Mosquito Counter"
 excerpt: "Automatic counting of mosquitoes in plastic containers"
 header:
-  image: /assets/images/training.jpg
+  image: /assets/images/mosquitomanual.jpg
   teaser: /assets/images/mosquito.png
 sidebar:
   - title: "Objective"
@@ -14,4 +14,7 @@ sidebar:
 
 ---
 
-TR
+
+### Patent
+1.	Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02
+      {: .notice--success}
