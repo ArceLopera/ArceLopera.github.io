@@ -1,5 +1,5 @@
 ---
-title: Products
+title: SOLUTIONS
 layout: collection
 permalink: /products/
 collection: products
