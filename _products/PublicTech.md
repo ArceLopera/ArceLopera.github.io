@@ -1,5 +1,5 @@
 ---
-title: "Mosquito Counter"
+title: "For The Public Sector"
 excerpt: "Automatic counting of mosquitoes in plastic containers"
 header:
   image: /assets/images/mosquitomanual.jpg

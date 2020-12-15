@@ -1,6 +1,6 @@
 ---
-title: "For Retail"
-excerpt: "Intelligent environments and technology systems for retail"
+title: "For Gaming"
+excerpt: "Novel Interfaces for Gaming"
 header:
   image: /assets/images/retail.jpg
   teaser: /assets/images/retail.jpg

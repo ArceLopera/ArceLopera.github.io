@@ -1,6 +1,6 @@
 ---
-title: "For Retail"
-excerpt: "Intelligent environments and technology systems for retail"
+title: "For Education"
+excerpt: "Student assessment and monitoring systems"
 header:
   image: /assets/images/retail.jpg
   teaser: /assets/images/retail.jpg

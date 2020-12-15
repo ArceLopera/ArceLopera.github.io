@@ -1,5 +1,5 @@
 ---
-title: "Biometric and Wearable Systems"
+title: "For Health Research"
 excerpt: "Development of novel interfaces using sensor and actuators"
 header:
   image: /assets/images/novelHCI.jpg
