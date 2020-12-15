@@ -1,5 +1,5 @@
 ---
-title: "For Gaming"
+title: "For Gaming and Entertainment"
 excerpt: "Novel Interfaces for Gaming"
 header:
   image: /assets/images/retail.jpg

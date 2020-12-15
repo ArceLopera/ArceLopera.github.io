@@ -1,6 +1,6 @@
 ---
-title: "For The Public Sector"
-excerpt: "Automatic counting of mosquitoes in plastic containers"
+title: "For Smart Cities"
+excerpt: "Monitoring tools for the public sector"
 header:
   image: /assets/images/mosquitomanual.jpg
   teaser: /assets/images/mosquito.png
