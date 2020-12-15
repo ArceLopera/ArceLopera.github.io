@@ -1,6 +1,6 @@
 ---
-title: "Products"
-excerpt: "Development of New products"
+title: "Biometric and Wearable Systems"
+excerpt: "Development of novel interfaces using sensor and actuators"
 header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/Dog1.jpg
