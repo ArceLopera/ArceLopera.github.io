@@ -1,12 +1,12 @@
 ---
-title: "Consulting"
-excerpt: "Advisory service for business strategies"
+title: "Retail Technology"
+excerpt: "Intelligent environments and technology systems for retail"
 header:
-  image: /assets/images/novelHCI.jpg
-  teaser: /assets/images/consul.jpg
+  image: /assets/images/retail.jpg
+  teaser: /assets/images/retail.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/consul.jpg
+    image: /assets/images/retail.jpg
     image_alt: "logo"
     text: "Advisory services to help clients define project and business strategies"
   - title: "Industries"
