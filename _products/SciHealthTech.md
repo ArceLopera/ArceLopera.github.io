@@ -1,6 +1,6 @@
 ---
-title: "For Health Research"
-excerpt: "Development of novel interfaces using sensor and actuators"
+title: "For Science and Healthcare"
+excerpt: "Development of novel systems adapted to specific problems"
 header:
   image: /assets/images/novelHCI.jpg
   teaser: /assets/images/Dog1.jpg
