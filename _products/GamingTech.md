@@ -1,6 +1,6 @@
 ---
 title: "For Gaming and Entertainment"
-excerpt: "Novel Interfaces for Gaming"
+excerpt: "Novel Interfaces to Enhance Engagement for Gaming and Artistic Performances"
 header:
   image: /assets/images/retail.jpg
   teaser: /assets/images/smario1.jpg
