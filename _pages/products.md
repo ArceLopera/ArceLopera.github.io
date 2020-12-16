@@ -1,5 +1,5 @@
 ---
-title: SOLUTIONS
+title: ENGINEERING SOLUTIONS SUPPORTED BY RESEARCH
 layout: collection
 permalink: /products/
 collection: products

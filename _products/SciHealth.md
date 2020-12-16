@@ -1,10 +1,10 @@
 ---
-permalink: /biodiversity/
-title: "Bioacoustic Monitoring"
-excerpt: "Development of technological tools to enable bioacoustic monitoring"
+permalink: /Scihealth/
+title: "For Science and Healthcare"
+excerpt: "Development of novel systems adapted to specific problems"
 header:
   image: /assets/images/ColombiaPaisaje.jpg
-  teaser: /assets/images/bird1.jpg
+  teaser: /assets/images/Dog1.jpg
 sidebar:
   - title: "Objective"
     image: /assets/images/bird1.jpg
