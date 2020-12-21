@@ -1,6 +1,6 @@
 ---
-title: "Food Quality Perception"
-excerpt: "Sensory Science for Food Perception"
+title: "For the Food Industry"
+excerpt: "Sensory Science for Food Quality Monitoring"
 header:
   image: /assets/images/keto.jpg
   teaser: /assets/images/Veggie.jpg
