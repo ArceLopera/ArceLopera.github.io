@@ -1,7 +1,7 @@
 ---
 permalink: /environ/
-title: "Intelligent Environments"
-excerpt: "Development of human-interfaces for computers"
+title: "Multimodal Intelligent Environments"
+excerpt: "Development of multimodal human-interfaces for computers"
 header:
   image: /assets/images/retail.jpg
   teaser: /assets/images/retail.jpg
