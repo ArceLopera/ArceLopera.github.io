@@ -3,10 +3,10 @@ title: "For Smart Cities"
 excerpt: "Monitoring tools for the public sector"
 header:
   image: /assets/images/smartCities.png
-  teaser: /assets/images/smartCities.png
+  teaser: /assets/images/smartCities_S.png
 sidebar:
   - title: "Objective"
-    image: /assets/images/smartCities.png
+    image: /assets/images/smartCities_S.png
     image_alt: "logo"
     text: "Reduce time and effort when counting mosquitoes"
   - title: "Applications"
