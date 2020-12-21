@@ -13,7 +13,7 @@ Like to play soccer but not watch it on TV.
 
 ### Executive Summary
 <div style="text-align: justify"> 
-Tenured Associate professor in the Faculty of Engineering at 
+Senior researcher and tenured associate professor in the Faculty of Engineering at 
 <a href="https://www.icesi.edu.co/">Universidad Icesi</a>. 
 Leader of the Sensory Perception Engineering Laboratory (SPE Lab) part of the i2T Research group at Universidad Icesi. 
 The SPE Lab consolidates findings from human sensory perception into system and product design. 
