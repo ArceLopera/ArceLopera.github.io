@@ -1,6 +1,6 @@
 ---
 permalink: /ux/
-title: "User experience"
+title: "User Engagement and Performance"
 excerpt: "User Cognitive Performance and Behavior Assessment"
 header:
   image: /assets/images/Dog1.jpg

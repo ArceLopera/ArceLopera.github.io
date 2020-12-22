@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "UX Research"
 excerpt: "User Experience Research on Demand"
 header:
   image: /assets/images/cosmetics.bmp
@@ -8,9 +8,9 @@ sidebar:
   - title: "Objective"
     image: /assets/images/skin.jpg
     image_alt: "logo"
-    text: "To develop image processing tools for skin image quality modelling"
+    text: "To assist in the development of User Experience research projects"
   - title: "Applications"
-    text: "E-health, Dermatology, Cosmetics"
+    text: "Food, E-health, Dermatology, Cosmetics"
 
 ---
 
