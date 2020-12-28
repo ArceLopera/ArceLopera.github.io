@@ -31,11 +31,11 @@ project that responds to impactful criteria.
 
 In a classical business understanding phase, the objectives and requirements are set using general
 problem definitions and concepts. The foundational activities in this starting phase must be tested 
-to avoid ill-defined objectives and biased hypothesis that do not take into account the user perspective or
+to avoid ill-defined objectives and biased hypotheses that do not take into account the user perspective or
 the real environment. To test for valid and accurate definitions several tools exist to extract meaningful 
 results and present them as simple insights. For example, a competitor analysis will analyze and dissect the 
 details of your direct competitor's best practices and common failures. Also, concept testing using in-depth 
-research provide summaries, ratings into users’ needs. 
+research provide information concerning users’ needs. 
 Moreover, when needs are validated and objectives are clearly defined, I provide support for decisions on which 
 methodology and tools are appropriate considering the variety of project resources and limitations. 
 
