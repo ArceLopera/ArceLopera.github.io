@@ -14,6 +14,7 @@ sidebar:
 
 ---
 ##General
+
 I provide consultant services for client's projects throughout their entire development process 
 to generate and deliver key insights to stakeholders. 
 From advice on how to plan for the digital transformation of traditional business 
