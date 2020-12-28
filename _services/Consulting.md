@@ -24,55 +24,25 @@ I partner with you to devise a comprehensive strategy for your project's needs.
 
 For any inquiry, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
 
-##Lifecycle - Ideation and Planing Stage
+##Lifecycle - Understand and Plan 
 Where and how to start? 
 Before starting costly production activities, the validation of your needs and concepts is crucial.
 In pre-production, my experience developing a wide range of projects can inspire your early design 
-process. Analyzing your needs, competitors and target audience, a deeper understanding 
+process. By analyzing your needs, competitors and target audience, a deeper understanding 
 of the project objectives, scope and limitations can extract concise learnings to design a
 project that responds to impactful criteria.
 
-Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
+In a classical business understanding phase, the objectives and requirements are set using general
+problem definitions and concepts. The foundational activities in this starting phase must be tested 
+to avoid ill-defined objectives and biased hypothesis that do not take into account the user perspective or
+the real environment. To test for valid and accurate definitions several tools exist to extract meaningful 
+results and present them as simple insights. For example, a competitor analysis will analyze and dissect the 
+details of your direct competitor's best practices and common failures. Also, concept testing using in-depth 
+research provide summaries, ratings into users’ needs. 
+Moreover, when needs are validated and objectives are clearly defined, decisions on which methodology is appropriate
+considering the variety of project resources and limitations. 
 
-A competitor analysis will breakdown your 
-Breakdown and analyses of your competitor titles, detailing their best practices in UX, 
-opportunities and common failures, all from our Usability, Understanding and User Experience 
-perspective.
-Concept Testing
-In-depth research focussed on understanding reactions to concept and character art, and 
-understanding players’ relationships with existing games. Provides opinion summaries, ratings 
-and insight into players’ first impressions of themes, art styles and/or prototype gameplay.
-Core Mechanic Testing
-Targeted lab research to understand how people engage with specific mechanics, controls, 
-and interactions to ensure your game is built on strong foundations.
-##Lifecycle - Design, Develop and Test
-In Production
-Find real issues experienced by real players in your design, UI, narrative, and beyond, 
-then use our know-how to help understand and address them. Our labs are second-to-none for 
-user testing of all kinds, including PC, console, mobile, and VR.
-Experiential Playtesting
-Use our large lab facilities to get quantitatively meaningful sample sizes, allowing us to address 
-your questions about players' attitudes, opinions, and emotions.
-Usability Playtesting
-Observe player behaviour in detail, with a focus on usability, learnability and understandability.
-Usability Expert Analysis
-Our experienced researchers employ their knowledge of game usability and psychology to identify 
-issues that are likely to impact players.
-Narrative Testing
-Detailed exploration of understand and engage with storylines in narrative-driven games. 
-Our approaches allow rich feedback using very early assets, including narrative from scripts, 
-storyboards, and pre-vis cutscenes.
-##Lifecycle - Deploy and Maintaining
-In Post-launch
-Supporting your game after launch to ensure ongoing engagement. Upgrade your analytics and add meaning 
-to your live-ops data to diagnose and act on issues your players are facing.
-Analytics Consultancy
-Our resident Data Scientist consults on the integration of telemetry piplines and the analysis of large 
-scale datasets for maximum insight, providing you with the tools for advanced player segmentation, visualisation, 
-prediction, and evaluation.
-Engagement Diary
-Representative players complete a diary entry each time they play your game, giving us insight into 
-the highlights and lowlights of their experience beyond day zero.
+Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
 
 
 
