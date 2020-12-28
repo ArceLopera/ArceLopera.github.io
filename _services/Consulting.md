@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/consul.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/consul.jpg
+    image: #/assets/images/consul.jpg
     image_alt: "logo"
     text: "Advisory services to help clients define or validate project and business strategies"
   - title: "Industries"
