@@ -13,8 +13,6 @@ sidebar:
     text: "Food, retail, pharmaceutical, surveillance and security"
 
 ---
-##General
-
 I provide consultant services for client's projects throughout their entire development process 
 to generate and deliver key insights to stakeholders. 
 From advice on how to plan for the digital transformation of traditional business 
@@ -23,10 +21,8 @@ consultant services are provided for a variety of industries that are modernizin
 their processes and strategies. 
 I partner with you to devise a comprehensive strategy for your project's needs.
 
-For any inquiry, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
-
-##Lifecycle - Understand and Plan 
 Where and how to start? 
+
 Before starting costly production activities, the validation of your needs and concepts is crucial.
 In pre-production, my experience developing a wide range of projects can inspire your early design 
 process. By analyzing your needs, competitors and target audience, a deeper understanding 
