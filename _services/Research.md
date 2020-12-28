@@ -14,4 +14,4 @@ sidebar:
 
 ---
 
-RH
+Robust insights to inform your long term strategy. 

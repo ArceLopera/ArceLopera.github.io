@@ -14,4 +14,5 @@ sidebar:
 
 ---
 
-TR
+In-person training to give you the fundamental grounding you need to conduct 
+your own research projects.
