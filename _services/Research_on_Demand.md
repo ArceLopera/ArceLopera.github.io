@@ -1,6 +1,6 @@
 ---
 title: "Research on Demand"
-excerpt: "Research on Demand"
+excerpt: "Development of research activities"
 header:
   image: /assets/images/cosmetics.bmp
   teaser: /assets/images/skin.jpg
