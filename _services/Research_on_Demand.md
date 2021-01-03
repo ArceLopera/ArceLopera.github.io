@@ -28,4 +28,4 @@ characteristics, on-demand data analysis services are available to support your 
 By upgrading your analytics to add meaning to your live data, impactful diagnoses can represent
 important feedback to your operation.
 
-Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
+Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).

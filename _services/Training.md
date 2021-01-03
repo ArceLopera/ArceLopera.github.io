@@ -20,4 +20,4 @@ for developing research on a wide range of industries. From selecting the most c
 experimental design to performing accurate statistical analysis, you can have a wide and specialized vision 
 of the most used and effective methods to answer your research questions.
 
-For more details, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
+For more details, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
