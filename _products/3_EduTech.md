@@ -27,3 +27,14 @@ educational experiences using novel interfaces it is crucial to measure and enha
 5.	[Arce-Lopera, C. A., Perea, A. (2019). Logic Evaluation through Game-based Assessment.](https://doi.org/10.1007/978-3-030-20476-1_25)
 {: .notice--success}
 
+###Ongoing Projects
+- Web-based management system for Preschool education (2020)
+- Writing Training of Japanese Kanji Mobile App (2020-)
+- 3D sound training game for bird recognition (2020-)
+- Teacher-Student interaction in virtual environments (2020-)
+
+###Clients and Collaborators
+-[Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/)
+
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
