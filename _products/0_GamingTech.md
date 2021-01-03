@@ -30,12 +30,12 @@ with humans in real situations and games that serve as tools for training and ev
 6. [Arce-Lopera, C. A., Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://link.springer.com/chapter/10.1007/978-3-319-60582-1_25)
 {: .notice--info}
 
-###Ongoing Projects
+### Ongoing Projects
 - Writing Training of Japanese Kanji Mobile App (2020-)
 - 3D sound training game for bird recognition (2020-)
 - AR games to enhance brand recognition (2019-)
 
-###Clients and Collaborators
+### Clients and Collaborators
 - [Smurfit Kappa](https://www.smurfitkappa.com/co)
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
