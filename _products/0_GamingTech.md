@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Game UX research for novel interfaces"
   - title: "Themes"
-    text: "Performance, cognition, design, multimodality"
+    text: "Engagement, Performance, multimodality"
 
 
 ---
@@ -19,7 +19,9 @@ a variety of targeted audiences. From enticing real customers in a retail enviro
 to enhancing attention of Pre-K students [1](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34), 
 I focused on enhancing user engagement and interaction performance. User engagement can be associated with careful 
 assessment of the quality of user experience. Moreover, by designing and testing novel hardware, I have developed multimodal
-systems that seek natural interaction with humans in real situations.
+systems that seek natural interaction with humans in real situations and games that serve as tools for training and
+evaluating user performance. 
+
 ### Publications
 1. [Arce-Lopera, C. A., Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers. San Diego – USA. AHFE 2020.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34)
 2. [Arce-Lopera, C. A., Ortiz, S., Restrepo, S., Moreno, V., Martinez, N. (2020). Audio-tactile priming to guide information recall in edutainment. Cali - Colombia. Edutainment 2019.](https://ieeexplore.ieee.org/document/9212866)
