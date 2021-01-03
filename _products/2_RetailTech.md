@@ -23,14 +23,14 @@ Computer vision systems, multimodal feedback systems, display technology
 6. [Sandoval, N., Potes, A., Arboleda, A. M., Salamanca García, J. M., Arce-Lopera, C. A. (2014). Image Information Influencing the Online Purchase Intention of Vegetables Products](https://doi.org/10.18046/syt.v12i28.1750)
 {: .notice--info}
 
-###Ongoing Projects
+### Ongoing Projects
 - Web-based clothing display environment for retailers (2020-)
 - Computer vision system for product recognition and monitoring in supermarket shelves (2019-)
 - AR games to enhance brand recognition (2019-)
 - Multisensory smart shelves for costumer luring in retail (2019-)
 - Trekking characterisation in Colombia (2018-)
 
-###Clients and Collaborators
+### Clients and Collaborators
 - [Picoloro Ecoturismo](http://picoloro.co/)
 - [Musicar SAS](https://musicar.com/)
 - [Carvajal TyS](https://www.carvajaltys.com/)

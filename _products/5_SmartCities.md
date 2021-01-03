@@ -20,10 +20,10 @@ sidebar:
 2. [Manzano, A. M., Salamanca García, J. M., Arce-Lopera, C. A. (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems.](https://vimeo.com/136255023)
 {: .notice--success}
 
-###Ongoing Projects
+### Ongoing Projects
 - Mobile app for public service monitoring (2020-)
 
-###Clients and Collaborators
+### Clients and Collaborators
 - [Metrocali](https://www.metrocali.gov.co/wp/)
 - [Alcaldia de Cali](https://www.cali.gov.co/)
 

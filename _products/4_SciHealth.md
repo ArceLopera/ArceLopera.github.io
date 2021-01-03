@@ -32,13 +32,13 @@ such as Colombia. This research project seeks to build acoustic monitoring tools
 3.  Madrid, J.M., Lasso, F., Arce-Lopera, C. A. (2018). Biometric interface for driver’s stress detection and awareness. (pp 132 -136) Toronto-Canada. Adjunct Proceedings of the 10th International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications
     {: .notice--info}
 
-###Ongoing Projects
+### Ongoing Projects
 - WikiAves repository enhancement (2019-)
 - Cutaneous Leishmaniasis image analysis and classification (2018-)
 - Biodiversity acoustic monitoring (2018-)
 - Mosquito acoustic characterization (2015-)
 
-###Clients and Collaborators
+### Clients and Collaborators
 -[CIDEIM](http://www.cideim.org.co/cideim/)
 -[Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/)
 
