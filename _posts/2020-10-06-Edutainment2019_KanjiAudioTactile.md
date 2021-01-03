@@ -7,7 +7,8 @@ categories:
   - System Development
 tags:
   - Intelligent Environments
-  - Education and Technology  
+  - Education and Technology 
+  - Game Design
 ---
 
 Assistive technology in learning environments needs to foster information recall strategies as a 
