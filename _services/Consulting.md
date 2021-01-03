@@ -39,7 +39,7 @@ research provide information concerning users’ needs.
 Moreover, when needs are validated and objectives are clearly defined, I provide support for decisions on which 
 methodology and tools are appropriate considering the variety of project resources and limitations. 
 
-Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8)
+Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
 
 
 
