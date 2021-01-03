@@ -2,7 +2,7 @@
 title: "For Gaming and Entertainment"
 excerpt: "Novel Interfaces to Enhance Engagement for Gaming and Artistic Performances"
 header:
-  image: /assets/images/Play1.bmp
+  image: /assets/images/img_play_a.bmp
   teaser: /assets/images/smario1.jpg
 sidebar:
   - title: "Objective"
