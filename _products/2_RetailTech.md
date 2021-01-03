@@ -12,7 +12,7 @@ sidebar:
   - title: "Industries"
     text: "Food, retail, pharma"
 ---
-Computer vision systems
+Computer vision systems, multimodal feedback systems, display technology
 
 ### Publications
 1. [Rodriguez, B. M., Arce-Lopera, C. A., Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task.](https://doi.org/10.4018/978-1-5225-9069-9.ch015)
