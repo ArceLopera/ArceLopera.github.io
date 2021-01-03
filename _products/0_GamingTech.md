@@ -16,7 +16,7 @@ sidebar:
 ---
 I have lead design and development teams that tested novel interfaces for gaming and entertainment projects with
 a variety of targeted audiences. From enticing real customers in a retail environments [4](https://dl.acm.org/doi/10.1145/3292147.3292186)
-to enhancing attention of Pre-K studnets [1](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34), 
+to enhancing attention of Pre-K students [1](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34), 
 I focused on enhancing user engagement and interaction performance. User engagement can be associated with careful 
 assessment of the quality of user experience. Moreover, by designing and testing novel hardware, I have developed multimodal
 systems that seek natural interaction with humans in real situations.
