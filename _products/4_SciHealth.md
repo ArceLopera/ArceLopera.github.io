@@ -39,8 +39,8 @@ such as Colombia. This research project seeks to build acoustic monitoring tools
 - Mosquito acoustic characterization (2015-)
 
 ### Clients and Collaborators
--[CIDEIM](http://www.cideim.org.co/cideim/)
--[Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/)
+- [CIDEIM](http://www.cideim.org.co/cideim/)
+- [Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/)
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
 
