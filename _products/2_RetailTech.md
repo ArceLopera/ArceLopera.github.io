@@ -24,7 +24,7 @@ Computer vision systems, multimodal feedback systems, display technology
 {: .notice--info}
 
 ### Ongoing Projects
-- Web-based clothing display environment for retailers (2020-)
+- Virtual clothing display environment for retailers (2020-)
 - Computer vision system for product recognition and monitoring in supermarket shelves (2019-)
 - AR games to enhance brand recognition (2019-)
 - Multisensory smart shelves for costumer luring in retail (2019-)
