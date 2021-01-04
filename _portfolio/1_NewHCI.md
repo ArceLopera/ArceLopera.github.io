@@ -1,7 +1,7 @@
 ---
 permalink: /biometric/
 title: "Novel Interfaces"
-excerpt: "Development of technological tools using biometric sensing and feedback"
+excerpt: "Development of new HCI interfaces"
 header:
   image: /assets/images/Dog1.jpg
   teaser: /assets/images/Dog1.jpg
@@ -9,9 +9,9 @@ sidebar:
   - title: "Objective"
     image: /assets/images/dedo.jpg
     image_alt: "logo"
-    text: "Development of Biometric Sensor and Feedback Systems"
-  - title: "Applications"
-    text: "Dog Anxiety Training System, In-Car Stress Detector"
+    text: "To develop both SW and HW for novel HCI systems"
+  - title: "Themes"
+    text: "Biometrics, wearables, multimodal systems, accessibility"
 
 ---
 
@@ -30,3 +30,5 @@ and avoid behaviors leading to dangerous situations, such as driving accidents.
 5.  Arce-Lopera, C. A., Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance (vol. 588, pp. 250-257). Advances in Intelligent Systems and Computing / Springer
 6.  Arce-Lopera, C. A., Kobayashi, Y., Kan, A., Komori, O., Okajima, K., Fukuda, R., Wada, Y. (2010). Tactile Sense Presentation System for the Physically-disabled based on Image Information (pp. 31-34). Medical Information Processing System MIPS2009.
 {: .notice--success}
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
