@@ -3,10 +3,10 @@ title: "For Gaming and Entertainment"
 excerpt: "Novel Interfaces to Enhance Engagement for Gaming and Artistic Performances"
 header:
   image: /assets/images/img_play_a.bmp
-  teaser: /assets/images/smario1.jpg
+  teaser: /assets/images/smario2.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/smario1.jpg
+    image: /assets/images/smario2.jpg
     image_alt: "logo"
     text: "Game UX research for novel interfaces"
   - title: "Themes"
