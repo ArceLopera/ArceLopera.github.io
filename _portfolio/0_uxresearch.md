@@ -4,7 +4,7 @@ title: "User Engagement and Performance"
 excerpt: "User Cognitive Performance and Behavior Assessment"
 header:
   image: /assets/images/Dog1.jpg
-  teaser: /assets/images/UE1.jpg
+  teaser: /assets/images/UE1.bmp
 sidebar:
   - title: "Objective"
     image: /assets/images/dedo.jpg
