@@ -74,12 +74,15 @@ author:
   avatar : "assets/images/unnamed.jpg"
   bio    : "Freshness and potency guaranteed!"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ArceLopera"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carlos-arcelopera/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Carlos_Arce_Lopera"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ArceLopera"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Arcelopera"
@@ -87,6 +90,12 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/carlos-arcelopera/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Carlos_Arce_Lopera"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/arcelopera"
