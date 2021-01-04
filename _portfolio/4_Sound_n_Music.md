@@ -1,5 +1,5 @@
 ---
-title: "Music Perception"
+title: "Sound and Music Perception"
 excerpt: "Machine learning and Signal Processing for Music Creation and Understanding"
 header:
   teaser: /assets/images/Salsa2.bmp
