@@ -2,7 +2,7 @@
 title: "For Smart Cities"
 excerpt: "Monitoring tools for the public sector"
 header:
-  image: /assets/images/smartCities.png
+  image:
   teaser: /assets/images/smartCities_S.png
 sidebar:
   - title: "Objective"

@@ -3,7 +3,7 @@ permalink: /eduTech/
 title: "For Education"
 excerpt: "Development of technological tools to enable smart educational environments"
 header:
-  image: /assets/images/EduTech.jpg
+  image:
   teaser: /assets/images/EduTech.jpg
 sidebar:
   - title: "Objective"
