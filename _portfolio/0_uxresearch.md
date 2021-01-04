@@ -1,7 +1,7 @@
 ---
 permalink: /ux/
-title: "User Engagement and Performance"
-excerpt: "User Cognitive Performance and Behavior Assessment"
+title: "UX Research"
+excerpt: "User Engagement, Performance and Behavior Assessment"
 header:
   image: /assets/images/Dog1.jpg
   teaser: /assets/images/UE2.bmp
