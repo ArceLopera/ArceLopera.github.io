@@ -67,7 +67,7 @@ and to understand consumer’s food choices which can have a direct impact on th
 - Multicultural perception of bottle shapes (2019-)
 
 ### Clients and Collaborators
-- [Okajima Lab, Yokohama national university](http://www.okajima-lab.ynu.ac.jp/)
+- [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/)
 - [Sensory Science Unit, NFRI](http://www.naro.affrc.go.jp/english/laboratory/nfri/organization/02food_function_division/06/index.html)
 - [Marketing department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-mercadeo-y-negocios-internacionales/)
 

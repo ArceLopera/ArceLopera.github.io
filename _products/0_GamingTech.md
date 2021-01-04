@@ -17,9 +17,10 @@ sidebar:
 I have lead design and development teams that tested novel interfaces for gaming and entertainment projects with
 a variety of targeted audiences. From enticing real customers in retail environments [<sup>4</sup>](https://dl.acm.org/doi/10.1145/3292147.3292186)
 to enhancing attention of Pre-K students [<sup>1</sup>](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34), 
-I focused on enhancing user engagement and interaction performance. Careful assessment of the quality of the user experience
-coupled with the designing of novel hardware, I have developed multimodal systems that seek natural interaction 
-with humans in real situations and games that serve as tools for training and evaluating user performance. 
+I am focused on enhancing user engagement and interaction performance. The design of novel hardware
+coupled with careful assessment of the quality of the user experience is a powerful combination to develop multimodal 
+systems that seek natural interaction with humans in real situations and games that serve as tools for training and 
+evaluating user performance. 
 
 ### Publications
 1. [Arce-Lopera, C. A., Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34)
@@ -31,7 +32,7 @@ with humans in real situations and games that serve as tools for training and ev
 {: .notice--info}
 
 ### Ongoing Projects
-- Writing Training of Japanese Kanji Mobile App (2020-)
+- Japanese Kanji writing training mobile App (2020-)
 - 3D sound training game for bird recognition (2020-)
 - AR games to enhance brand recognition (2019-)
 
