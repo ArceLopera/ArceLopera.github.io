@@ -2,10 +2,10 @@
 title: "Music Perception"
 excerpt: "Machine learning and Signal Processing for Music Creation and Understanding"
 header:
-  teaser: /assets/images/salsa.png
+  teaser: /assets/images/Salsa2.bmp
 sidebar:
   - title: "Objective"
-    image: /assets/images/salsa.png
+    image: /assets/images/audio.bmp
     image_alt: "logo"
     text: "To model music using machine learning techniques"
   - title: "Applications"

@@ -1,6 +1,6 @@
 ---
 permalink: /biometric/
-title: "Wearable and Biometric Interfaces"
+title: "Novel Technological Interfaces"
 excerpt: "Development of technological tools using biometric sensing and feedback"
 header:
   image: /assets/images/Dog1.jpg
