@@ -1,6 +1,6 @@
 ---
 permalink: /biometric/
-title: "Novel Technological Interfaces"
+title: "Novel Interfaces"
 excerpt: "Development of technological tools using biometric sensing and feedback"
 header:
   image: /assets/images/Dog1.jpg
