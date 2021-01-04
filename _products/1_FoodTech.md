@@ -29,11 +29,12 @@ Understanding the human behavior when food quality is perceived can reveal the m
 that closely relate sensory processing to perceptual experience. Indeed, food quality perception 
 is cross-modal and reflect complex associations among sensory modalities learned through experience. 
 
-The purpose of the project is to develop systems that monitor the effects of specific characteristics of sensory 
-information on the perception of food quality. Research methodology will consist on employing carefully designed 
-sensory stimuli and perform psychophysical experimentation to test the human ability to decide about the quality of food. 
-By developing technology that control food perception, designed systems may contribute to enhance favorable eating behavior 
-and to understand consumer’s food choices which can have a direct impact on the design and display of food in the industry. 
+I have developed computerized systems that monitor the effects of specific characteristics of sensory 
+information on the perception of food quality. By employing carefully designed 
+sensory stimuli and perform psychophysical experimentation to test the human ability to decide about the quality of food,
+ it is possible to develop technology that control food perception. These designed systems may contribute to enhance 
+favorable eating behavior and to understand consumer’s food choices which can have a direct impact on the design and 
+display of food in the industry. 
 
 ## Vegetable Freshness Perception
 
