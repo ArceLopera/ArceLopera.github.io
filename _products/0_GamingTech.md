@@ -33,7 +33,7 @@ evaluating user performance.
 
 ### Ongoing Projects
 - Kanji writing game for mobile (2020-)
-- 3D sound training game for bird recognition (2020-)
+- 3D sound localization game for bird recognition (2020-)
 - AR games to enhance brand recognition (2019-)
 
 ### Clients and Collaborators
