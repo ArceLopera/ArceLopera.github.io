@@ -32,7 +32,7 @@ evaluating user performance.
 {: .notice--info}
 
 ### Ongoing Projects
-- Japanese Kanji writing training mobile App (2020-)
+- Kanji writing game for mobile (2020-)
 - 3D sound training game for bird recognition (2020-)
 - AR games to enhance brand recognition (2019-)
 
