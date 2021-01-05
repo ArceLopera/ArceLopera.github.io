@@ -28,6 +28,7 @@ interpreted as an indicator of poor health. Moreover, the perceived age is belie
 to be a better biomarker of skin and facial aging than chronological age. This project aims
 at the development of image processing techniques that allow to model skin quality perception
 using common optical measuring systems.
+{: .text-justify}
 
 ### Publications
 1.	Arce-Lopera, C. A., Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin (10th ed., vol. 14, pp. 461). Journal of Vision. www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95
@@ -39,3 +40,15 @@ using common optical measuring systems.
 7.  Arce-Lopera, C. A., Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception. IEICE Technical Report IP 2009-71 (83rd ed., vol. 109, pp. 117-120). Sapporo - Hokkaido: The Institute of Electronics, Information and Communication Engineers.
 {: .notice--success}
 
+### Ongoing Projects
+- Skin Age Perception (2009-)
+- Cutaneous Leishmaniasis Visual Features (2018-)
+- Facial Features (2020-)
+
+### Clients and Collaborators
+- [Kao Corporation](https://www.kao.com/global/en/research-development/){:target="_blank"}
+- [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/){:target="_blank"}
+- [FVL Hospital](https://valledellili.org/en/){:target="_blank"}
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
+{: .notice--warning}
