@@ -35,6 +35,7 @@ achieve this, we developed a software that extracts
 the pertinent acoustic information from songs
 belonging to users and then it includes them into the
 knowledge base.
+{: .text-justify}
 
 Sarria, G., Mora, M., Arce-Lopera, C. A. (2016). 
 Salsa Dataset: First Salsa Music Knowledge Base. Ricercare(5), 63-72
