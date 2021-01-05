@@ -3,13 +3,13 @@ permalink: /ux/
 title: "UX Research"
 excerpt: "User Engagement, Performance and Behavior Assessment"
 header:
-  image: /assets/images/Dog1.jpg
+  image: /assets/images/UE2.bmp
   teaser: /assets/images/UE2.bmp
 sidebar:
   - title: "Objective"
     image: /assets/images/dedo.jpg
     image_alt: "logo"
-    text: "To develop mixed methods for UX research"
+    text: "To develop and test mixed methods for UX research"
   - title: "Applications"
     text: "User engagement, usability and performance assessment"
 
@@ -35,3 +35,5 @@ strengths of each approach.
 13. [Manzano, A. M., Salamanca García, J. M., ***Arce-Lopera, C. A.*** (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems.](https://vimeo.com/136255023)
 14. [Sandoval, N., Potes, A., Arboleda, A. M., Salamanca García, J. M., ***Arce-Lopera, C. A.*** (2014). Image Information Influencing the Online Purchase Intention of Vegetables Products](https://doi.org/10.18046/syt.v12i28.1750)
 {: .notice--success}
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
