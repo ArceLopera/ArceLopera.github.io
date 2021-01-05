@@ -3,11 +3,11 @@ permalink: /ux/
 title: "UX Research"
 excerpt: "User Engagement, Performance and Behavior Assessment"
 header:
-  image: /assets/images/UE2.bmp
+  image: 
   teaser: /assets/images/UE2.bmp
 sidebar:
   - title: "Objective"
-    image: /assets/images/dedo.jpg
+    image: /assets/images/UE2.bmp
     image_alt: "logo"
     text: "To develop and test mixed methods for UX research"
   - title: "Applications"
