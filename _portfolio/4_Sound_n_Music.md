@@ -41,7 +41,7 @@ and to contribute to the legitimation of local music as a valuable part of the i
 ### Ongoing Projects
 - Salsa Beat Analysis (2019-)
 - Bird Song Classification (2018-)
-- Salsa dataset (2015-)
+- Salsa Dataset (2015-)
 
 ### Clients and Collaborators
 - [Musicar SAS](https://musicar.com/){:target="_blank"}
