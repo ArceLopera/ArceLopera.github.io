@@ -33,5 +33,17 @@ and to contribute to the legitimation of local music as a valuable part of the i
 4.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance.](http://www.iadisportal.org/digital-library/the-effect-of-background-instrumental-music-on-emotion-and-performance){:target="_blank"}
 5.	[Sarria, G., Mora, M., ***Arce-Lopera, C. A.*** (2016). Salsa Dataset: First Salsa Music Knowledge Base.](https://doi.org/10.17230/ricercare.2016.5.5){:target="_blank"}
 6.  [Arévalo, C., Sarria, G., Mora, M., ***Arce-Lopera, C. A.***  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song.](https://doi.org/10.1109/ISM.2015.42){:target="_blank"}
-7.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
+7.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
 {: .notice--success}
+
+### Ongoing Projects
+- Salsa Beat Analysis (2019-)
+- Salsa dataset (2015-)
+
+### Clients and Collaborators
+- [Musicar SAS](https://musicar.com/)
+- [Pontificia Universidad Javeriana - Cali](https://www.javerianacali.edu.co/)
+- [Universidad San Buenaventura - Cali](https://www.usbcali.edu.co/)
+
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
