@@ -17,7 +17,8 @@ Music affects human behavior and produces different emotions in them. However, i
 which variables of music design have a greater impact on task performance and decision making. 
 This research project aims to analyze different music design features and their respective induced 
 emotional states and task performance on consumers. The results will reveal if there are significant 
-features in music design that modify decision making depending on listener profiles. 
+features in music design that modify decision making depending on listener profiles.
+{: .text-justify}
 
 ### Salsa
 One of the most well-known Latin musical genres is Salsa. However, most of the research on the Salsa musical 
@@ -41,14 +42,12 @@ and to contribute to the legitimation of local music as a valuable part of the i
 - Salsa Beat Analysis (2019-)
 - Bird Song Classification (2018-)
 - Salsa dataset (2015-)
-{: .notice--info}
 
 ### Clients and Collaborators
 - [Musicar SAS](https://musicar.com/){:target="_blank"}
 - [Pontificia Universidad Javeriana - Cali](https://www.javerianacali.edu.co/){:target="_blank"}
 - [Universidad San Buenaventura - Cali](https://www.usbcali.edu.co/){:target="_blank"}
 - [Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/){:target="_blank"}
-{: .notice--primary}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
-{: .notice--primary}
+{: .notice}
