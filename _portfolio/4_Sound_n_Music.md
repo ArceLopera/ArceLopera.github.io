@@ -50,4 +50,4 @@ and to contribute to the legitimation of local music as a valuable part of the i
 - [Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/){:target="_blank"}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
-{: .notice}
+{: .notice--warning}
