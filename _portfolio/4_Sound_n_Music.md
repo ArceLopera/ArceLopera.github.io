@@ -25,7 +25,7 @@ genre is based on ethnomusicology, which has revealed Salsa’s complex and dive
 Unfortunately, Salsa musical genre has not been included in computational musical research in spite of its popularity.
 We aim at the creation and analysis of music data that enable computational research on intangible cultural heritage 
 and to contribute to the legitimation of local music as a valuable part of the identity of a region.
-
+{: .text-justify}
 
 ### Publications
 1.	[***Arce-Lopera, C. A.***, Sarria, G., Mora, M. (2020). Understanding Salsa: How Computing Is Defining Latin Music.](https://doi.org/10.1145/3416967){:target="_blank"}
@@ -41,12 +41,14 @@ and to contribute to the legitimation of local music as a valuable part of the i
 - Salsa Beat Analysis (2019-)
 - Bird Song Classification (2018-)
 - Salsa dataset (2015-)
+{: .notice--info}
 
 ### Clients and Collaborators
 - [Musicar SAS](https://musicar.com/){:target="_blank"}
 - [Pontificia Universidad Javeriana - Cali](https://www.javerianacali.edu.co/){:target="_blank"}
 - [Universidad San Buenaventura - Cali](https://www.usbcali.edu.co/){:target="_blank"}
 - [Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/){:target="_blank"}
-
+{: .notice--primary}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
+{: .notice--primary}
