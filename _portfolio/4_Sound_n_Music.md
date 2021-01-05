@@ -7,7 +7,7 @@ sidebar:
   - title: "Objective"
     image: /assets/images/audio.bmp
     image_alt: "logo"
-    text: "To model music using machine learning techniques"
+    text: "To model sound and music using machine learning techniques"
   - title: "Applications"
     text: "Modelling, Generation and Classification"
 
