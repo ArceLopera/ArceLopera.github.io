@@ -14,16 +14,21 @@ sidebar:
     text: "Acoustic monitoring, Biodiversity, Microphone Array, Laser, Mosquitoes"
 
 ---
-### Biodiversity Monitoring
+### Bioacoustics
 Monitoring bioacoustics in tropical environments is a challenging task, 
 especially in a long-term frame. Typically, these tools are not well adapted to extreme 
 conditions of humidity and temperature. 
 Moreover, they are not designed for the particular conditions of diversity present in megadiverse countries 
-such as Colombia. This research project seeks to build acoustic monitoring tools for tropical requirements and conditions.
+such as Colombia. This research project seeks to build acoustic monitoring tools for tropical requirements 
+and conditions.
 {: .text-justify}
 
 ### Biometric Monitoring
 
+
+### Facial and Skin Perception
+Facial and skin perception is crucial for human interaction.
+{: .text-justify}
 
 ### Patent
 1.	Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02

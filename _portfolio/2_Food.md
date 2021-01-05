@@ -65,3 +65,14 @@ mechanisms such as pattern and material recognition.
  3.	Arboleda, A. M., Arce-Lopera, C. A. (2015). Quantitative Analysis of Product Categorization in Soft Drinks Using Bottle Silhouettes. Food Quality and Preference, 45(October), 1-10. 10.1016/j.foodqual.2015.04.006
 {: .notice--info}
 
+### Ongoing Projects
+- Ripeness estimation system for tropical fruits (2020-)
+- Light and display system for palatability enhancement of food (2019-)
+- Multicultural perception of bottle shapes (2019-)
+
+### Clients and Collaborators
+- [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/)
+- [Sensory Science Unit, NFRI](http://www.naro.affrc.go.jp/english/laboratory/nfri/organization/02food_function_division/06/index.html)
+- [Marketing department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-mercadeo-y-negocios-internacionales/)
+
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
