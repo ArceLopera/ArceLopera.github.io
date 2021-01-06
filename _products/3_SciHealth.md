@@ -24,7 +24,12 @@ and conditions.
 {: .text-justify}
 
 ### Biometric Monitoring
-
+This research area aims at the design and development of novel interfaces such as wearable, elastic, tactile,
+gesture-based, mobile, biometric and/or seamless interfaces between human and computers.
+While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction
+with users by biometrical and/or behavioral pattern recognition using signal processing and analysis.
+This research area includes both hardware and software development.
+{: .text-justify}
 
 ### Facial and Skin Perception
 Facial and skin perception is crucial for human interaction.
