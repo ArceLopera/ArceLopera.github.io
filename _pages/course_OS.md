@@ -11,3 +11,4 @@ title: "09627 - Operating Systems"
 - To apply a root cause analysis of OS events by using performance metrics.
 
 ## About
+The course details are only available to active students.
