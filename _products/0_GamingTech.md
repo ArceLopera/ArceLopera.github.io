@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "UX research for novel interfaces"
   - title: "Themes"
-    text: "Engagement, Performance, multimodality"
+    text: "Gamification, Engagement, Performance, multimodality"
 
 
 ---
