@@ -25,7 +25,7 @@ and conditions.
 
 ### Biometric Monitoring Systems
 I have developed various research projects aiming at the design and development of novel interfaces such as wearable, 
-elastic, tactile, gesture-based, mobile, biometric and/or seamless interfaces between users and computers.
+elastic, tactile, gesture-based, mobile, biometric, and/or seamless interfaces between users and computers.
 While prototype testing will focus on user engagement, the development of the interfaces favored natural interaction
 with users by using biometrics and/or behavioral pattern recognition using signal processing and analysis.
 These projects included both hardware and software development.
@@ -33,7 +33,7 @@ These projects included both hardware and software development.
 
 ### Facial and Skin Monitoring Systems
 Facial and skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
-tools for automatic classification of skin conditions and diseases that may guide presumptive diagnosis of several 
+tools for the automatic classification of skin conditions and diseases that may guide the presumptive diagnosis of several 
 cutaneous health problems.
 {: .text-justify}
 
