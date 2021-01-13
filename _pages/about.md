@@ -3,12 +3,12 @@ permalink: /about/
 title: "About"
 ---
 <div style="text-align: justify"> 
-Born in the 80´s at the World´s Salsa Capital, still learning dance moves and how to play the Ukulele.
-Schooled by the French in a Japanese loving, Spanish talking and English listening family environment. 
+Born in the '80s at the World´s Salsa Capital, still learning dance moves and how to play the Ukulele.
+Schooled by the French in a Japanese loving, Spanish talking, and English listening family environment. 
 Developed a sensible taste for international cultural experiences marked by the love of cuisine and well-being. 
 
-Technology, Science and Education are his main passions.
-Like to play soccer but not watch it on TV.
+Technology, Science, and Education are his main passions.
+Would gladly play soccer but not watch it on TV.
 </div>
 
 ### Executive Summary
@@ -22,12 +22,12 @@ The SPE Lab consolidates findings from human sensory perception into system and 
 ### Research Overview
 
 <div style="text-align: justify"> 
-The Sensory Perception Engineering Laboratory use engineering measuring and modelling techniques to predict 
+The Sensory Perception Engineering Laboratory uses engineering measuring and modeling techniques to predict 
 high-order cognitive processes. 
-This research line includes developments in cognitive science, sensory perception, experimental psychology, 
-machine learning, artificial sensing, product design and consumer behaviour. 
+Its research includes developments in cognitive science, sensory perception, experimental psychology, 
+machine learning, artificial sensing, product design, and consumer behavior. 
 
-Current research explores the design, implementation and evaluation of novel systems in the intersection 
+Current research explores the design, implementation, and evaluation of novel systems in the intersection 
 of three main research fields: 
  <ul>
    <li>digital signal processing </li>
@@ -37,7 +37,7 @@ of three main research fields:
  
 His interdisciplinary research team regularly comprises a mix of 
 undergraduates and graduate students, and he supervises students from the Telecommunication Engineering, 
-the Software System Engineering and the Interactive Media Design program.
+the Software System Engineering, and the Interactive Media Design program.
 </div>
 
 
