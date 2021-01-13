@@ -19,7 +19,7 @@ Monitoring bioacoustics in tropical environments is a challenging task,
 especially in a long-term frame. Typically, these tools are not well adapted to extreme 
 conditions of humidity and temperature. 
 Moreover, they are not designed for the particular conditions of diversity present in megadiverse countries 
-such as Colombia. This research project seeks to build acoustic monitoring tools for tropical requirements 
+such as Colombia. I have been developing acoustic monitoring tools that respond to tropical requirements 
 and conditions.
 {: .text-justify}
 
@@ -32,7 +32,9 @@ These projects included both hardware and software development.
 {: .text-justify}
 
 ### Facial and Skin Monitoring Systems
-Facial and skin perception is a crucial marker for assessing health and well-being.
+Facial and skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
+tools for automatic classification of skin conditions and diseases that may guide presumptive diagnosis of several 
+cutaneous health problems.
 {: .text-justify}
 
 ### Patent
