@@ -10,10 +10,12 @@ sidebar:
     image_alt: "logo"
     text: "To design solutions enhancing user engagement with brands"
   - title: "Applications"
-    text: "Food display, customer behavior enhancement"
+    text: "Food display, customer behavior enhancement, accessibility"
 ---
 I design and implement Computer Vision systems, multimodal feedback systems and display technology for the retail and
-tourism industries. 
+tourism industries. I specialize on food visual quality perception and measuring customer engagement with multimodal 
+stimuli but lately I have been developing interfaces to enhance user accessibility and performance.
+{: .text-justify}
 
 ### Publications
 1. [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task.](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
