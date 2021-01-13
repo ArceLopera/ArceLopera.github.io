@@ -14,7 +14,7 @@ sidebar:
     text: "Acoustic monitoring, Biodiversity, Microphone Array, Laser, Mosquitoes"
 
 ---
-### Bioacoustics
+### Bioacoustics Monitoring Systems
 Monitoring bioacoustics in tropical environments is a challenging task, 
 especially in a long-term frame. Typically, these tools are not well adapted to extreme 
 conditions of humidity and temperature. 
@@ -23,16 +23,16 @@ such as Colombia. This research project seeks to build acoustic monitoring tools
 and conditions.
 {: .text-justify}
 
-### Biometric Monitoring
-This research area aims at the design and development of novel interfaces such as wearable, elastic, tactile,
-gesture-based, mobile, biometric and/or seamless interfaces between human and computers.
-While prototype testing will focus on user engagement, the development of the interfaces will favor natural interaction
-with users by biometrical and/or behavioral pattern recognition using signal processing and analysis.
-This research area includes both hardware and software development.
+### Biometric Monitoring Systems
+I have developed various research projects aiming at the design and development of novel interfaces such as wearable, 
+elastic, tactile, gesture-based, mobile, biometric and/or seamless interfaces between users and computers.
+While prototype testing will focus on user engagement, the development of the interfaces favored natural interaction
+with users by using biometrics and/or behavioral pattern recognition using signal processing and analysis.
+These projects included both hardware and software development.
 {: .text-justify}
 
-### Facial and Skin Analysis and Perception
-Facial and skin perception is crucial for human interaction.
+### Facial and Skin Monitoring Systems
+Facial and skin perception is a crucial marker for assessing health and well-being.
 {: .text-justify}
 
 ### Patent
