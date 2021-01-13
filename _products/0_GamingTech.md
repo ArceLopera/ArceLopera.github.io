@@ -1,6 +1,6 @@
 ---
 title: "For Gaming and Entertainment"
-excerpt: "Novel Interfaces to Enhance Engagement for Gaming and Artistic Performances"
+excerpt: "Novel Interfaces to Enhance Engagement in Gaming and Artistic Performances"
 header:
   image: /assets/images/img_play_a.bmp
   teaser: /assets/images/smario2.jpg
@@ -36,8 +36,8 @@ evaluating user performance.
 7.  [Sarria, G.M., Diaz-Cely, J., ***Arce-Lopera, C. A.*** (2019) Analyzing and Extending the Salsa Dataset.](https://doi.org/10.1109/STSIVA.2019.8730229){:target="_blank"}
 8.	[Sarria, G., Mora, M., ***Arce-Lopera, C. A.*** (2016). Salsa Dataset: First Salsa Music Knowledge Base.](https://doi.org/10.17230/ricercare.2016.5.5){:target="_blank"}
 9.  [Arévalo, C., Sarria, G., Mora, M., ***Arce-Lopera, C. A.***  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song.](https://doi.org/10.1109/ISM.2015.42){:target="_blank"}
-10.  [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
-11.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
+10. [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
+11. [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
 {: .notice--success}
     
 ### Ongoing Projects

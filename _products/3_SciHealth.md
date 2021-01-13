@@ -31,7 +31,7 @@ with users by biometrical and/or behavioral pattern recognition using signal pro
 This research area includes both hardware and software development.
 {: .text-justify}
 
-### Facial and Skin Perception
+### Facial and Skin Analysis and Perception
 Facial and skin perception is crucial for human interaction.
 {: .text-justify}
 

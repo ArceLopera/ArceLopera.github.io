@@ -71,8 +71,8 @@ mechanisms such as pattern and material recognition.
 - Multicultural perception of bottle shapes (2019-)
 
 ### Clients and Collaborators
-- [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/)
-- [Sensory Science Unit, NFRI](http://www.naro.affrc.go.jp/english/laboratory/nfri/organization/02food_function_division/06/index.html)
-- [Marketing department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-mercadeo-y-negocios-internacionales/)
+- [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/){:target="_blank"}
+- [Sensory Science Unit, NFRI](http://www.naro.affrc.go.jp/english/laboratory/nfri/organization/02food_function_division/06/index.html){:target="_blank"}
+- [Marketing department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-mercadeo-y-negocios-internacionales/){:target="_blank"}
 
-For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
+For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
