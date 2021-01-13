@@ -22,10 +22,13 @@ engagement will reveal both qualitative and quantitative data to depict not only
 also, behavior that can affect the design of a meaningful long term solution. 
 The iterative design of potential solutions coupled with user testing allows converging data-driven decisions into 
 an implementation of a specific solution.
+{: .text-justify}
 
 Finally, if your team has already launched your product, and you seek to test its impact or knowing how to improve its
 characteristics, on-demand data analysis services are available to support your operational team.
 By upgrading your analytics to add meaning to your live data, impactful diagnoses can represent
 important feedback to your operation.
+{: .text-justify}
 
-Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
+Got any questions?, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
+{: .notice--warning}
