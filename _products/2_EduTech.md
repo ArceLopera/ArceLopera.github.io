@@ -16,8 +16,10 @@ sidebar:
 ---
 
 Smart educational environments with innovative technology, such as XR experiences, seek
-to enable students to immerse themselves into educational tasks with high engagement. When designing and developing
-educational experiences using novel interfaces it is crucial to measure and enhance attention, memory and/or engagement.
+to enable students to immerse themselves in educational tasks with high engagement. When designing and developing
+educational experiences using novel interfaces it is crucial to measure and enhance attention, memory, and/or engagement.
+I have partnered with educators to develop technology-enhanced educational experiences that monitor teacher-student
+interaction and enhance user performance and engagement.
 {: .text-justify}
  
 ### Publications
