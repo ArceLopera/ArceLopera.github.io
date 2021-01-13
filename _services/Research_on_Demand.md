@@ -19,7 +19,7 @@ and define SMART objectives. Using this approach, you will find real issues expe
 your targeted audience when they interact with your early concepts and hypotheses. Then, I will help to analyze 
 the results to understand how to address those insights. Testing for user experiential interaction, usability, and 
 engagement will reveal both qualitative and quantitative data to depict not only attitudes, opinions, and emotions but
-also, behavior that can affect the design of a meaningful long term solution. 
+also, behavior that can affect the design of a meaningful long-term solution. 
 The iterative design of potential solutions coupled with user testing allows converging data-driven decisions into 
 an implementation of a specific solution.
 {: .text-justify}

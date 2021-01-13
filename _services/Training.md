@@ -19,5 +19,7 @@ your own research projects. These tailored courses focus on several topics on re
 for developing research on a wide range of industries. From selecting the most cost-effective
 experimental design to performing accurate statistical analysis, you can have a wide and specialized vision 
 of the most used and effective methods to answer your research questions.
+{: .text-justify}
 
-For more details, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8).
+For more details, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
+{: .notice--warning}
