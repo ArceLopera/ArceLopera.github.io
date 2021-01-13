@@ -13,17 +13,17 @@ sidebar:
 
 ---
 ### Music influence on Performance
-Music affects human behavior and produces different emotions in them. However, it remains unclear 
-which variables of music design have a greater impact on task performance and decision making. 
-This research project aims to analyze different music design features and their respective induced 
-emotional states and task performance on consumers. The results will reveal if there are significant 
-features in music design that modify decision making depending on listener profiles.
+Music affects human behavior and produces different emotions in them. However, it remains unclear which 
+variables of music design have a greater impact on task performance and decision making.
+This research project aims to analyze different music design features and their respective induced emotional 
+states and task performance. The results will reveal if there are significant features in music design that modify 
+decision-making depending on listener profiles.
 {: .text-justify}
 
 ### Salsa
 One of the most well-known Latin musical genres is Salsa. However, most of the research on the Salsa musical 
 genre is based on ethnomusicology, which has revealed Salsa’s complex and diverse social and cultural aspects.
-Unfortunately, Salsa musical genre has not been included in computational musical research in spite of its popularity.
+Unfortunately, Salsa musical genre has not been included in computational musical research despite its popularity.
 We aim at the creation and analysis of music data that enable computational research on intangible cultural heritage 
 and to contribute to the legitimation of local music as a valuable part of the identity of a region.
 {: .text-justify}
