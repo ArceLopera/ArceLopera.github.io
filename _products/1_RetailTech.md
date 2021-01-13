@@ -6,15 +6,15 @@ header:
   teaser: /assets/images/retail_small.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/retail_small.jpg
-    image_alt: "logo"
+    image: 
+    image_alt: 
     text: "To design solutions enhancing user engagement with brands"
   - title: "Applications"
     text: "Food display, customer behavior enhancement, accessibility"
 ---
-I design and implement Computer Vision systems, multimodal feedback systems and display technology for the retail and
-tourism industries. I specialize on food visual quality perception and measuring customer engagement with multimodal 
-stimuli but lately I have been developing interfaces to enhance user accessibility and performance.
+I design and implement Computer Vision systems, multimodal feedback systems, and display technology for the retail and
+tourism industries. I specialize in food visual quality perception and measuring customer engagement with multimodal 
+stimuli but lately, I have been developing interfaces to enhance user accessibility and performance.
 {: .text-justify}
 
 ### Publications
