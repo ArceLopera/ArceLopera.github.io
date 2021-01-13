@@ -7,8 +7,8 @@ header:
   teaser: /assets/images/Dog1.jpg
 sidebar:
   - title: "Objective"
-    image: /assets/images/dedo.jpg
-    image_alt: "logo"
+    image:
+    image_alt:
     text: "To develop both SW and HW for novel HCI systems"
   - title: "Themes"
     text: "Biometrics, wearables, multimodal systems, accessibility"
