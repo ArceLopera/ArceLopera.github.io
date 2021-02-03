@@ -30,7 +30,7 @@ The course details are only available to active students.
   </tbody>
 </table>
 
-| Syntax      | Description | Test Text     |
+| Week - Day      | Topic | Notes     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 1 - 1   | Introduction to Operating Systems       | Chapter 1: Sections 1.1 to 1.6   |
+| 1 - 2   | Introduction to Powershell        | Help cmdlet      |
