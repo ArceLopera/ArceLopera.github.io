@@ -10,9 +10,7 @@ title: "09627 - Operating Systems"
 - To deploy an application considering the OS characteristics, virtualization strategy and performance required.
 - To apply a root cause analysis of OS events by using performance metrics.
 
-## About
-
-Schedule
+## Schedule
 
 | Week - Day      | Topic | Notes     |
 | :---        |    :----:   |          ---: |
