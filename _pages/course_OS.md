@@ -12,13 +12,14 @@ title: "09627 - Operating Systems"
 
 ## Schedule
 
-| Week - Day      | Topic | Notes     |
+| Week - Day      | Topics and Materials | Notes  and Exercises   |
 | :---        |    :---   |          ---: |
-| 1 - 1   | Introduction to Operating Systems | [Book 1.1 to 1.6](https://drive.google.com/file/d/184aeT45KvIfGFcFSRp8CyUCvjZ361NeM/view?usp=sharing){:target="_blank"}   |
-| 1 - 2   | Powershell M1        | Help cmdlet      |
-| 2 - 1   | Operating Systems Structures| Book 2.1 - 2.3 & 2.8   |
-| 2 - 2   | Powershell M2       | cmdlets      |
+| 1 - 1   | Introduction to Operating Systems (Handout / video) | [Book 1.1 to 1.6](https://drive.google.com/file/d/184aeT45KvIfGFcFSRp8CyUCvjZ361NeM/view?usp=sharing){:target="_blank"}   |
+| 1 - 2   | Powershell M1 (Handout)     | Help cmdlet      |
+| 2 - 1   | Operating Systems Structures (Handout / video) | [Book 2.1 - 2.3 & 2.8](https://drive.google.com/file/d/1ReDp91IANDDzBYFgSL34nO4oEAvsrMOD/view?usp=sharing){:target="_blank"}   |
+| 2 - 2   | Powershell M2 (Handout)    | cmdlets      |
 
+To access all related exercises and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
 
 [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html){:target="_blank"}
