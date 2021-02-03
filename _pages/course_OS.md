@@ -19,6 +19,6 @@ title: "09627 - Operating Systems"
 | 2 - 1   | Operating Systems Structures| Book 2.1 - 2.3 & 2.8   |
 | 2 - 2   | Powershell M2       | cmdlets      |
 
-##Textbook
+## Textbook
 
 [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html)
