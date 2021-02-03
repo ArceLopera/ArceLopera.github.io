@@ -11,6 +11,7 @@ title: "09627 - Operating Systems"
 - To apply a root cause analysis of OS events by using performance metrics.
 
 ## About
+
 Schedule
 
 | Week - Day      | Topic | Notes     |
@@ -21,4 +22,5 @@ Schedule
 | 2 - 2   | Powershell M2       | cmdlets      |
 
 ##Textbook
+
 [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html)
