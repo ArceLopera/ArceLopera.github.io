@@ -15,7 +15,7 @@ title: "09627 - Operating Systems"
 | Week - Day      | Topic | Notes     |
 | :---        |    :----:   |          ---: |
 | 1 - 1   | Introduction to Operating Systems | Book 1.1 to 1.6   |
-| 1 - 2   | Introduction to Powershell        | Help cmdlet      |
+| 1 - 2   | Powershell M1        | Help cmdlet      |
 | 2 - 1   | Operating Systems Structures| Book 2.1 - 2.3 & 2.8   |
 | 2 - 2   | Powershell M2       | cmdlets      |
 
