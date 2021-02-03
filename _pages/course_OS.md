@@ -11,26 +11,11 @@ title: "09627 - Operating Systems"
 - To apply a root cause analysis of OS events by using performance metrics.
 
 ## About
-The course details are only available to active students.
-
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Topic</th>
-      <th>Assignments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> 1 </td>
-      <td> Introduction to Operating Systems</td>
-      <td> Chapter 1: Sections 1.1 to 1.6</td>
-    </tr>
-  </tbody>
-</table>
+Schedule
 
 | Week - Day      | Topic | Notes     |
 | :---        |    :----:   |          ---: |
-| 1 - 1   | Introduction to Operating Systems       | Chapter 1: Sections 1.1 to 1.6   |
+| 1 - 1   | Introduction to Operating Systems | Book 1.1 to 1.6   |
 | 1 - 2   | Introduction to Powershell        | Help cmdlet      |
+
+[Operating System Concepts  Tenth Edition](https://www.os-book.com/OS10/index.html)
