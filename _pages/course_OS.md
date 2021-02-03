@@ -17,6 +17,8 @@ Schedule
 | :---        |    :----:   |          ---: |
 | 1 - 1   | Introduction to Operating Systems | Book 1.1 to 1.6   |
 | 1 - 2   | Introduction to Powershell        | Help cmdlet      |
+| 2 - 1   | Operating Systems Structures| Book 2.1 - 2.3 & 2.8   |
+| 2 - 2   | Powershell M2       | cmdlets      |
 
 ##Textbook
-[Operating System Concepts  Tenth Edition](https://www.os-book.com/OS10/index.html)
+[Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html)
