@@ -29,3 +29,8 @@ The course details are only available to active students.
     </tr>
   </tbody>
 </table>
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
