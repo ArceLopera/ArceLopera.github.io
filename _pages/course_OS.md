@@ -14,7 +14,8 @@ title: "09627 - Operating Systems"
 
 | Week - Day      | Topics and Materials | Notes  and Exercises   |
 | :---        |    :---   |          ---: |
-| 1 - 1   | Intro to Operating Systems -- [Handout](https://drive.google.com/file/d/1XtT9bVDjWAjLhSz0cnyupl6xy3RITrYQ/view?usp=sharing){:target="_blank"} / Video {% include video id="XsxDH4HcOWA" provider="youtube" %} | [Book 1.1 to 1.6](https://drive.google.com/file/d/184aeT45KvIfGFcFSRp8CyUCvjZ361NeM/view?usp=sharing){:target="_blank"}   |
+| 1 - 1   | Intro to Operating Systems -- [Handout](https://drive.google.com/file/d/1XtT9bVDjWAjLhSz0cnyupl6xy3RITrYQ/view?usp=sharing){:target="_blank"}  | [Book 1.1 to 1.6](https://drive.google.com/file/d/184aeT45KvIfGFcFSRp8CyUCvjZ361NeM/view?usp=sharing){:target="_blank"}   |
+| Video {% include video id="XsxDH4HcOWA" provider="youtube" %}|
 | 1 - 2   | Powershell M1 -- [Handout](https://drive.google.com/file/d/1DiUSF-L4-XhUqqOCPQW_AB4gEt6NdSSc/view?usp=sharing){:target="_blank"}      | [Help cmdlet](https://drive.google.com/file/d/1gT4R9y3ni2EixnxAk2uajCIFEbpL8QuI/view?usp=sharing){:target="_blank"}      |
 | 2 - 1   | Operating Systems Structures -- Handout / Video | [Book 2.1 - 2.3 & 2.8](https://drive.google.com/file/d/1ReDp91IANDDzBYFgSL34nO4oEAvsrMOD/view?usp=sharing){:target="_blank"}   |
 | 2 - 2   | Powershell M2 -- Handout    | cmdlets      |
