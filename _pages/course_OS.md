@@ -6,9 +6,9 @@ title: "09627 - Operating Systems"
 
 - To identify the main responsibilities of an Operating System (OS). 
 - To explain the fundamental principles, strategies and algorithms associated to the main responsibilities of an OS.
-- To describe the main factors associated with OS performance. 
-- To deploy an application considering the OS characteristics, virtualization strategy and performance required.
-- To apply a root cause analysis of OS events by using performance metrics.
+- To describe the main factors associated with OS performance.
+- To develop scripts (in Powershell and Bash) to monitor OS events.
+
 
 ## Schedule
 
