@@ -20,7 +20,7 @@ strengths of each approach.
 {: .text-justify}
 
 ### Publications
-1.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.***. (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
+1.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
 2.  [***Arce-Lopera, C. A.***, Cardona, J. J., García, F. (2020). Acoustic Monitoring System for Teacher and Student Engagement Evaluation.](https://doi.org/10.23919/CISTI49556.2020.9140442){:target="_blank"}
 3.  [***Arce-Lopera, C. A.***, Gomez, A., Montoya, C. (2020). User Engagement for Collaborative Learning on a Mobile and Desktop Augmented Reality Application.](https://doi.org/10.1109/ICVRV47840.2019.00045){:target="_blank"}
 4.  [***Arce-Lopera, C. A.***, Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}

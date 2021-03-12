@@ -29,7 +29,7 @@ and to contribute to the legitimation of local music as a valuable part of the i
 {: .text-justify}
 
 ### Publications
-1.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.***. (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
+1.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
 2.  [***Arce-Lopera, C. A.***, Sarria, G., Mora, M. (2020). Understanding Salsa: How Computing Is Defining Latin Music.](https://doi.org/10.1145/3416967){:target="_blank"}
 3.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
 4.  [Sarria, G.M., Diaz-Cely, J., ***Arce-Lopera, C. A.*** (2019) Analyzing and Extending the Salsa Dataset.](https://doi.org/10.1109/STSIVA.2019.8730229){:target="_blank"}
