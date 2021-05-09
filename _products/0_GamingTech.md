@@ -15,7 +15,7 @@ sidebar:
 
 ---
 I have lead design and development teams that tested novel interfaces for gaming and entertainment projects with
-a variety of targeted audiences. From enticing real customers in retail environments [<sup>4</sup>](https://dl.acm.org/doi/10.1145/3292147.3292186){:target="_blank"}
+a variety of targeted audiences. From enticing real customers in retail environments [<sup>1,</sup>](https://doi.org/10.1145/3411763.3451792){:target="_blank"}[<sup>5</sup>](https://dl.acm.org/doi/10.1145/3292147.3292186){:target="_blank"}
 to enhancing attention of Pre-K students [<sup>1</sup>](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}, 
 I am focused on enhancing user engagement and interaction performance. The design of novel hardware
 coupled with careful assessment of the quality of the user experience is a powerful combination to develop multimodal 
