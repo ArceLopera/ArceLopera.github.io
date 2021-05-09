@@ -18,7 +18,7 @@ stimuli but lately, I have been developing interfaces to enhance user accessibil
 {: .text-justify}
 
 ### Publications
-1. [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall: AR for Brand Recognition and Recall.](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
+1. [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
 2. [Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
 3. [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task.](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
 4. [***Arce-Lopera, C. A.***, Jiménez, J., Montoya, C., Giraldo, J. (2019). Universal Design for Enhancing Accessibility of the Visually Impaired in Touristic Environments.](https://doi.org/10.1007/978-3-030-20227-9_48){:target="_blank"}
