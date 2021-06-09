@@ -19,7 +19,7 @@ Moreover, in spite there was not a statistically significant difference between 
 understanding between both conditions, the mobile application was rated significantly lower than 
 the desktop application in user engagement for collaborative environments.
 
-Check out the [Proceeding][URL] 
+Check out the [Proceeding][URL]{:target="_blank"} 
 
 [URL]: https://doi.org/10.1109/ICVRV47840.2019.00045
 

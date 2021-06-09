@@ -18,7 +18,7 @@ showed that this research project has the potential to greatly impact conservati
 
 
 
-Check out the [Award Press Info][URL] 
+Check out the [Award Press Info][URL]{:target="_blank"} 
 
 [URL]: https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html
 

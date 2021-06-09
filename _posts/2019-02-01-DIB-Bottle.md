@@ -18,10 +18,8 @@ object shape measurements such as width, height and area and combining them with
 specific quantitative shape measurements such as the principal moment statistics. Finally, 
 this data article includes the code for extracting these shape characteristics from image silhouettes.
 
-Arboleda, A. M., Arce-Lopera, C. A. (2019). 
-Code and Data on the categorization of soft-drink bottles using image silhouettes. 
-Data in Brief. 22, 590-594. doi.org/10.1016/j.dib.2018.12.068
 
-Check out the [Data Article][Data Bottle] 
+
+Check out the [Data Article][Data Bottle]{:target="_blank"} 
 
 [Data Bottle]: https://doi.org/10.1016/j.dib.2018.12.068

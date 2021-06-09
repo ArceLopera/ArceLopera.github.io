@@ -19,7 +19,7 @@ of Japanese Kanji using audio and tactile stimuli priming. Preliminary results r
 memory training showed a statistically significant increase in information recall. However, further 
 research is needed to validate if this type of priming strategy holds in long-term information recall.
 
-Check out the [Proceeding][URL] 
+Check out the [Proceeding][URL]{:target="_blank"} 
 
 [URL]: https://doi.org/10.1109/ICVRV47840.2019.00047
 

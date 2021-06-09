@@ -13,7 +13,7 @@ VECO is a software and hardware system that counts the number of
 mosquitoes in a recipient using analysis of the sound produced by the mosquitos flying. 
 Mosquitoes Counting System, Patent NC2017/0012483
 
-Check out the [Patent Info][URL] 
+Check out the [Patent Info][URL]{:target="_blank"} 
 
 [URL]: http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637118634441553423
 
