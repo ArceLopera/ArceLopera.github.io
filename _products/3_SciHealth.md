@@ -42,16 +42,17 @@ cutaneous health problems.
 {: .notice--success}
 
 ### Publications
-1.	[***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
-2.	[***Arce-Lopera, C. A.***, Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs.](https://doi.org/10.1007/978-3-030-23525-3_58){:target="_blank"}
-3.  [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
-4.	[***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
-5.  [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin.]( https://doi.org/10.1111/j.1600-0846.2012.00638.x){:target="_blank"}
-6.  [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Effects of Diffuse and Specular Reflections on the Perceived Age of Facial Skin.](https://doi.org/10.1007/s10043-012-0028-4){:target="_blank"}
-7.  [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T., Nakao, K. (2012). Luminance Distribution Effects on the Visual Quality of Human Skin.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1006.8888&rep=rep1&type=pdf){:target="_blank"}
-8.  [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T. (2011). Effects of Luminance Distribution on Visual Quality of Human Skin.](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201102228614524759){:target="_blank"}
-9.  [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T., Nakao, K. (2010). Luminance Statistics Effects on Skin Age Perception.](https://ifscc.org/){:target="_blank"}
-10.  [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception.](https://www.ieice.org/ken/paper/200906161aN4/){:target="_blank"}
+1.   [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
+2.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
+3.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs.](https://doi.org/10.1007/978-3-030-23525-3_58){:target="_blank"}
+4.   [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
+5.   [***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
+6.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin.]( https://doi.org/10.1111/j.1600-0846.2012.00638.x){:target="_blank"}
+7.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Effects of Diffuse and Specular Reflections on the Perceived Age of Facial Skin.](https://doi.org/10.1007/s10043-012-0028-4){:target="_blank"}
+8.   [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T., Nakao, K. (2012). Luminance Distribution Effects on the Visual Quality of Human Skin.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1006.8888&rep=rep1&type=pdf){:target="_blank"}
+9.   [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T. (2011). Effects of Luminance Distribution on Visual Quality of Human Skin.](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201102228614524759){:target="_blank"}
+10.  [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T., Nakao, K. (2010). Luminance Statistics Effects on Skin Age Perception.](https://ifscc.org/){:target="_blank"}
+11.  [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception.](https://www.ieice.org/ken/paper/200906161aN4/){:target="_blank"}
 {: .notice--success}
 
 ### Ongoing Projects
