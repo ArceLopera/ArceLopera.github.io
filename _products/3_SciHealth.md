@@ -57,7 +57,6 @@ cutaneous health problems.
 
 ### Ongoing Projects
 - WikiAves repository enhancement (2019-)
-- Cutaneous Leishmaniasis image analysis and classification (2018-)
 - Biodiversity acoustic monitoring (2018-)
 - Mosquito acoustic characterization (2015-)
 

@@ -29,7 +29,6 @@ stimuli but lately, I have been developing interfaces to enhance user accessibil
 {: .notice--info}
 
 ### Ongoing Projects
-- Virtual clothing display environment for retailers (2020-)
 - Computer vision system for product recognition and monitoring in supermarket shelves (2019-)
 - Multisensory smart shelves for luring customer in retail environments (2019-)
 - Trekking characterisation in Colombia (2018-)

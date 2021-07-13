@@ -24,13 +24,14 @@ evaluating user performance.
 {: .text-justify}
 
 ### Publications on Games
-1. [***Arce-Lopera, C. A.***, Ospina, R., Madrid, j. (2021). Handgrip Force Sensor to Measure Mental Workload.](https://doi.org/10.1007/978-3-030-78635-9_14){:target="_blank"}
-2. [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall.](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
-3. [***Arce-Lopera, C. A.***, Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}
-4. [***Arce-Lopera, C. A.***, Ortiz, S., Restrepo, S., Moreno, V., Martinez, N. (2020). Audio-tactile priming to guide information recall in edutainment.](https://ieeexplore.ieee.org/document/9212866){:target="_blank"}
-5. [***Arce-Lopera, C. A.***, Perea, A. (2019). Logic Evaluation through Game-based Assessment.](https://link.springer.com/chapter/10.1007/978-3-030-20476-1_25){:target="_blank"}
-6. [***Arce-Lopera, C. A.***, Avendaño, G., Rodríguez, B., Victoria, D. (2018). In store shelf display technology for enhancing customer brand recognition.](https://dl.acm.org/doi/10.1145/3292147.3292186){:target="_blank"}
-7. [***Arce-Lopera, C. A.***, Gomez, A. (2018). User engagement through multimodal feedback and involvement in game design with a wearable interface.](https://link.springer.com/chapter/10.1007/978-3-319-94619-1_41){:target="_blank"}
+1. [Arias, M.J, Corrales, G., ***Arce-Lopera, C. A.*** (2021). Training birdsong recognition using virtual reality.](http://www.vr-ih.com/vrih/html/EN/10.3724/SP.J.2096-5796.21.00023){:target="_blank"}
+2. [***Arce-Lopera, C. A.***, Ospina, R., Madrid, j. (2021). Handgrip Force Sensor to Measure Mental Workload.](https://doi.org/10.1007/978-3-030-78635-9_14){:target="_blank"}
+3. [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall.](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
+4. [***Arce-Lopera, C. A.***, Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}
+5. [***Arce-Lopera, C. A.***, Ortiz, S., Restrepo, S., Moreno, V., Martinez, N. (2020). Audio-tactile priming to guide information recall in edutainment.](https://ieeexplore.ieee.org/document/9212866){:target="_blank"}
+6. [***Arce-Lopera, C. A.***, Perea, A. (2019). Logic Evaluation through Game-based Assessment.](https://link.springer.com/chapter/10.1007/978-3-030-20476-1_25){:target="_blank"}
+7. [***Arce-Lopera, C. A.***, Avendaño, G., Rodríguez, B., Victoria, D. (2018). In store shelf display technology for enhancing customer brand recognition.](https://dl.acm.org/doi/10.1145/3292147.3292186){:target="_blank"}
+8. [***Arce-Lopera, C. A.***, Gomez, A. (2018). User engagement through multimodal feedback and involvement in game design with a wearable interface.](https://link.springer.com/chapter/10.1007/978-3-319-94619-1_41){:target="_blank"}
 {: .notice--success}
 
 ### Publications on Arts
@@ -44,8 +45,6 @@ evaluating user performance.
     
 ### Ongoing Projects
 - Kanji writing game for mobile (2020-)
-- 3D sound localization game for bird recognition (2020-)
-- AR games to enhance brand recognition (2019-)
 
 ### Clients and Collaborators
 - [Smurfit Kappa](https://www.smurfitkappa.com/co){:target="_blank"}
