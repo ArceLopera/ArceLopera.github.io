@@ -16,8 +16,8 @@ sidebar:
 
 
 ### Publications
-1. [Kassem, D., Arce-Lopera, C. (2020) Road-Condition Monitoring and Classification for Smart Cities.](https://doi.org/10.1007/978-3-030-51328-3_60){:target="_blank"}
-2. [Manzano, A. M., Salamanca García, J. M., Arce-Lopera, C. A. (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems.](https://vimeo.com/136255023){:target="_blank"}
+2. [Kassem, D., Arce-Lopera, C. (2020) Road-Condition Monitoring and Classification for Smart Cities.](https://doi.org/10.1007/978-3-030-51328-3_60){:target="_blank"}
+1. [Manzano, A. M., Salamanca García, J. M., Arce-Lopera, C. A. (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems.](https://vimeo.com/136255023){:target="_blank"}
 {: .notice--success}
 
 ### Clients and Collaborators
