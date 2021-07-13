@@ -39,7 +39,7 @@ strengths of each approach.
 3.  [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://link.springer.com/chapter/10.1007/978-3-319-60582-1_25){:target="_blank"}
 2.  [Manzano, A. M., Salamanca García, J. M., ***Arce-Lopera, C. A.*** (2015). Visualizing User’s Experience to Support Real Time Decision-Making in Urban Transportation Systems.](https://vimeo.com/136255023){:target="_blank"}
 1.  [Sandoval, N., Potes, A., Arboleda, A. M., Salamanca García, J. M., ***Arce-Lopera, C. A.*** (2014). Image Information Influencing the Online Purchase Intention of Vegetables Products](https://doi.org/10.18046/syt.v12i28.1750){:target="_blank"}
-    {: .notice--success}
+{: .notice--success}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 {: .notice--warning}
