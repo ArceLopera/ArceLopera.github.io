@@ -14,7 +14,7 @@ sidebar:
     text: "Acoustic monitoring, Biodiversity, Microphone Array, Laser, Mosquitoes"
 
 ---
-### Bioacoustics Monitoring Systems
+## Bioacoustics Monitoring Systems
 Monitoring bioacoustics in tropical environments is a challenging task, 
 especially in a long-term frame. Typically, these tools are not well adapted to extreme 
 conditions of humidity and temperature. 
@@ -35,7 +35,7 @@ and conditions.
 1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}
 {: .notice--success}
 
-### Biometric Monitoring Systems
+## Biometric Monitoring Systems
 I have developed various research projects aiming at the design and development of novel interfaces such as wearable, 
 elastic, tactile, gesture-based, mobile, biometric, and/or seamless interfaces between users and computers.
 While prototype testing will focus on user engagement, the development of the interfaces favored natural interaction
@@ -49,7 +49,7 @@ These projects included both hardware and software development.
 1.   [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
 {: .notice--success}
 
-### Facial and Skin Monitoring Systems
+## Facial and Skin Monitoring Systems
 Facial and skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
 tools for the automatic classification of skin conditions and diseases that may guide the presumptive diagnosis of several 
 cutaneous health problems.
@@ -66,7 +66,7 @@ cutaneous health problems.
 1.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception.](https://www.ieice.org/ken/paper/200906161aN4/){:target="_blank"}
 {: .notice--success}
 
-### Food Quality Monitoring Systems
+## Food Quality Monitoring Systems
 Food quality perception is strongly related with appetite and consumption. I am interested in developing systems for 
 monitoring food quality and display systems to improve quality perception.
 {: .text-justify}
@@ -79,12 +79,12 @@ monitoring food quality and display systems to improve quality perception.
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
   
-### Ongoing Projects
+## Ongoing Projects
 - WikiAves repository enhancement (2019-)
 - Biodiversity acoustic monitoring (2018-)
 - Mosquito acoustic characterization (2015-)
 
-### Clients and Collaborators
+## Clients and Collaborators
 - [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}
 - [Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/){:target="_blank"}
 
