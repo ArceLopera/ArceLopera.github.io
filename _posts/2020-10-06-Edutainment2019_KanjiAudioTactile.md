@@ -4,11 +4,10 @@ date: 2020-10-06T12:46:30-05:00
 header:
    teaser: /assets/images/EduTech.jpg
 categories:
-  - System Development
+  - Gaming and Entertainment
+  - Education
 tags:
-  - Intelligent Environments
-  - Education and Technology 
-  - Game Design
+  - UX Research
 ---
 
 Assistive technology in learning environments needs to foster information recall strategies as a 
