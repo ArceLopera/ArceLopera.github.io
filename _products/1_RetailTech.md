@@ -28,6 +28,9 @@ stimuli but lately, I have been developing interfaces to enhance user accessibil
 1. [Sandoval, N., Potes, A., Arboleda, A. M., Salamanca García, J. M., ***Arce-Lopera, C. A.*** (2014). Image Information Influencing the Online Purchase Intention of Vegetables Products](https://doi.org/10.18046/syt.v12i28.1750){:target="_blank"}
 {: .notice--info}
 
+### Invited Talks
+1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
+
 ### Ongoing Projects
 - Computer vision system for product recognition and monitoring in supermarket shelves (2019-)
 - Multisensory smart shelves for luring customer in retail environments (2019-)
