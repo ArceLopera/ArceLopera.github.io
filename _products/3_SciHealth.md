@@ -62,8 +62,8 @@ monitoring food quality and display systems to improve quality perception.
 {: .notice--success}
 
 ### Invited Talks
-1.   [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}
-     {: .notice--success}
+1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
+
 
 ### Ongoing Projects
 - WikiAves repository enhancement (2019-)
