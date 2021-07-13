@@ -65,7 +65,9 @@ monitoring food quality and display systems to improve quality perception.
 ### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
-
+### Awards
+1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}{: .notice--success}
+      
 ### Ongoing Projects
 - WikiAves repository enhancement (2019-)
 - Biodiversity acoustic monitoring (2018-)
