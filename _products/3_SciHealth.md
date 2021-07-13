@@ -37,6 +37,11 @@ tools for the automatic classification of skin conditions and diseases that may 
 cutaneous health problems.
 {: .text-justify}
 
+### Food Quality Monitoring Systems
+Food quality perception is strongly related with appetite and consumption. I am interested in developing systems for 
+monitoring food quality and display systems to improve quality perception.
+{: .text-justify}
+
 ### Patent
 1.	[Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02](http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637460798176151789){:target="_blank"}
 {: .notice--success}
@@ -55,6 +60,10 @@ cutaneous health problems.
 2.   [***Arce-Lopera, C. A.***, Okajima, K., Igarashi, T., Nakao, K. (2010). Luminance Statistics Effects on Skin Age Perception.](https://ifscc.org/){:target="_blank"}
 1.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception.](https://www.ieice.org/ken/paper/200906161aN4/){:target="_blank"}
 {: .notice--success}
+
+### Invited Talks
+1.   [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}
+     {: .notice--success}
 
 ### Ongoing Projects
 - WikiAves repository enhancement (2019-)
