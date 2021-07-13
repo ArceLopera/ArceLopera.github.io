@@ -24,7 +24,7 @@ decision-making depending on listener profiles.
 3.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
 2.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
 1.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance.](http://www.iadisportal.org/digital-library/the-effect-of-background-instrumental-music-on-emotion-and-performance){:target="_blank"}
-    {: .notice--success}
+{: .notice--success}
 
 ### Salsa
 One of the most well-known Latin musical genres is Salsa. However, most of the research on the Salsa musical 
