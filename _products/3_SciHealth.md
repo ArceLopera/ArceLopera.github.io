@@ -24,13 +24,16 @@ and conditions.
 {: .text-justify}
 
 ### Patent
-1.	[Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02](http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637460798176151789){:target="_blank"}{: .notice--success}
+1.	[Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02](http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637460798176151789){:target="_blank"}
+{: .notice--success}
 
 ### Publications on Bioacoustics Monitoring Systems
-1.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}{: .notice--success}
+1.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
+{: .notice--success}
 
 ### Awards
-1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}{: .notice--success}
+1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}
+{: .notice--success}
 
 ### Biometric Monitoring Systems
 I have developed various research projects aiming at the design and development of novel interfaces such as wearable, 
