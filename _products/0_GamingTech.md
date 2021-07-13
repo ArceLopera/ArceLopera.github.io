@@ -1,5 +1,5 @@
 ---
-title: "For Gaming and Entertainment"
+title: "For Gaming and Arts"
 excerpt: "Novel Interfaces to Enhance Engagement in Gaming and Artistic Performances"
 header:
   image: /assets/images/img_play_a.bmp
