@@ -4,11 +4,10 @@ date: 2021-07-17T12:46:30-05:00
 header:
    teaser: /assets/images/EduTech.jpg
 categories:
-  - System Development
+  - Gaming and Entertainment
+  - Education
 tags:
-  - Intelligent Environments
-  - Education and Technology 
-  - Game Design
+  - Novel Interfaces
 ---
 
 Commonly, Species Monitoring is performed in mega-biodiverse environments by using bioacoustics 
