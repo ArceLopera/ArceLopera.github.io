@@ -4,10 +4,10 @@ date: 2021-07-17T12:46:30-05:00
 header:
    teaser: /assets/images/EduTech.jpg
 categories:
-  - Gaming and Entertainment
+  - Gaming
   - Education
 tags:
-  - Novel Interfaces
+  - XR Interfaces
 ---
 
 Commonly, Species Monitoring is performed in mega-biodiverse environments by using bioacoustics 
