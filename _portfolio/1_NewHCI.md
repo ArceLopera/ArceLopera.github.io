@@ -35,7 +35,7 @@ enhance accessibility is crucial for novel interface development.
 3.	[***Arce-Lopera, C. A.***, Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs.](https://doi.org/10.1007/978-3-030-23525-3_58){:target="_blank"}
 2.  [***Arce-Lopera, C. A.***, Gomez, A. (2018). User engagement through multimodal feedback and involvement in game design with a wearable interface.](https://link.springer.com/chapter/10.1007/978-3-319-94619-1_41){:target="_blank"}
 1.  [Madrid, J.M., Lasso, F., ***Arce-Lopera, C. A.*** (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
-    {: .notice--success}
+{: .notice--success}
 
 ### Publications on Novel Interfaces (Visualization, CV systems, Haptic, ...)
 6.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
@@ -44,7 +44,7 @@ enhance accessibility is crucial for novel interface development.
 3.  [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
 2.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
 1.  [***Arce-Lopera, C. A.***, Kobayashi, Y., Kan, A., Komori, O., Okajima, K., Fukuda, R., Wada, Y. (2010). Tactile Sense Presentation System for the Physically-disabled based on Image Information.](https://doi.org/10.1007/978-3-030-20227-9_48){:target="_blank"}
-    {: .notice--success}
+{: .notice--success}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 {: .notice--warning}
