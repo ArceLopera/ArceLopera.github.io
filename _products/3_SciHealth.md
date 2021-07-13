@@ -23,15 +23,15 @@ such as Colombia. I have been developing acoustic monitoring tools that respond 
 and conditions.
 {: .text-justify}
 
-### Patent
+#### Patent
 1.	[Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02](http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637460798176151789){:target="_blank"}
 {: .notice--success}
 
-### Publications on Bioacoustics Monitoring Systems
+#### Publications on Bioacoustics Monitoring Systems
 1.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
 {: .notice--success}
 
-### Awards
+#### Awards
 1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}
 {: .notice--success}
 
@@ -43,7 +43,7 @@ with users by using biometrics and/or behavioral pattern recognition using signa
 These projects included both hardware and software development.
 {: .text-justify}
 
-### Publications on Biometric Monitoring Systems
+#### Publications on Biometric Monitoring Systems
 3.   [***Arce-Lopera, C. A.***, Ospina, R., Madrid, j. (2021). Handgrip Force Sensor to Measure Mental Workload.](https://doi.org/10.1007/978-3-030-78635-9_14){:target="_blank"}
 2.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs.](https://doi.org/10.1007/978-3-030-23525-3_58){:target="_blank"}
 1.   [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
@@ -55,7 +55,7 @@ tools for the automatic classification of skin conditions and diseases that may 
 cutaneous health problems.
 {: .text-justify}
 
-### Publications on Facial and Skin Monitoring Systems
+#### Publications on Facial and Skin Monitoring Systems
 8.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
 7.   [***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
 6.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin.]( https://doi.org/10.1111/j.1600-0846.2012.00638.x){:target="_blank"}
@@ -71,11 +71,11 @@ Food quality perception is strongly related with appetite and consumption. I am 
 monitoring food quality and display systems to improve quality perception.
 {: .text-justify}
   
-### Publications on Food Quality Monitoring Systems
+#### Publications on Food Quality Monitoring Systems
 1.  [***Arce-Lopera, C. A.***, Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables.](https://doi.org/10.1016/j.dib.2019.105079){:target="_blank"}
 {: .notice--success}
 
-### Invited Talks
+#### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
   
