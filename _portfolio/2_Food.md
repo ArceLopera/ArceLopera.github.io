@@ -64,6 +64,10 @@ mechanisms such as pattern and material recognition.
  2.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2019). Code and Data on the categorization of soft-drink bottles using image silhouettes.](https://doi.org/10.1016/j.dib.2018.12.068){:target="_blank"}
  1.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2015). Quantitative Analysis of Product Categorization in Soft Drinks Using Bottle Silhouettes.](https://doi.org/10.1016/j.foodqual.2015.04.006){:target="_blank"}
 {: .notice--info}
+       
+
+### Invited Talks
+1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
 ### Ongoing Projects
 - Ripeness estimation system for tropical fruits (2020-)

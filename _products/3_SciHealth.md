@@ -47,9 +47,10 @@ monitoring food quality and display systems to improve quality perception.
 {: .notice--success}
 
 ### Publications
-12.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
-11.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
-10.  [***Arce-Lopera, C. A.***, Ospina, R., Madrid, j. (2021). Handgrip Force Sensor to Measure Mental Workload.](https://doi.org/10.1007/978-3-030-78635-9_14){:target="_blank"}
+13.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
+12.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
+11.  [***Arce-Lopera, C. A.***, Ospina, R., Madrid, j. (2021). Handgrip Force Sensor to Measure Mental Workload.](https://doi.org/10.1007/978-3-030-78635-9_14){:target="_blank"}
+10.  [***Arce-Lopera, C. A.***, Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables.](https://doi.org/10.1016/j.dib.2019.105079){:target="_blank"}
 9.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., García, P., Morales, M. (2019). Technology-enhanced Training System for Reducing Separation Anxiety in Dogs.](https://doi.org/10.1007/978-3-030-23525-3_58){:target="_blank"}
 8.   [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
 7.   [***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
