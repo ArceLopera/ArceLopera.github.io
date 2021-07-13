@@ -4,11 +4,9 @@ date: 2019-02-01T12:34:30-04:00
 header:
    teaser: /assets/images/coke.png
 categories:
-  - Sensory Perception
+  - Retail and Tourism
 tags:
-  - Technology in Retail
-  - Food Perception
-  - Packaging
+  - Food Quality Perception
 ---
 
 This data article includes the visual stimuli used to test the categorization of a set of soft drink 
