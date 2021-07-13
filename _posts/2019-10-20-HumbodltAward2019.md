@@ -4,10 +4,9 @@ date: 2019-10-26T12:34:30-05:00
 header:
    teaser: /assets/images/bird1.jpg
 categories:
-  - Award
+  - Science and Healthcare
 tags:
-  - Intelligent Environments
-  - Monitoring 
+  - Novel Interfaces 
 ---
 
 Two research projects won the 2019 Humboldt Connection Prize awarded by the Goethe Institut. Both projects are 
