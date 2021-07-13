@@ -4,10 +4,10 @@ date: 2020-10-06T12:45:30-05:00
 header:
    teaser: /assets/images/EduTech.jpg
 categories:
-  - System Development
+  - Education
 tags:
-  - Intelligent Environments
-  - Education and Technology  
+  - UX Research
+  - Novel Interfaces
 ---
 
 User engagement and information understanding was assessed for a basic electronics tutorial 
