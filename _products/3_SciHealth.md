@@ -55,7 +55,7 @@ tools for the automatic classification of skin conditions and diseases that may 
 cutaneous health problems.
 {: .text-justify}
 
-### Publications 
+### Publications on Facial and Skin Monitoring Systems
 8.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
 7.   [***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
 6.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin.]( https://doi.org/10.1111/j.1600-0846.2012.00638.x){:target="_blank"}
