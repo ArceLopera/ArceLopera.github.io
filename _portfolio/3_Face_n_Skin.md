@@ -43,13 +43,10 @@ using common optical measuring systems.
 
 ### Ongoing Projects
 - Skin Age Perception (2009-)
-- Cutaneous Leishmaniasis Visual Features (2018-)
-- Facial Features (2020-)
 
 ### Clients and Collaborators
 - [Kao Corporation](https://www.kao.com/global/en/research-development/){:target="_blank"}
 - [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/){:target="_blank"}
-- [FVL Hospital](https://valledellili.org/en/){:target="_blank"}
 
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 {: .notice--warning}

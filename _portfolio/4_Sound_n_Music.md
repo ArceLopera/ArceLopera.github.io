@@ -20,6 +20,12 @@ states and task performance. The results will reveal if there are significant fe
 decision-making depending on listener profiles.
 {: .text-justify}
 
+### Publications
+3.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
+2.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
+1.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance.](http://www.iadisportal.org/digital-library/the-effect-of-background-instrumental-music-on-emotion-and-performance){:target="_blank"}
+    {: .notice--success}
+
 ### Salsa
 One of the most well-known Latin musical genres is Salsa. However, most of the research on the Salsa musical 
 genre is based on ethnomusicology, which has revealed Salsa’s complex and diverse social and cultural aspects.
@@ -29,14 +35,10 @@ and to contribute to the legitimation of local music as a valuable part of the i
 {: .text-justify}
 
 ### Publications
-8.	[Arboleda, A. M., Arroyo, C., Rodriguez, B., ***Arce-Lopera, C. A.*** (2021). A stressful task is when to turn off the music: Effect of music on task performance mediated by cognitive effort.](https://doi.org/10.1177/0305735621996027){:target="_blank"}
-7.  [***Arce-Lopera, C. A.***, Sarria, G., Mora, M. (2020). Understanding Salsa: How Computing Is Defining Latin Music.](https://doi.org/10.1145/3416967){:target="_blank"}
-6.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2019). Instrumental Music Design: Influence on Task](https://doi.org/10.4018/978-1-5225-9069-9.ch015){:target="_blank"}
-5.  [Sarria, G.M., Diaz-Cely, J., ***Arce-Lopera, C. A.*** (2019) Analyzing and Extending the Salsa Dataset.](https://doi.org/10.1109/STSIVA.2019.8730229){:target="_blank"}
-4.  [Rodriguez, B. M., ***Arce-Lopera, C. A.***, Arboleda, A. M., Diaz Cely, J. G., Correa, J., Montoya, P. (2018). The Effect of Background Instrumental Music On Emotion and Performance.](http://www.iadisportal.org/digital-library/the-effect-of-background-instrumental-music-on-emotion-and-performance){:target="_blank"}
-3.	[Sarria, G., Mora, M., ***Arce-Lopera, C. A.*** (2016). Salsa Dataset: First Salsa Music Knowledge Base.](https://doi.org/10.17230/ricercare.2016.5.5){:target="_blank"}
-2.  [Arévalo, C., Sarria, G., Mora, M., ***Arce-Lopera, C. A.***  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song.](https://doi.org/10.1109/ISM.2015.42){:target="_blank"}
-1.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
+4.  [***Arce-Lopera, C. A.***, Sarria, G., Mora, M. (2020). Understanding Salsa: How Computing Is Defining Latin Music.](https://doi.org/10.1145/3416967){:target="_blank"}
+3.  [Sarria, G.M., Diaz-Cely, J., ***Arce-Lopera, C. A.*** (2019) Analyzing and Extending the Salsa Dataset.](https://doi.org/10.1109/STSIVA.2019.8730229){:target="_blank"}
+2.	[Sarria, G., Mora, M., ***Arce-Lopera, C. A.*** (2016). Salsa Dataset: First Salsa Music Knowledge Base.](https://doi.org/10.17230/ricercare.2016.5.5){:target="_blank"}
+1.  [Arévalo, C., Sarria, G., Mora, M., ***Arce-Lopera, C. A.***  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song.](https://doi.org/10.1109/ISM.2015.42){:target="_blank"}
 {: .notice--success}
 
 ### Ongoing Projects

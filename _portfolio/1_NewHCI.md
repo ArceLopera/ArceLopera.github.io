@@ -41,7 +41,8 @@ enhance accessibility is crucial for novel interface development.
 6.  [***Arce-Lopera, C. A.***, García-Muñoz, P., Restrepo-Quiceno, S., Gómez-Marín, D., Londoño G.A. (2021). Designing Data Visualization Assistance for a Bioacoustics Labeling Software.](https://doi.org/10.1007/978-3-030-78645-8_60){:target="_blank"}
 5.  [Kassem, D., Arce-Lopera, C. (2020) Road-Condition Monitoring and Classification for Smart Cities.](https://doi.org/10.1007/978-3-030-51328-3_60){:target="_blank"}
 4.  [***Arce-Lopera, C. A.***, Jiménez, J., Montoya, C., Giraldo, J. (2019). Universal Design for Enhancing Accessibility of the Visually Impaired in Touristic Environments.](https://doi.org/10.1007/978-3-030-20227-9_48){:target="_blank"}
-2.  [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
+3.  [***Arce-Lopera, C. A.***, Salamanca García, J. M., Gomez, D. (2017). An Elastic Interface for Artistic Composition and Performance.](https://doi.org/10.1007/978-3-319-60582-1_25){:target="_blank"}
+2.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
 1.  [***Arce-Lopera, C. A.***, Kobayashi, Y., Kan, A., Komori, O., Okajima, K., Fukuda, R., Wada, Y. (2010). Tactile Sense Presentation System for the Physically-disabled based on Image Information.](https://doi.org/10.1007/978-3-030-20227-9_48){:target="_blank"}
     {: .notice--success}
 

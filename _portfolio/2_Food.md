@@ -57,7 +57,6 @@ mechanisms such as pattern and material recognition.
 
 ## Bottle Package Perception
 
-
 ### Publications
 
  3.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2020). The perceived sweetness and price of bottled drinks’ silhouettes.](https://doi.org/10.1016/j.foodqual.2019.103867){:target="_blank"}
@@ -65,7 +64,6 @@ mechanisms such as pattern and material recognition.
  1.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2015). Quantitative Analysis of Product Categorization in Soft Drinks Using Bottle Silhouettes.](https://doi.org/10.1016/j.foodqual.2015.04.006){:target="_blank"}
 {: .notice--info}
        
-
 ### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
