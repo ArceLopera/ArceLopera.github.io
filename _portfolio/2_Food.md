@@ -43,7 +43,7 @@ mechanisms such as pattern and material recognition.
 ## Vegetable Freshness Perception
 
 {% include gallery caption="Cabbage Degradation Process." %}
-### Publications
+### Selected Publications
 8.	[***Arce-Lopera, C. A.***, Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables.](https://doi.org/10.1016/j.dib.2019.105079){:target="_blank"}
 7.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2017). The French, German, and Spanish sound of eating fresh fruits and vegetables.](www.sciencedirect.com/science/article/pii/S0963996917306129?via%3Dihub){:target="_blank"}
 6.	[Okuda, S., Okajima, K., ***Arce-Lopera, C. A.*** (2015). Visual Palatability of Food Dishes in Color Appearance, Glossiness and Convexo-concave Perception Depending on Light Source.](https://www.jstage.jst.go.jp/article/jlve/39/0/39_IEIJ150000561/_article){:target="_blank"}
@@ -57,7 +57,7 @@ mechanisms such as pattern and material recognition.
 
 ## Bottle Package Perception
 
-### Publications
+### Selected Publications
 
  3.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2020). The perceived sweetness and price of bottled drinks’ silhouettes.](https://doi.org/10.1016/j.foodqual.2019.103867){:target="_blank"}
  2.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2019). Code and Data on the categorization of soft-drink bottles using image silhouettes.](https://doi.org/10.1016/j.dib.2018.12.068){:target="_blank"}
