@@ -50,7 +50,7 @@ These projects included both hardware and software development.
 {: .notice--success}
 
 ## Skin Monitoring Systems
-Facial and skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
+Skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
 tools for the automatic classification of skin conditions and diseases that may guide the presumptive diagnosis of several 
 cutaneous health problems.
 {: .text-justify}
@@ -71,7 +71,7 @@ Food quality perception is strongly related with appetite and consumption. I am 
 monitoring food quality and display systems to improve quality perception.
 {: .text-justify}
   
-#### Publications on Food Quality Monitoring Systems
+#### Selected Publications on Food Quality Monitoring Systems
 8.	[***Arce-Lopera, C. A.***, Okajima, K., Wada, Y. (2020). XYZ color data on the visual degradation of vegetables.](https://doi.org/10.1016/j.dib.2019.105079){:target="_blank"}
 7.	[Arboleda, A. M., ***Arce-Lopera, C. A.*** (2017). The French, German, and Spanish sound of eating fresh fruits and vegetables.](www.sciencedirect.com/science/article/pii/S0963996917306129?via%3Dihub){:target="_blank"}
 6.	[Okuda, S., Okajima, K., ***Arce-Lopera, C. A.*** (2015). Visual Palatability of Food Dishes in Color Appearance, Glossiness and Convexo-concave Perception Depending on Light Source.](https://www.jstage.jst.go.jp/article/jlve/39/0/39_IEIJ150000561/_article){:target="_blank"}
