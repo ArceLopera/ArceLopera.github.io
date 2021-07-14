@@ -13,7 +13,8 @@ sidebar:
     text: "Monitoring resources"
 
 ---
-
+Monitoring tools for the public sector are central for the development of sustainable and smart cities. 
+Monitoring resources enhances system performance by allocating appropriate attention to relevant processes.
 
 ### Publications
 2. [Kassem, D., Arce-Lopera, C. (2020) Road-Condition Monitoring and Classification for Smart Cities.](https://doi.org/10.1007/978-3-030-51328-3_60){:target="_blank"}
