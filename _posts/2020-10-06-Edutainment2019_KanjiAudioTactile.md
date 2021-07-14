@@ -4,10 +4,10 @@ date: 2020-10-06T12:46:30-05:00
 header:
    teaser: /assets/images/EduTech.jpg
 categories:
-  - Gaming and Entertainment
+  - Gaming
   - Education
 tags:
-  - UX Research
+  - User Performance
 ---
 
 Assistive technology in learning environments needs to foster information recall strategies as a 

@@ -4,7 +4,7 @@ date: 2019-02-01T12:34:30-04:00
 header:
    teaser: /assets/images/coke.png
 categories:
-  - Retail and Tourism
+  - Retail
 tags:
   - Food Quality Perception
 ---

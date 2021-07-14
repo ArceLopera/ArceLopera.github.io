@@ -4,7 +4,7 @@ date: 2019-09-24T12:34:30-05:00
 header:
    teaser: /assets/images/mosquito.png
 categories:
-  - Science and Healthcare
+  - Bioacoustics Monitoring Systems
 tags:
   - Novel Interfaces
   

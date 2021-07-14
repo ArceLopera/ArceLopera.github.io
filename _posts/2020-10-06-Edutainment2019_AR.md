@@ -6,8 +6,8 @@ header:
 categories:
   - Education
 tags:
-  - UX Research
-  - Novel Interfaces
+  - User Engagement
+  - XR Interfaces
 ---
 
 User engagement and information understanding was assessed for a basic electronics tutorial 
