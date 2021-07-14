@@ -49,13 +49,13 @@ These projects included both hardware and software development.
 1.   [Madrid, J.M., ***Arce-Lopera, C. A.***, Lasso, F. (2018). Biometric interface for driver’s stress detection and awareness.](https://doi.org/10.1145/3239092.3265970){:target="_blank"}
 {: .notice--success}
 
-## Facial and Skin Monitoring Systems
+## Skin Monitoring Systems
 Facial and skin perception is a crucial marker for assessing health and well-being. I have been developing computerized 
 tools for the automatic classification of skin conditions and diseases that may guide the presumptive diagnosis of several 
 cutaneous health problems.
 {: .text-justify}
 
-#### Publications on Facial and Skin Monitoring Systems
+#### Publications on Skin Monitoring Systems
 8.	 [***Arce-Lopera, C. A.***, Diaz-Cely, J., Quintero, L. (2021). Presumptive Diagnosis of Cutaneous Leishmaniasis.](http://ijmi.ir/index.php/IJMI/article/view/278){:target="_blank"}
 7.   [***Arce-Lopera, C. A.***, Igarashi, T., Okajima, K. (2014). Colorimetric Analysis of Makeup Styles and Their Relation with Visual Quality Perception of the Skin.](www.journalofvision.org/content/14/10/461.abstract?sid=889eceef-ac44-4d93-854f-3a3631be3e95){:target="_blank"}
 6.   [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Okajima, K. (2012). Image Statistics on the Age Perception of Human Skin.]( https://doi.org/10.1111/j.1600-0846.2012.00638.x){:target="_blank"}
