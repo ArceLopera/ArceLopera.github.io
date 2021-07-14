@@ -6,8 +6,7 @@ header:
 categories:
   - Award
 tags:
-  - Food Perception
-  - Vegetable Freshness Perception
+  - Food Quality Perception
 ---
 
 Travel award to attend the Pangborn Sensory Science Symposium in 2011.

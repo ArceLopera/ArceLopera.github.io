@@ -5,6 +5,7 @@ header:
    teaser: /assets/images/bird1.jpg
 categories:
   - Bioacoustics Monitoring Systems
+  - Award
 tags:
   - Novel Interfaces 
 ---

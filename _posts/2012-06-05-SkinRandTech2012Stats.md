@@ -4,7 +4,7 @@ date: 2012-06-05T12:34:30-04:00
 header:
    teaser: /assets/images/skin.jpg
 categories:
-  - Sensory Perception
+  - Skin Quality Monitoring System
 tags:
   - Skin Quality Perception
 

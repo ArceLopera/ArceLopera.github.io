@@ -4,10 +4,9 @@ date: 2012-05-21T12:34:30-04:00
 header:
    teaser: /assets/images/Strawberry.png
 categories:
-  - Sensory Perception
+  - Food Quality Monitoring Systems
 tags:
-  - Food Perception
-  - Vegetable Freshness Perception
+  - Food Quality Perception
 ---
 
 Material perception studies focus on the analysis of visual cues that may underlie the ability 
