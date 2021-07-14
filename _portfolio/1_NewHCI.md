@@ -47,5 +47,13 @@ enhance accessibility is crucial for novel interface development.
 1.  [***Arce-Lopera, C. A.***, Kobayashi, Y., Kan, A., Komori, O., Okajima, K., Fukuda, R., Wada, Y. (2010). Tactile Sense Presentation System for the Physically-disabled based on Image Information.](https://doi.org/10.1007/978-3-030-20227-9_48){:target="_blank"}
 {: .notice--success}
 
+#### Awards
+1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}
+{: .notice--success}
+
+#### Patent
+1.	[Title: VECO: Mosquito Counter System, Colombia, Nov 2019. NC2017/0012483, A01M 23/02](http://sipi.sic.gov.co/sipi/Extra/IP/Mutual/Browse.aspx?sid=637460798176151789){:target="_blank"}
+{: .notice--success}
+
 For any questions, please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 {: .notice--warning}
