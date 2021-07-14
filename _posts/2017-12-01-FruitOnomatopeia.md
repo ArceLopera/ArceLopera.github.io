@@ -6,7 +6,7 @@ header:
 categories:
   - Retail
 tags:
-  - Vegetable Freshness Perception
+  - Food Quality Perception
 
 ---
 
