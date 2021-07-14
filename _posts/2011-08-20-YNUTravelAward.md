@@ -7,11 +7,9 @@ categories:
   - Award
 tags:
   - Food Quality Perception
-  ---
+---
 
 Travel award to attend the Pangborn Sensory Science Symposium in 2011.
-
-
 
 Check out the [Conference][URL] 
 
