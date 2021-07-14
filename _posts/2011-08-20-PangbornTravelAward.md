@@ -1,6 +1,6 @@
 ---
 title: "Winner of the 2011 Pangborn Travel Award"
-date: 2011-08-20T12:34:30-05:00
+date: 2011-08-20T12:35:30-05:00
 header:
    teaser: /assets/images/award.png
 categories:
