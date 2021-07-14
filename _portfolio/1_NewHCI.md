@@ -24,10 +24,11 @@ enhance accessibility is crucial for novel interface development.
 {: .text-justify}
 
 ### Publications on XR Interfaces
-4.  [Arias, M.J, Corrales, G., ***Arce-Lopera, C. A.*** (2021). Training birdsong recognition using virtual reality.](http://www.vr-ih.com/vrih/html/EN/10.3724/SP.J.2096-5796.21.00023){:target="_blank"}
-3.  [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall.](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
-2.	[***Arce-Lopera, C. A.***, Gomez, A., Montoya, C. (2020). User Engagement for Collaborative Learning on a Mobile and Desktop Augmented Reality Application.](https://doi.org/10.1109/ICVRV47840.2019.00045){:target="_blank"}
-1.  [***Arce-Lopera, C. A.***, Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}
+5.  [Arias, M.J, Corrales, G., ***Arce-Lopera, C. A.*** (2021). Training birdsong recognition using virtual reality.](http://www.vr-ih.com/vrih/html/EN/10.3724/SP.J.2096-5796.21.00023){:target="_blank"}
+4.  [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall.](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
+3.	[***Arce-Lopera, C. A.***, Gomez, A., Montoya, C. (2020). User Engagement for Collaborative Learning on a Mobile and Desktop Augmented Reality Application.](https://doi.org/10.1109/ICVRV47840.2019.00045){:target="_blank"}
+2.  [***Arce-Lopera, C. A.***, Torres, M., Vacilescu, S. (2020). Collaborative Cognitive Training Game to Enhance Selective Sustained Attention in Preschoolers.](https://link.springer.com/chapter/10.1007%2F978-3-030-50896-8_34){:target="_blank"}
+1.  [***Arce-Lopera, C. A.***, Avendaño, G., Rodríguez, B., Victoria, D. (2018). In store shelf display technology for enhancing customer brand recognition.](https://dl.acm.org/doi/10.1145/3292147.3292186){:target="_blank"}
 {: .notice--success}
 
 ### Publications on Wearable Interfaces

@@ -4,9 +4,8 @@ date: 2017-12-01T12:34:30-04:00
 header:
    teaser: /assets/images/cabbage0h.jpg
 categories:
-  - Sensory Perception
+  - Retail
 tags:
-  - Food Perception
   - Vegetable Freshness Perception
 
 ---

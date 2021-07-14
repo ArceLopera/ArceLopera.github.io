@@ -4,10 +4,9 @@ date: 2015-10-01T12:34:30-04:00
 header:
    teaser: /assets/images/coke.png
 categories:
-  - Sensory Perception
+  - Retail
 tags:
-  - Food Perception
-  - Packaging
+  - Food Quality Perception
 ---
 
 In our daily life, we use our senses to acquire information about the objects that surround us. 

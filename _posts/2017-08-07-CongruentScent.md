@@ -4,7 +4,7 @@ date: 2017-08-07T12:34:30-04:00
 header:
    teaser: /assets/images/retail.jpg
 categories:
-  - Sensory Perception
+  - Retail
 tags:
   - Smell Perception
 ---

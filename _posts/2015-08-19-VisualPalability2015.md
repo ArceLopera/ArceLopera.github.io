@@ -4,10 +4,9 @@ date: 2015-08-19T12:34:30-04:00
 header:
    teaser: /assets/images/sushi.png
 categories:
-  - Sensory Perception
+  - Retail
 tags:
-  - Food Perception
-  - Lighting Perception
+  - Food Quality Perception
 ---
 
 This study aims to reveal visual factors which determine the visual palatability of food dishes. 

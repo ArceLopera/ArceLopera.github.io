@@ -4,9 +4,9 @@ date: 2016-12-12T12:34:30-04:00
 header:
    teaser: /assets/images/Salsa2.bmp
 categories:
-  - Sensory Perception
+  - Entertainment
 tags:
-  - Music Perception
+  - Salsa
 ---
 
 Salsa is a well-known musical genre and part of our
