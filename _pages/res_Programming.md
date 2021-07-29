@@ -2,7 +2,6 @@
 permalink: /res_Prog/
 title: "Resources - Python vs C#"
 ---
-## Main Goals
 
 ## Variables
 
@@ -136,7 +135,7 @@ Debug.Log(i[1]); // outputs b
 
 ## Iterating over the elements in a list
 
-Rust:
+Python:
 
 ```python
 i = ["a", "b", "c"];
