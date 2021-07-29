@@ -20,3 +20,6 @@ title: "Teaching"
 - 09651 - Designing with Algorithms and Lab			    (2013-02)
 - 09703 - Algorithms and Programming I 	                (2013-01)
 
+## Some Resources
+
+- [Python vs C#](../res_Prog/)
