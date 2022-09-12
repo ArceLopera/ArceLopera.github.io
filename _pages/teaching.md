@@ -23,3 +23,4 @@ title: "Teaching"
 ## Some Resources
 
 - [Python vs C#](../res_Prog/)
+- [Python Refresher](../PythonRefresher/)
