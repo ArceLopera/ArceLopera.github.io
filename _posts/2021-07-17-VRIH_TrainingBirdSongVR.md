@@ -34,5 +34,5 @@ greater duration to measure information recall and recognition mastery among use
 
 Check out the [Paper][URL]{:target="_blank"} 
 
-[URL]: http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.09.001/article.html
+[URL]: https://www.sciencedirect.com/science/article/pii/S209657962100067X
 
