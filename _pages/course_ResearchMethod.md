@@ -1,5 +1,5 @@
 ---
-permalink: /researchmethod/
+permalink: /course_ResearchMethod/
 title: "30089 - Research Methods"
 ---
 ## About
