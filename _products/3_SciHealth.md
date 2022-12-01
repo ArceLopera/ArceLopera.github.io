@@ -87,7 +87,7 @@ monitoring food quality and display systems to improve quality perception.
 
   
 ## Ongoing Projects
-- WikiAves repository enhancement (2019-)
+- [WikiAves repository enhancement (2019-)](https://wikiaves.icesi.edu.co/about)
 - Biodiversity acoustic monitoring (2018-)
 - Mosquito acoustic characterization (2015-)
 
