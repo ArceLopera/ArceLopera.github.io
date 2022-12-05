@@ -2,7 +2,9 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-## Latest Student Commentaries
+## Student Comments 
+
+Overall score of 6.8 out of 7.0 in the student evaluation.
 
 **Operating Systems - 2022-1**
 *     "Siento que aprendí bastante y me gusto mucho la metodología de la clase." 
