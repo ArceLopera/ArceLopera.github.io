@@ -2,6 +2,16 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+## Latest Student Commentaries
+
+**Operating Systems - 2022-1**
+*     "Siento que aprendí bastante y me gusto mucho la metodología de la clase." 
+*     "El mejor teacher ever"
+*     "Best teacher that i have this semester"
+*     "El mejor profesor <3"
+*     "excelente trabajo"
+
+
 ## Current Teaching
 
 **Graduate Course**
@@ -25,3 +35,4 @@ title: "Teaching"
 
 - [Python vs C#](res_Programming.md)
 - [Python Refresher](../PythonRefresher/)
+
