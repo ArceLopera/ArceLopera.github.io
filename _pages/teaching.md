@@ -4,7 +4,17 @@ title: "Teaching"
 ---
 ## Student Comments 
 
-Overall score of 6.8 out of 7.0 in the student evaluation.
+Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
+
+**Digital Communications - 2022-2**
+*     "El profesor más raro que puede existir. Pero al final cumple su misión, enseñar, un tipazo. :)" 
+*     "Excelente curso"
+
+**Operating Systems - 2022-2**
+*     "Es un profesor asombroso, es muy empático, disfrute el tiempo que lo tuve como profesor." 
+*     "Excelente profesor"
+*     "Curso muy bien estructurado, muy buen curso, se aprende a un ritmo algo rapido, pero se logra entender" 
+*     "La metodología que maneja es fantástica"
 
 **Operating Systems - 2022-1**
 *     "Siento que aprendí bastante y me gusto mucho la metodología de la clase." 
