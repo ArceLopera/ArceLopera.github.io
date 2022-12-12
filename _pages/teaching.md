@@ -2,9 +2,9 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-## Student Comments 
-
 Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
+
+## Student's Feedback 
 
 **Digital Communications - 2022-2**
 *     "El profesor más raro que puede existir. Pero al final cumple su misión, enseñar, un tipazo. :)" 
