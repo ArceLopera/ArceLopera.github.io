@@ -7,20 +7,20 @@ title: "09651 - Designing with Algorithms and Lab"
 
 This course offers all the basic elements necessary for the student to use programming as a tool for idea expression
 and prototyping of user interaction. The selected programming languages are Java + Processing to allow students to enhance 
-their understanding of OOP Concepts, multimedia manipulation tools, and advanced concepts, such as Treading and Interaction events. 
+their understanding of OOP Concepts, multimedia manipulation tools, and advanced concepts, such as threading and interaction events. 
 
 ## Schedule
 
-| Units                                               | Topics                                                                             |
-|:----------------------------------------------------|:-----------------------------------------------------------------------------------|
-| **Unit 1: Foundations' Review**                     | + Object-oriented Programming: Classes, objects, methods, Polimorfism, Inheritance |
+| Units                                               | Topics                                                                              |
+|:----------------------------------------------------|:------------------------------------------------------------------------------------|
+| **Unit 1: Foundations' Review**                     | + Object-Oriented Programming: Classes, Objects, Methods, Polymorphism, Inheritance |
 || + Class Diagrams and Documentation                  |
-| **Unit 2: Useful Libraries**                        | + Packages, interfaces and API                                                     |
+| **Unit 2: Useful Libraries**                        | + Packages, Interfaces and API                                                      |
 || + Collections and Ordering                          |
-| **Unit 3: Methods and Libraries for Multimedia**    | + Sound Processing                                                                 |
+| **Unit 3: Methods and Libraries for Multimedia**    | + Sound Processing                                                                  |
 || + Image Processing                                  |
 || + Video Processing                                  |
-| **Unit 4: Threads, Exceptions and Events**          | + Threads in Java                                                                  |
+| **Unit 4: Threads, Exceptions and Events**          | + Threads in Java                                                                   |
 || + Exception Handling                                |
 || + Events to Control Interaction                     |
 
