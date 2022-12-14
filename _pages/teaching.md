@@ -39,9 +39,9 @@ Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
 - [09734 - Digital Communications](course_DigiCom.md)         (2019-02 to 2022-02)
 - [09741 - Intelligent Environments](course_IntEnv.md)        (2014-01 to 2019-02)
 - 09753 - Computational Photography                     (2015-02 to 2019-01)
-- 09686 - Foundation on Programming for Designers 	    (2014-02)
+- [09686 - Foundation on Programming for Designers](course_FPD.md) 	    (2014-02)
 - [09651 - Designing with Algorithms and Lab](course_DAL.md)			    (2013-02)
-- 09703 - Algorithms and Programming I 	                (2013-01)
+- [09703 - Algorithms and Programming I](course_APO1.md) 	                (2013-01)
 
 ## Some Resources
 
