@@ -14,12 +14,12 @@ title: "09734 - Digital Communications"
 | Units  | Topics and Materials                                                     | 
 |:-------|:-------------------------------------------------------------------------|
 | Unit 1 | Introduction to DCS                                                      |
-|        | Group presentation - TV - Analog vs Digital                              |
+|        | Group Presentation - TV - Analog vs Digital                              |
 | Unit 2 | Source Coding; Sources of Information and Entropy; Instantenous Codes    |
-|        | Compact Codes; Huffman Coding; LZW coding; Run-length; Multimedia Coding |
+|        | Compact Codes; Huffman Coding; LZW coding; Run-Length; Multimedia Coding |
 | Unit 3 | Channel Coding; Binary Lineal Coding                                     |
 |        | Hamming Code; Checksums and CRC; Convolutional Codes                     |
-| Unit 4 | Base band Transmission - Quality metrics: Channel Capacity, S/N          |
+| Unit 4 | Base Band Transmission - Quality Metrics: Channel Capacity, S/N          |
 |        | Modulation: ASK, FSK, PSK, QAM, M-PSK, M-QAM; AWGN, OFDM                 |
 
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
