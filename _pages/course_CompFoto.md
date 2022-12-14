@@ -24,5 +24,5 @@ when implementing high-impact visual projects. This course is interdisciplinary 
 
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
-[Fundamentals of Information Theory and Coding Design (Discrete Mathematics and Its Applications)](https://www.amazon.com/-/es/gp/product/B09SM34XXM/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0){:target="_blank"}
+[Computer Vision: Algorithms and Applications](https://szeliski.org/Book/){:target="_blank"}
 
