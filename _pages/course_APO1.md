@@ -1,5 +1,5 @@
 ---
-permalink: /FPD/
+permalink: /APO_1/
 title: "09703 - Algorithms and Programming I "
 ---
 

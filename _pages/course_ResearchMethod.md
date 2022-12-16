@@ -26,5 +26,5 @@ title: "30089 - Research Methods"
  
 To access all related materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
-[Fundamentos de Metodologia de la Investigacion](https://a.co/d/c9Waz2q){:target="_blank"}
+[Fundamentos de Metodología de la Investigación](https://a.co/d/c9Waz2q){:target="_blank"}
 
