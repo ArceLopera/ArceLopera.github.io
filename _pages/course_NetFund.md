@@ -44,6 +44,9 @@ title: "09734 - Network Fundamentals"
 | 15 - 1     | Final Exam                                                  |                     |
 
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
-## Textbook
 
-[Computer Networking: A Top-Down Approach - 8th Edition](https://gaia.cs.umass.edu/kurose_ross/index.php){:target="_blank"}
+## Textbooks
+
+1. [Computer Networking: A Top-Down Approach - 8th Edition](https://gaia.cs.umass.edu/kurose_ross/index.php){:target="_blank"}
+2. [Networking all-in-one for Dummies](https://www.wiley.com/en-us/Networking+All+in+One+For+Dummies%2C+7th+Edition-p-9781119471622){:target="_blank"}
+3. [Networking Fundamentals](https://www.packtpub.com/product/networking-fundamentals/9781838643508){:target="_blank"}
