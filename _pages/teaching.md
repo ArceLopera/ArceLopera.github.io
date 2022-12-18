@@ -19,9 +19,9 @@ Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
 **Operating Systems - 2022-1**
 *     "Siento que aprendí bastante y me gusto mucho la metodología de la clase." 
 *     "El mejor teacher ever"
-*     "Best teacher that i have this semester"
+*     "Best teacher that I have this semester"
 *     "El mejor profesor <3"
-*     "excelente trabajo"
+*     "Excelente trabajo"
 
 
 ## Current Teaching
@@ -32,7 +32,7 @@ Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
 
 **Undergraduate Course**
 
-- 09734 - Network Fundamentals                                            (2023-01 to Present)
+- [09734 - Network Fundamentals](course_NetFund.md)                       (2023-01 to Present)
 - [09627 - Operating Systems](course_OS.md)                               (2020-02 to Present)
 
 ## Past Teaching
