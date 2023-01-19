@@ -44,6 +44,7 @@ title: "09734 - Network Fundamentals"
 | 14 | 2       | Exam Preparation                                            |                         |
 | 15 | 1       | Final Exam                                                  |                         |
 
+
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 
 ## Textbooks
