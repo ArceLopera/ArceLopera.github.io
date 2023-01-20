@@ -12,37 +12,37 @@ title: "09734 - Network Fundamentals"
 
 ## Schedule
 
-| Week         | Session | Topics and Materials                                        |     Notes and Exercises |
-|:---:|:------:|:--------|:------------------------------------------------------------|------------------------:|
-| 1 | 1        | Intro to Computer Networks -- Handout                       |         Book 1 Chap 1.7 |
-| 1 | 2        | Networks, protocols, and the OSI model -- Handout           | Book 1 Chap 1.1 and 1.5 |
-| 2 | 3        | 1. Physical Layer: Transmission channels -- Handout         |                         |
-| 2 | 4        | 1. Physical Layer: Wireless Nets and Topologies -- Handout  |                         |
-| 3 | 5        | 2. Data Link Layer: MAC address, Switches -- Handout        |                         |
-| 3 | 6        | Introduction to Wireshark -- Handout                        |                         |
-| 4 | 7        | 3. Network Layer: Intro and Functions -- Handout            |                         |
-| 4 | 8        | 3. Network Layer: IPv4 -- Handout                           |                         |
-| 5 | 9        | 3. Network Layer: ARP, ICMP (ping, traceroute) -- Handout   |                         |
-| 5 | 10        | 3. Network Layer: Ethernet/ARP -- Handout                   |                         |
-| 6 | 11        | 3. Network Layer: MTU and Datagram Fragmentation -- Handout |                         |
-| 6 | 12        | 3. Network Layer: IP lab -- Handout                         |                         |
-| 7 | 13        | 3. Network Layer: IPv6  -- Handout                          |                         |
-| 7 | 14        | Mid-term                                                    |                         |
-| 8 | 15        | 4. Transport Layer: UDP -- Handout                          |                         |
-| 8 | 16        | 4. Transport Layer: UDP Lab -- Handout                      |                         |
-| 9 | 17        | 4. Transport Layer: TCP -- Handout                          |                         |
-| 9 | 18        | 4. Transport Layer: TCP Lab -- Handout                      |                         |
-| 10 | 19       | 4. Transport Layer: UDP sockets -- Handout                  |                         |
-| 10 | 20       | 4. Transport Layer: TCP sockets -- Handout                  |                         |
-| 11 | 21       | 7. Application Layer : Introduction -- Handout              |                         |
-| 11 | 22       | 7. Application Layer : Provisioning DHCP -- Handout         |                         |
-| 12 | 23       | 7. Application Layer : Provisioning DNS -- Handout          |                         |
-| 12 | 24       | HTTP, HTTPS  -- Handout                                     |                         |
-| 13 | 25       | HTTP Lab                                                    |                         |                
-| 13 | 26       | SSH                                                         |                         |
-| 14 | 27       | SMTP                                                        |                         |
-| 14 | 28       | Exam Preparation                                            |                         |
-| 15 | 29       | Final Exam                                                  |                         |
+| Session | Topics                                        |     Previous Reading | Activity|
+|:------:|:--------|:------------------------------------------------------------|------------------------:|
+| S - 1        | Intro to Computer Networks                      |         Book 1 Chap 1.7 |
+| S - 2        | Networks, protocols, and the OSI model          | Book 1 Chap 1.1 and 1.5 |
+| S - 3        | 1. Physical Layer: Transmission channels        |       Book 3 Chap 8     |
+| 4        | 1. Physical Layer: Wireless Nets and Topologies -- Handout  |                         |
+| 5        | 2. Data Link Layer: MAC address, Switches -- Handout        |                         |
+| 6        | Introduction to Wireshark -- Handout                        |                         |
+| 7        | 3. Network Layer: Intro and Functions -- Handout            |                         |
+| 8        | 3. Network Layer: IPv4 -- Handout                           |                         |
+| 9        | 3. Network Layer: ARP, ICMP (ping, traceroute) -- Handout   |                         |
+| 10        | 3. Network Layer: Ethernet/ARP -- Handout                   |                         |
+| 11        | 3. Network Layer: MTU and Datagram Fragmentation -- Handout |                         |
+| 12        | 3. Network Layer: IP lab -- Handout                         |                         |
+| 13        | 3. Network Layer: IPv6  -- Handout                          |                         |
+| 14        | Mid-term                                                    |                         |
+| 15        | 4. Transport Layer: UDP -- Handout                          |                         |
+| 16        | 4. Transport Layer: UDP Lab -- Handout                      |                         |
+| 17        | 4. Transport Layer: TCP -- Handout                          |                         |
+| 18        | 4. Transport Layer: TCP Lab -- Handout                      |                         |
+| 19       | 4. Transport Layer: UDP sockets -- Handout                  |                         |
+| 20       | 4. Transport Layer: TCP sockets -- Handout                  |                         |
+| 21       | 7. Application Layer : Introduction -- Handout              |                         |
+| 22       | 7. Application Layer : Provisioning DHCP -- Handout         |                         |
+| 23       | 7. Application Layer : Provisioning DNS -- Handout          |                         |
+| 24       | HTTP, HTTPS  -- Handout                                     |                         |
+| 25       | HTTP Lab                                                    |                         |                
+| 26       | SSH                                                         |                         |
+| 27       | SMTP                                                        |                         |
+| 28       | Exam Preparation                                            |                         |
+| 29       | Final Exam                                                  |                         |
 
 
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
