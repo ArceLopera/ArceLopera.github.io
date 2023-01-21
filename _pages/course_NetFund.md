@@ -27,7 +27,7 @@ title: "09734 - Network Fundamentals"
 |      S - 11      | 3. Network Layer: MTU and Datagram Fragmentation |                                                  ||
 |      S - 12      | 3. Network Layer: IP lab                         |                                                  ||
 |      S - 13      | 3. Network Layer: IPv6                           |                                                  ||
-|      S - 14      | ==Mid-term==                                     |                                                  ||
+|      S - 14      | <mark>Mid-term</mark>                            |                                                  ||
 |      S - 15      | 4. Transport Layer: UDP                          |                                                  ||
 |      S - 16      | 4. Transport Layer: UDP Lab                      |                                                  ||
 |      S - 17      | 4. Transport Layer: TCP                          |                                                  ||
