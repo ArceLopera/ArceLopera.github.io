@@ -16,9 +16,9 @@ title: "09734 - Network Fundamentals"
 |:----------------:|:-------------------------------------------------|:-----------------------------------------------------|-----------------:|
 |      S - 1       | Intro to Computer Networks                       | Book 1 - Chap 1.7                                    | Internet history |
 |      S - 2       | Networks, protocols, and the OSI model           | Book 1 - Chap 1.1 and 1.5                            |      Study Guide |
-|      S - 3       | 1. Physical Layer: Transmission channels         | Book 3 - Chap 8                                      |      Study Guide |
+|      S - 3       | 1. Physical Layer: Transmission channels         | Book 1 - Chap 1.2; Book 3 - Chap 8                   |      Study Guide |
 |      S - 4       | 1. Physical Layer: Wireless Nets and Topologies  | Book 3 - Chap 4 & 5                                  |      Study Guide |
-|      S - 5       | 2. Data Link Layer: MAC address, Switches        | Book 1 - Chap 5.1; Book 3 - Chap 2 pp 50-53 & Chap 6 |      Study Guide |
+|      S - 5       | 2. Data Link Layer: MAC address, Switches        | Book 1 - Chap 6.1; Book 3 - Chap 2 pp 50-53 & Chap 6 |      Study Guide |
 |      S - 6       | Introduction to Wireshark                        | Book 1 - Wireshark Intro                             |        Lab Guide |
 |      S - 7       | 3. Network Layer: Intro and Functions            |                                                      ||
 |      S - 8       | 3. Network Layer: IPv4                           |                                                      ||
@@ -49,6 +49,6 @@ To access all related exercises (with proposed solutions), code and materials fo
 
 ## Textbooks
 
-1. [Computer Networking: A Top-Down Approach - 8th Edition](https://gaia.cs.umass.edu/kurose_ross/index.php){:target="_blank"}
-2. [Networking all-in-one for Dummies](https://www.wiley.com/en-us/Networking+All+in+One+For+Dummies%2C+7th+Edition-p-9781119471622){:target="_blank"}
-3. [Networking Fundamentals](https://www.packtpub.com/product/networking-fundamentals/9781838643508){:target="_blank"}
+Book 1. [Computer Networking: A Top-Down Approach - 8th Edition](https://gaia.cs.umass.edu/kurose_ross/index.php){:target="_blank"}
+Book 2. [Networking all-in-one for Dummies](https://www.wiley.com/en-us/Networking+All+in+One+For+Dummies%2C+7th+Edition-p-9781119471622){:target="_blank"}
+Book 3. [Networking Fundamentals](https://www.packtpub.com/product/networking-fundamentals/9781838643508){:target="_blank"}
