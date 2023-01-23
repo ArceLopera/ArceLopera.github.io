@@ -50,5 +50,7 @@ To access all related exercises (with proposed solutions), code and materials fo
 ## Textbooks
 
 [Book 1. Computer Networking: A Top-Down Approach - 8th Edition](https://gaia.cs.umass.edu/kurose_ross/index.php){:target="_blank"}
+
 [Book 2. Networking all-in-one for Dummies](https://www.wiley.com/en-us/Networking+All+in+One+For+Dummies%2C+7th+Edition-p-9781119471622){:target="_blank"}
+
 [Book 3. Networking Fundamentals](https://www.packtpub.com/product/networking-fundamentals/9781838643508){:target="_blank"}
