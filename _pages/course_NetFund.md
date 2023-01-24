@@ -9,7 +9,6 @@ title: "09734 - Network Fundamentals"
 - To use UDP and TCP sockets to develop software that interchange messages between remote components and use diagnostic tools to analyze communication problems.
 - To explain the protocols used for data communication at the application layer.
 
-
 ## Schedule
 
 |     Session      | Topics                                                          | Previous Reading                                           |         Activity |
