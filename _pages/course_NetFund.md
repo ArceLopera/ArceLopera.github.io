@@ -7,7 +7,7 @@ title: "09734 - Network Fundamentals"
 - To explain the OSI model, its structure and each layer's functions.
 - To explain the basic concepts and architecture of networking communications.
 - To use UDP and TCP sockets to develop software that interchange messages between remote components and use diagnostic tools to analyze communication problems.
-- To explain the protocols used for data communication at the application layer.
+- To explain the protocols used for data communication at the application layer. 
 
 ## Schedule
 
@@ -25,7 +25,7 @@ title: "09734 - Network Fundamentals"
 |      S - 10      | 3. Data Link Layer: Ethernet/ARP lab                            | Book 1 - Wireshark Ethernet_ARP                            |      Lab 3 Guide |
 |      S - 11      | 3. Network Layer: IP, MTU and Datagram Fragmentation            | Book 1 - Chap 4.3.1; Book 3 - pp 279                       |      Study Guide |
 |      S - 12      | 3. Network Layer: IP lab                                        | Book 1 - Wireshark IP                                      |      Lab 4 Guide |
-|      S - 13      | 3. Network Layer: IPv6                                          | Book 3 - Chap 12                                           |      Study Guide |
+|      S - 13      | 3. Network Layer: IP v6                                         | Book 3 - Chap 12                                           |      Study Guide |
 |      S - 14      | Mid-term                                                        |                                                            |                  |
 |      S - 15      | 4. Transport Layer: UDP                                         | Book 1 - Chap 3.1 - 3.3                                    |      Study Guide |
 |      S - 16      | 4. Transport Layer: UDP Lab                                     | Book 1 - Wireshark UDP                                     |      Lab 5 Guide |
