@@ -20,7 +20,7 @@ title: "09734 - Network Fundamentals"
 |      S - 5       | 2. Data Link Layer: MAC address, Switches                       | Book 1 - Chap 6.1; Book 3 - Chap 2 pp 50-53 & Chap 6       |      Study Guide |
 |      S - 6       | Introduction to Wireshark                                       | Book 1 - Wireshark Intro                                   |      Lab 1 Guide |
 |      S - 7       | 3. Network Layer: Intro and Functions                           | Book 1 - Chap 4.1                                          |      Study Guide |
-|      S - 8       | 3. Network Layer: IPv4 addresses                                | Book 2 - pp 112-124                                        |      Study Guide |
+|      S - 8       | 3. Network Layer: IPv4 addresses, Subnetting, NAT               | Book 2 - pp 112-124                                        |      Study Guide |
 |      S - 9       | 3. DL and Network Layer: ARP, Ethernet, ICMP (ping, traceroute) | Book 1 - pp 480- 490 & Chap 5.6 & Wireshark ICMP           |      Lab 2 Guide |
 |      S - 10      | 3. Data Link Layer: Ethernet/ARP lab                            | Book 1 - Wireshark Ethernet_ARP                            |      Lab 3 Guide |
 |      S - 11      | 3. Network Layer: IP, MTU and Datagram Fragmentation            | Book 1 - Chap 4.3.1; Book 3 - pp 279                       |      Study Guide |
