@@ -13,11 +13,11 @@ Would gladly play soccer but not watch it on TV.
 
 ### Executive Summary
 <div style="text-align: justify"> 
-Senior software engineer, researcher and tenured full professor in the Faculty of Engineering at 
+Senior software engineer, researcher and tenured professor in the Faculty of Engineering at 
 <a href="https://www.icesi.edu.co/">Universidad Icesi</a>. 
 Leader of the Sensory Perception Engineering Laboratory (SPE Lab) part of the i2T Research group at Universidad Icesi. 
 The SPE Lab consolidates findings from human sensory perception into system and product design. 
-For more details, <a href="https://drive.google.com/file/d/19bg5SpUwBFV-e7M-ZGf3LXEgbk6Cl989/view?usp=sharing" > here is a full publication list</a>.
+For more details, <a href="https://drive.google.com/file/d/181POp5HORpTeD4wDtwTgDrQZ-1gn0pGz/view?usp=share_link" > here is a full publication list</a>.
 </div>
 
 ### Research Overview
