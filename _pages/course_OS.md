@@ -9,7 +9,6 @@ title: "09627 - Operating Systems"
 - To describe the main factors associated with OS performance.
 - To develop scripts (in Powershell and Bash) to monitor OS events.
 
-
 ## Schedule
 
 | Week - Day | Topics and Materials                                                                                                                                       |                                                                                                         Notes  and Exercises |

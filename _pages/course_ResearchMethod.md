@@ -9,20 +9,20 @@ title: "30089 - Research Methods"
 
 ## Schedule
 
-| Units  | Topics and Materials                  | 
-|:-------|:--------------------------------------|
-| Unit 1 | Research Problem Definition           |
-|        | Objectives, Justification y Viability |
-| Unit 2 | Theoretical Framework                 |
-|        | Selection and Synthesis               |
-| Unit 3 | Research Design                       |
-|        | Scope and Hypothesis                  |
-| Unit 4 | Data Recollection                     |
-|        | Sample Selection                      |
-| Unit 5 | Data Analysis - Statistics            |
-|        | Hypothesis Testing                    |
-| Unit 7 | Research Report                       |
-|        | Formatting Guidelines                 |
+| Units  | Topics and Materials                                                                                                           | 
+|:-------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Unit 1 | Research Problem Definition                                                                                                    |
+|        | [Objectives, Justification y Viability](https://drive.google.com/file/d/1EXqwNHD0PWaKRxD7U4Ph9qSrFStalZGR/view?usp=share_link) |
+| Unit 2 | Theoretical Framework                                                                                                          |
+|        | Selection and Synthesis                                                                                                        |
+| Unit 3 | Research Design                                                                                                                |
+|        | Scope and Hypothesis                                                                                                           |
+| Unit 4 | Data Recollection                                                                                                              |
+|        | Sample Selection                                                                                                               |
+| Unit 5 | Data Analysis - Statistics                                                                                                     |
+|        | Hypothesis Testing                                                                                                             |
+| Unit 7 | Research Report                                                                                                                |
+|        | Formatting Guidelines                                                                                                          |
  
 To access all related materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
