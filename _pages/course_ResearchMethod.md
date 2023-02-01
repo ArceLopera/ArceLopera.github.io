@@ -16,11 +16,11 @@ title: "30089 - Research Methods"
 | Unit 2 | Theoretical Framework                                                                                                                    |
 |        | Selection and Synthesis - [Handout](https://drive.google.com/file/d/1quNlMQV3wqQBEgnqIe8_BcXmcwG_mtKw/view?usp=share_link)               |
 | Unit 3 | Research Design                                                                                                                          |
-|        | Scope and Hypothesis - [Handout](https://drive.google.com/file/d/1TcOW6SCrUQyO9hRviMlpH7qQ9xwK8CA5/view?usp=share_link)                                                                                                       |
+|        | Scope and Hypothesis - [Handout](https://drive.google.com/file/d/1TcOW6SCrUQyO9hRviMlpH7qQ9xwK8CA5/view?usp=share_link)                  |
 | Unit 4 | Data Recollection                                                                                                                        |
 |        | Sample Selection                                                                                                                         |
 | Unit 5 | Data Analysis - Statistics                                                                                                               |
-|        | Hypothesis Testing                                                                                                                       |
+|        | Hypothesis Testing         - [Handout](https://drive.google.com/file/d/1KLWpjcp4nyrw9-xdY81tNiRDTimpxX0M/view?usp=share_link)            |
 | Unit 7 | Research Report                                                                                                                          |
 |        | Formatting Guidelines                                                                                                                    |
  
