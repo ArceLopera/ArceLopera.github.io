@@ -22,7 +22,7 @@ title: "30089 - Research Methods"
 | Unit 5 | Data Analysis - Statistics                                                                                                               |
 |        | Hypothesis Testing         - [Handout](https://drive.google.com/file/d/1KLWpjcp4nyrw9-xdY81tNiRDTimpxX0M/view?usp=share_link)            |
 | Unit 7 | Research Report                                                                                                                          |
-|        | Formatting Guidelines                                                                                                                    |
+|        | Formatting Guidelines      - [Handout](https://drive.google.com/file/d/1tTl9yjiNnwxHO7ea-ZDJ66_uxRbGOUEP/view?usp=sharing)               |
  
 To access all related materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
