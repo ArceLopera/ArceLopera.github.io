@@ -9,20 +9,20 @@ title: "30089 - Research Methods"
 
 ## Schedule
 
-| Units  | Topics and Materials                                                                                                                     | 
-|:-------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| Unit 1 | Research Problem Definition                                                                                                              |
-|        | Objectives, Justification y Viability - [Handout](https://drive.google.com/file/d/1EXqwNHD0PWaKRxD7U4Ph9qSrFStalZGR/view?usp=share_link) |
-| Unit 2 | Theoretical Framework                                                                                                                    |
-|        | Selection and Synthesis - [Handout](https://drive.google.com/file/d/1quNlMQV3wqQBEgnqIe8_BcXmcwG_mtKw/view?usp=share_link)               |
-| Unit 3 | Research Design                                                                                                                          |
-|        | Scope and Hypothesis - [Handout](https://drive.google.com/file/d/1TcOW6SCrUQyO9hRviMlpH7qQ9xwK8CA5/view?usp=share_link)                  |
-| Unit 4 | Data Recollection                                                                                                                        |
-|        | Sample Selection                                                                                                                         |
-| Unit 5 | Data Analysis - Statistics                                                                                                               |
-|        | Hypothesis Testing         - [Handout](https://drive.google.com/file/d/1KLWpjcp4nyrw9-xdY81tNiRDTimpxX0M/view?usp=share_link)            |
-| Unit 7 | Research Report                                                                                                                          |
-|        | Formatting Guidelines      - [Handout](https://drive.google.com/file/d/1tTl9yjiNnwxHO7ea-ZDJ66_uxRbGOUEP/view?usp=sharing)               |
+| Units  | Topics and Materials                                                                                                                                                                                     | Homework|
+|:-------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------||
+| Unit 1 | Research Problem Definition                                                                                                                                                                              ||
+|        | Objectives, Justification y Viability - [Handout](https://drive.google.com/file/d/1EXqwNHD0PWaKRxD7U4Ph9qSrFStalZGR/view?usp=share_link)                                                                 ||
+| Unit 2 | Theoretical Framework                                                                                                                                                                                    ||
+|        | Selection and Synthesis - [Handout](https://drive.google.com/file/d/1quNlMQV3wqQBEgnqIe8_BcXmcwG_mtKw/view?usp=share_link)                                                                               ||
+| Unit 3 | Research Design                                                                                                                                                                                          ||
+|        | Scope and Hypothesis - [Handout](https://drive.google.com/file/d/1TcOW6SCrUQyO9hRviMlpH7qQ9xwK8CA5/view?usp=share_link)                                                                                  ||
+| Unit 4 | Data Recollection                                                                                                                                                                                        ||
+|        | Sample Selection                                                                                                                                                                                         ||
+| Unit 5 | Data Analysis - Statistics                                                                                                                                                                               ||
+|        | Hypothesis Testing         - [Handout](https://drive.google.com/file/d/1KLWpjcp4nyrw9-xdY81tNiRDTimpxX0M/view?usp=share_link)                                                                            ||
+| Unit 7 | Research Report            - [How to write a World-Class Paper](https://docs.google.com/presentation/d/1aCpSMV6HSYLtqj5gOdZV1DpeVITj_Cf_/edit?usp=sharing&ouid=116350019185901190272&rtpof=true&sd=true) ||
+|        | Formatting Guidelines      - [Handout](https://drive.google.com/file/d/1tTl9yjiNnwxHO7ea-ZDJ66_uxRbGOUEP/view?usp=sharing)                                                                               ||
  
 To access all related materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook
