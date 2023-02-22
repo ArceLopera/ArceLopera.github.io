@@ -40,4 +40,5 @@ Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
 
 - [Python vs C#](res_Programming.md)
 - [Python Refresher](../PythonRefresher/)
+- [Powershell](../PowershellWeb/)
 
