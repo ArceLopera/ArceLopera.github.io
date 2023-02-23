@@ -1,6 +1,6 @@
 ---
-title: "Research on Demand"
-excerpt: "Development of research activities"
+title: "R&D on Demand"
+excerpt: "Research and development of MVP prototypes"
 header:
   image: /assets/images/cosmetics.bmp
   teaser: /assets/images/skin.jpg
