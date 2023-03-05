@@ -16,6 +16,8 @@ Designing and implementing Computer Vision systems, multimodal feedback systems,
 bring technology-based innovative solutions to the retail and tourism industries. 
 I specialize in food visual quality perception and measuring customer engagement with multimodal 
 stimuli but lately, I have been developing interfaces to enhance user accessibility and performance.
+
+
 {: .text-justify}
 
 ### Latest Publications
