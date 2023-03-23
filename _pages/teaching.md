@@ -27,7 +27,7 @@ Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
 ## Teaching 
 
 - [30089 - Research Methods](course_ResearchMethod.md)                  (2014-01 to 2023-01)
-- [09734 - Network Fundamentals](course_NetFund.md)                     (2023-01 to 2023-01)
+- [09734 - Network Fundamentals](course_NetFund.md)                     (2023-01)
 - [09627 - Operating Systems](course_OS.md)                             (2020-02 to 2023-01)
 - [09734 - Digital Communications](course_DigiCom.md)                   (2019-02 to 2022-02)
 - [09741 - Intelligent Environments](course_IntEnv.md)                  (2014-01 to 2019-02)
