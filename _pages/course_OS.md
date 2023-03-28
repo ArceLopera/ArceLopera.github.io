@@ -7,7 +7,7 @@ title: "09627 - Operating Systems"
 - To identify the main responsibilities of an Operating System (OS). 
 - To explain the fundamental principles, strategies and algorithms associated to the main responsibilities of an OS.
 - To describe the main factors associated with OS performance.
-- To develop scripts (in Powershell and Bash) to monitor OS events.
+- To develop scripts (in [Powershell](https://arcelopera.github.io/PowershellWeb/){:target="_blank"} and Bash) to monitor OS events.
 
 ## Schedule
 
@@ -40,6 +40,7 @@ title: "09627 - Operating Systems"
 | 13 - 1     | Virtual Machines -- Handout                                                                                                                                |                                                                                                                              |
 
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
-## Textbook
+## Textbook and Resources
 
 [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html){:target="_blank"}
+[Powershell Refresher](https://arcelopera.github.io/PowershellWeb/){:target="_blank"}
