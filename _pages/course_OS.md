@@ -42,5 +42,5 @@ title: "09627 - Operating Systems"
 To access all related exercises (with proposed solutions), code and materials for this course please [contact me](https://forms.gle/63NYpG1siX6E4KGj8){:target="_blank"}.
 ## Textbook and Resources
 
-[Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html){:target="_blank"}
-[Powershell Refresher](https://arcelopera.github.io/PowershellWeb/){:target="_blank"}
++ [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/index.html){:target="_blank"}
++ [Powershell Refresher](https://arcelopera.github.io/PowershellWeb/){:target="_blank"}
