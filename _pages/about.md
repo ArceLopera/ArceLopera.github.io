@@ -23,7 +23,8 @@ For more details, <a href="https://drive.google.com/file/d/1MWmJbVHdLEPpsAEKh4eY
 
 <div style="text-align: justify"> 
 Use engineering measuring and modeling techniques to predict high-order cognitive processes. 
-Research includes developments in cognitive science, sensory perception, experimental psychology, 
+
+Research projects includes developments in cognitive science, sensory perception, experimental psychology, 
 machine learning, artificial sensing, product design, and consumer behavior analysis. 
 
 Current research explores the design, implementation, and evaluation of novel systems in the intersection 
