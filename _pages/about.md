@@ -13,8 +13,8 @@ Would gladly play soccer but not watch it on TV.
 
 ### Executive Summary
 <div style="text-align: justify"> 
-Software engineer, researcher and independent R&D industry consultant His work consolidate findings from human sensory 
-perception into system and product design. 
+Software engineer, researcher and independent R&D industry consultant. 
+His work consolidate findings from human sensory perception into system and product design. 
 For more details, <a href="https://drive.google.com/file/d/1MWmJbVHdLEPpsAEKh4eYnjSDmsbhY2qW/view?usp=share_link" > here is a full publication list</a>.
 </div>
 
