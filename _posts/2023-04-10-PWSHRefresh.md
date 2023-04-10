@@ -15,6 +15,4 @@ As a PowerShell enthusiast, I understand the importance of having a reliable and
 With easy-to-follow tutorials and exercises, you'll quickly refresh your PowerShell knowledge and improve your scripting abilities.
 As we all know, PowerShell is a crucial tool for IT professionals and system administrators. 
 It allows us to automate tasks, manage servers, and streamline workflows, saving us time and increasing productivity.
- 
-#PowerShell #ScriptingSkills #RefresherCourse #FreeLearning #OnlineCourses #ITtraining #IT #automation #productivity
 
