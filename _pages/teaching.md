@@ -43,7 +43,7 @@ This approach can result in personalized learning experiences that optimize lear
 
 ## Student's Feedback 
 
-Overall score of 6.8 out of 7.0 in the student evaluation. (Last 2 years)
+Overall score of 6.8 out of 7.0 in the student evaluation.
 
 **Digital Communications - 2022-2**
 *     "El profesor más raro que puede existir. Pero al final cumple su misión, enseñar, un tipazo. :)":"The weirdest professor that can exist. But in the end, he fulfills his mission, to teach, a great guy. :)"
