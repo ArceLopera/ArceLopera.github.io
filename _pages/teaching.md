@@ -5,19 +5,22 @@ title: "Teaching"
 I believe that the future of education is intrinsically linked to technology. After spending many years in academia, 
 I have come to realize that traditional education, which relies heavily on rote memorization, standardized testing, 
 and one-size-fits-all approaches, is becoming increasingly obsolete. Today's learners require a 
-different set of skills, knowledge, and experiences to succeed in the fast-paced, ever-changing global landscape. {: .text-justify}
+different set of skills, knowledge, and experiences to succeed in the fast-paced, ever-changing global landscape. 
+{: .text-justify}
 
 Technology can provide:
 1. Access to educational resources and opportunities that were once out of reach for many learners. 
 2. Personalized learning experiences that cater to individual needs, preferences, and goals. 
 3. Immersive and interactive learning environments that engage and motivate learners. 
-4. Facilitate collaboration and networking, creating global communities of learners who share ideas and learn from each other.{: .text-justify}
+4. Facilitate collaboration and networking, creating global communities of learners who share ideas and learn from each other.
+5. {: .text-justify}
 
 In my teaching methodology, I prioritize the creation of adaptable learning approaches that empower learners to manage their education 
 on their own terms. These approaches allow learners to progress through coursework at their own pace and in the location
 and time of their choosing. Whether developing online courses or in-person, experiential learning opportunities, I believe 
 that giving students control over their educational experience is essential for effective learning. 
-This approach can result in personalized learning experiences that optimize learning outcomes.{: .text-justify}
+This approach can result in personalized learning experiences that optimize learning outcomes.
+{: .text-justify}
 
 ## University Teaching
 

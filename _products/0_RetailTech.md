@@ -15,7 +15,8 @@ sidebar:
 Designing and implementing Computer Vision systems, multimodal feedback systems, and display technology
 bring technology-based innovative solutions to the retail and tourism industries. 
 I specialize in food visual quality perception and measuring customer engagement with multimodal 
-stimuli but lately, I have been developing interfaces to enhance user accessibility and performance. {: .text-justify}
+stimuli but lately, I have been developing interfaces to enhance user accessibility and performance. 
+{: .text-justify}
 
 ### Latest Publications
 11. [***Arce-Lopera, C. A.***, Victoria, D., Ospina, R. (2021). Augmented Reality Game for Brand Recognition and Recall](https://doi.org/10.1145/3411763.3451792){:target="_blank"}
