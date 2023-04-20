@@ -22,6 +22,13 @@ that giving students control over their educational experience is essential for 
 This approach can result in personalized learning experiences that optimize learning outcomes.
 {: .text-justify}
 
+## Free Online Resources
+
+- [Python vs C#](res_Programming.md)
+- [Python Refresher](../PythonRefresher/)
+- [Powershell Refresher](../PowershellWeb/)
+- [日本語っぽい](../NihongoPoi/)
+
 ## University Teaching
 
 - [30089 - Research Methods](course_ResearchMethod.md)                  (2014-01 to 2023-01)
@@ -33,13 +40,6 @@ This approach can result in personalized learning experiences that optimize lear
 - [09686 - Foundation on Programming for Designers](course_FPD.md) 	    (2014-02)
 - [09651 - Designing with Algorithms and Lab](course_DAL.md)			(2013-02)
 - [09703 - Algorithms and Programming I](course_APO1.md) 	            (2013-01)
-
-## Free Online Resources
-
-- [Python vs C#](res_Programming.md)
-- [Python Refresher](../PythonRefresher/)
-- [Powershell](../PowershellWeb/)
-- [日本語っぽい](../NihongoPoi/)
 
 ## Student's Feedback 
 
