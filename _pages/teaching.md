@@ -13,7 +13,7 @@ Technology can provide:
 2. Personalized learning experiences that cater to individual needs, preferences, and goals. 
 3. Immersive and interactive learning environments that engage and motivate learners. 
 4. Facilitate collaboration and networking, creating global communities of learners who share ideas and learn from each other.
-5. {: .text-justify}
+{: .text-justify}
 
 In my teaching methodology, I prioritize the creation of adaptable learning approaches that empower learners to manage their education 
 on their own terms. These approaches allow learners to progress through coursework at their own pace and in the location
