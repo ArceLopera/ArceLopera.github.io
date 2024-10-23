@@ -43,8 +43,6 @@ evaluating user performance.
 1.  [***Arce-Lopera, C. A.***, Gomez, D. (2013). Design of a Customizable Timbre Space Synthesizer](https://scholar.google.com/scholar?q=Gomez%2C%20D.%2C%20Vega%2C%20R.%2C%20Arce-Lopera%2C%20C.%3A%20Design%20of%20a%20customizable%20timbre%20space%20synthesizer.%20In%3A%20Proceedings%20of%20CMMR%202013%2C%20pp.%20817%E2%80%93824%20%282013%29){:target="_blank"}
 {: .notice--success}
     
-### Ongoing Projects
-- Kanji writing game for mobile (2020-)
 
 ### Clients and Collaborators
 - [Smurfit Kappa](https://www.smurfitkappa.com/co){:target="_blank"}

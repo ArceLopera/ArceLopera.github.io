@@ -41,8 +41,6 @@ using common optical measuring systems.
 1.  [***Arce-Lopera, C. A.***, Igarashi, T., Nakao, K., Kashimoto, A., Okajima, K. (2009). Luminance Distribution Effects on Human Skin Perception.](https://www.ieice.org/ken/paper/200906161aN4/){:target="_blank"}
 {: .notice--success}
 
-### Ongoing Projects
-- Skin Age Perception (2009-)
 
 ### Clients and Collaborators
 - [Kao Corporation](https://www.kao.com/global/en/research-development/){:target="_blank"}

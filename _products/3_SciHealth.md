@@ -35,6 +35,12 @@ and conditions.
 1.	[Winners: 2019 Humboldt Connection Prize](https://www.goethe.de/prj/hya/es/inh/conexion-humboldt.html){:target="_blank"}
 {: .notice--success}
 
+#### Projects
+1.	[Monac](https://www.instagram.com/p/B1otYBihkaI/){:target="_blank"}
+2.	[BioViz](https://www.instagram.com/p/B1hKW4-lDri/){:target="_blank"}
+3.  [WikiAves repository enhancement](https://wikiaves.icesi.edu.co/about){:target="_blank"}
+{: .notice--success}
+
 ## Biometric Monitoring Systems
 I have developed various research projects aiming at the design and development of novel interfaces such as wearable, 
 elastic, tactile, gesture-based, mobile, biometric, and/or seamless interfaces between users and computers.
@@ -84,12 +90,6 @@ monitoring food quality and display systems to improve quality perception.
 
 #### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
-
-  
-## Ongoing Projects
-- [WikiAves repository enhancement (2019-)](https://wikiaves.icesi.edu.co/about)
-- Biodiversity acoustic monitoring (2018-)
-- Mosquito acoustic characterization (2015-)
 
 ## Clients and Collaborators
 - [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}

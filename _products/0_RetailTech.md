@@ -35,13 +35,8 @@ stimuli but lately, I have been developing interfaces to enhance user accessibil
 ### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
-### Ongoing Projects
-- Computer vision system for product recognition and monitoring in supermarket shelves (2019-)
-- Multisensory smart shelves for luring customer in retail environments (2019-)
-- Trekking characterisation in Colombia (2018-)
-
 ### Clients and Collaborators
-- [Picoloro Ecoturismo](http://picoloro.co/){:target="_blank"}
+- [Picoloro Ecoturismo](https://www.facebook.com/picoloro){:target="_blank"}
 - [Musicar SAS](https://musicar.com/){:target="_blank"}
 - [Carvajal TyS](https://www.carvajaltys.com/){:target="_blank"}
 - [Smurfit Kappa](https://www.smurfitkappa.com/co){:target="_blank"}

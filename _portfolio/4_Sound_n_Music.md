@@ -41,11 +41,6 @@ and to contribute to the legitimation of local music as a valuable part of the i
 1.  [Arévalo, C., Sarria, G., Mora, M., ***Arce-Lopera, C. A.***  (2016). Towards an Efficient Algorithm to Get the Chorus of a Salsa Song.](https://doi.org/10.1109/ISM.2015.42){:target="_blank"}
 {: .notice--success}
 
-### Past Projects
-- Salsa Beat Analysis (2019-2023)
-- Bird Song Classification (2018-2023)
-- Salsa Dataset (2015-2023)
-
 ### Clients and Collaborators
 - [Musicar SAS](https://musicar.com/){:target="_blank"}
 - [Pontificia Universidad Javeriana - Cali](https://www.javerianacali.edu.co/){:target="_blank"}

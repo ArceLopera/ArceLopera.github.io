@@ -67,11 +67,6 @@ mechanisms such as pattern and material recognition.
 ### Invited Talks
 1. [***Arce-Lopera, C. A.*** (2021). Color distribution of fresh and ripe fruits.](https://youtu.be/-_Lzk4x8IcA){:target="_blank"}{: .notice--success}
 
-### Ongoing Projects
-- Ripeness estimation system for tropical fruits (2020-)
-- Light and display system for palatability enhancement of food (2019-)
-- Multicultural perception of bottle shapes (2019-)
-
 ### Clients and Collaborators
 - [Okajima Lab, Yokohama National University](http://www.okajima-lab.ynu.ac.jp/){:target="_blank"}
 - [Sensory Science Unit, NFRI](http://www.naro.affrc.go.jp/english/laboratory/nfri/organization/02food_function_division/06/index.html){:target="_blank"}

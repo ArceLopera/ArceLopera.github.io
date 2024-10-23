@@ -31,9 +31,6 @@ interaction and enhance user performance and engagement.
 1.	[***Arce-Lopera, C. A.***, Perea, A. (2019). Logic Evaluation through Game-based Assessment.](https://doi.org/10.1007/978-3-030-20476-1_25){:target="_blank"}
 {: .notice--success}
 
-### Ongoing Projects
-- Writing Training of Japanese Kanji Mobile App (2020-)
-- Teacher-Student interaction in virtual environments (2020-)
 
 ### Clients and Collaborators
 -[Biology Department, Universidad Icesi](https://www.icesi.edu.co/departamentos/departamento-de-ciencias-biologicas/){:target="_blank"}
